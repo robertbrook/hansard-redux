@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Search (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Search (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="search">Search Help</a></div>
+            <form action='search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Search</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>How we present search results</h3>
+      <p>By default, search results are presented in order of relevance: that is, an order decided by the search engine based on comparisons of similarity and frequency of the term appearing within the text contributions.</p>
+      <p>You can change the sort order by using the links to the top right of the search results: 'Most recent first' sorts the list of results to show the most recently dated contributions first and 'Earliest first' sorts to show the oldest dated contributions first.</p>
+      <p>The search engine will recognise certain sorts of queries and offer links based on them: for example - <code>Andrew Rosindell</code> will bring up a link to that MP.</p>
+      <h3>How you can use the search function on this site</h3>
+      <p>By default our search engine gives results that are somewhat fuzzy: a search for <code>nation</code> will give results that also include the word <code>nationalism</code> or the word <code>nationally</code>. You can <strong>make the search more fuzzy</strong> by using the <code>~</code> sign: for example - <code>sat~</code> will give results that include the word <code>rat</code>, <code>oats</code> and <code>cat</code>.</p>
+      <p>All searches are <strong>case-insensitive</strong>. A search for <code>LONDON</code> returns the same results as a search for <code>london</code>.</p>
+      <p>If you search for two or more words, the search engine will assume you want all of the words to be present in the results. For example, if you search for <code>NATO Spain</code> the search engine will search for text containing both words, <code>NATO</code> and <code>Spain</code>.</p>
+      <p>If you want to <strong>search for either word</strong>, you can use the word <code>OR</code> in the search text box to join the words together: for example <code>NATO OR Spain</code>. This will search for text containing either the word <code>NATO</code> or the word <code>Spain</code>.</p>
+      <p>You can <strong>exclude a term</strong> from your search using the <code>-</code> sign: for example: <code>London -Greater</code> will search for text containing the word <code>london</code> which does not contain the word <code>greater</code>.</p>
+      <p>If you want to <strong>search for a phrase</strong>, you can use the <code>+</code> sign in the search text box to join the words together: for example <code>peace+treaty</code>. This will search for text containing the word <code>peace</code>, followed afterwards by the word <code>treaty</code>.</p>
+      <p>You can search for a word marking <strong>a single missing letter</strong> with a <code>?</code>: for example - <code>l?nch</code> will give results that include the word <code>lunch</code>, <code>lynch</code> or <code>linch</code>.</p>
+      <p><strong>Multiple missing letters</strong> can be marked with a <code>*</code>: for example - <code>dev*nt</code> will give results that include the word <code>devrient</code>, <code>development</code> or <code>deviant</code>.</p>
+      <p>The search engine can recognise a standard <strong>Hansard reference</strong>, such as: <code>HC Deb 19 July 1982 vol 28 cc58-9W</code> and will take you straight to where the reference points to, if we have the data.</p>
+      <h3>Faceted search</h3>
+      <p>Where available, a link to "Filter results by speaker or house" will be shown. Using the links provided, you can build a search query as you go: you can add or remove 'facets' - and the search results will be updated to take account of them. You can also bookmark a faceted search result set.</p>
+      <p>Faceted search allows complex queries to be built up without requiring complex search forms. Facets that lead to empty result sets are not shown.</p>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
