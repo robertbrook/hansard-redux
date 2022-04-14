@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Credits (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Credits (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="search">Search Help</a></div>
+            <form action='search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Credits</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>Code: <a href="http://visiblered.com/">Visible Red</a>, Moving Flow. Database: <a href="http://www.mysql.com/">MySQL</a>. Web server: <a href="http://www.apache.org/">Apache</a>. Application server: <a href="http://mongrel.rubyforge.org/">Mongrel</a>. Code framework: <a href="http://www.rubyonrails.org/">Ruby on Rails</a>. Source code control: <a href="http://subversion.tigris.org/">Subversion</a>. Search engine: <a href="http://lucene.apache.org/">Lucene</a>, <a href="http://lucene.apache.org/solr/">Solr</a>. Development platform: <a href="http://www.apple.com/macosx/">Mac OS X</a> and <a href="http://www.ubuntu.com/">Ubuntu</a>. Speaker names and constituencies: <a href="http://www.histparl.ac.uk/">The History of Parliament Trust</a>. Source code: <a href="http://code.google.com/p/hansard/downloads/list">available as compressed Ruby on Rails application</a>. XML data files: <a href="http://www.hansard-archive.parliament.uk/">available as compressed files</a>.</p>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
