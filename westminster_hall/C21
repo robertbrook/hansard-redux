@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Westminster Hall Sittings in the 21st century (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Westminster Hall Sittings in the 21st century (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Westminster Hall Sittings in the 21st century</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <div id='timeline'>
+        <table class="timeline">
+          <tbody class="timeline-body">
+            <tr class="timeline-header-row">
+              <td colspan="12" align="center" class="timeline_header">
+                
+              </td>
+            </tr>
+            <tr class="timeline-navigation-row">
+              <td align="center" class="timeline_nav">
+              <a href="/westminster_hall/C20" rel="prev nofollow">20th century</a>
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" onclick="location.href='/westminster_hall/2000s'">
+                <a href="/westminster_hall/2000s"><img alt="" class="timeline_bar" height="39" src="/images/dot.gif" width="5" /><img alt="" class="timeline_bar" height="40" src="/images/dot.gif" width="5" /><img alt="" class="timeline_bar" height="17" src="/images/dot.gif" width="5" />
+                </a>
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_block" nowrap="nowrap" valign="bottom" >
+                
+                
+              </td>
+              <td class="timeline_nav">
+              22nd century
+              </td>
+            </tr>
+            <tr class="timeline-caption-row">
+              <td>
+              </td>
+              <td class="timeline_date" valign="top"><a href="/westminster_hall/2000s">2000s</a></td>
+              <td class="timeline_date" valign="top">2010s</td>
+              <td class="timeline_date" valign="top">2020s</td>
+              <td class="timeline_date" valign="top">2030s</td>
+              <td class="timeline_date" valign="top">2040s</td>
+              <td class="timeline_date" valign="top">2050s</td>
+              <td class="timeline_date" valign="top">2060s</td>
+              <td class="timeline_date" valign="top">2070s</td>
+              <td class="timeline_date" valign="top">2080s</td>
+              <td class="timeline_date" valign="top">2090s</td>
+              <td>
+              </td>
+            </tr>
+            <tr class="timeline-summary-row">
+              <td colspan="12" align="center" class="timeline_title">21st century
+              </td>
+            </tr>
+          </tbody>
+          </table>
+      </div>
+      <form action='http://hansard.millbanksystems.com/search' id='timeline-search' method='post' rel='search'>
+        <input size='24' title='Access key: T' accesskey='t' name='query' id='timeline-search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='hidden' name='century' value='C21'>
+        <input type='submit' value='Search in this period' >
+      </form>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
