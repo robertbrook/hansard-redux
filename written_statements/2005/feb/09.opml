@@ -1,0 +1,31 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Written Statement of 9 February 2005</title>
+    <dateCreated>Wed, 09 Feb 2005 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2593601'>
+      <outline id='2593603' text='' title='Asian Tsunami' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/written_statements/2005/feb/09/asian-tsunami'></outline>
+      <outline id='2593603' text='Asian Tsunami'>
+        
+      </outline>
+    </outline>
+    <outline id='2593614'>
+      <outline id='2593615' text='' title='Submarines: Decommissioning' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/written_statements/2005/feb/09/submarines-decommissioning'></outline>
+      <outline id='2593615' text='Submarines: Decommissioning'>
+        
+      </outline>
+    </outline>
+    <outline id='2593617'>
+      <outline id='2593618' text='' title='BNFL' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/written_statements/2005/feb/09/bnfl'></outline>
+      <outline id='2593618' text='BNFL'>
+        
+      </outline>
+    </outline>
+  </body>
+</opml>

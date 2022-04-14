@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Written Statement of 7 February 2005</title>
+    <dateCreated>Mon, 07 Feb 2005 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2593647'>
+      <outline id='2593648' text='' title='Reserve Forces' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/written_statements/2005/feb/07/reserve-forces'></outline>
+      <outline id='2593648' text='Reserve Forces'>
+        
+      </outline>
+    </outline>
+  </body>
+</opml>

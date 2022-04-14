@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>London Underground (Hansard, 14 July 2003)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK, Commons Written Statements sitting' name='keywords' />
+    <meta content='London Underground (Hansard, 14 July 2003)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='sitting-decade' href='/sittings/2000s'>
+          2000s
+        </a>
+         &rarr;
+        <a class='sitting-year' href='/sittings/2003'>
+          2003
+        </a>
+         &rarr;
+        <a class='sitting-month' href='/sittings/2003/jul'>
+          July 2003
+        </a>
+         &rarr;
+        <a class='sitting-day' href='/sittings/2003/jul/14'>
+          14 July 2003
+        </a>
+
+        &rarr;
+                <a href='/sittings/2003/jul/14#written_statements' rel='directory up'>
+          Written Statements (Commons)
+        </a>
+         &rarr;
+        <a href="/written_statements/2003/jul/14/transport">TRANSPORT</a>
+
+      </div>
+      <h1 class='title'>London Underground</h1>
+    </div>
+    <div class='commons-written-statements-sitting' id='content'>
+      
+      <cite class='section'>HC Deb 14 July 2003 vol 409 c1WS</cite>
+      <a class='permalink column-permalink' id='column_1ws' title='Col. 1WS &mdash; HC Deb 14 July 2003 vol 409 c1WS' name='column_1ws' href='#column_1ws' rel='bookmark'>1WS</a>
+      <div class='hentry member_contribution' id='S6CV0409P0-02223'>
+        <a name='S6CV0409P0_20030714_CWS_1'>  </a>
+        <blockquote cite='http://hansard.millbanksystems.com/people/mr-alistair-darling' class='contribution_text entry-content'>
+          <a class='speech-permalink permalink' href='#S6CV0409P0_20030714_CWS_1' title='Link to this speech by Mr Alistair Darling' rel='bookmark'>&sect;</a>
+          <cite class='member author entry-title'><a href="/people/mr-alistair-darling" title="Mr Alistair Darling">The Secretary of State for Transport (Mr. Alistair Darling)</a></cite>
+          <p class="first-para" id="S6CV0409P0-02223">In my written statement of 4 June I said that I intended to transfer London Underground to Transport for London on or about 15 July, subject to the passage of the <a href="/bills/railways-and-transport-safety-bill">Railways and Transport Safety Bill</a> which was then before Parliament. The <a href="/bills/railways-and-transport-safety-bill">Railways and Transport Safety Bill</a> received Royal Assent on 10 July.</p><p id="S6CV0409P0-02224">I have accordingly approved, with amendments, the transfer scheme for the transfer of London Underground Limited from London Regional Transport to Transport for London that London Regional Transport sealed and submitted to me on 4 June. The London Underground will transfer to Transport for London on 15 July 2003.</p><p id="S6CV0409P0-02225">This transfer will give effect to the wish of Parliament originally set out in the <a href="/acts/greater-london-authority-act-1999">Greater London Authority Act 1999</a>. It will transfer all of London Regional Transport's remaining property, rights and liabilities to Transport for London. I intend to wind up London Regional Transport shortly afterwards.</p>
+        </blockquote>
+      </div>
+      <ol class='xoxo'>
+        
+      </ol>
+      
+      <div id='section-navigation'>        <div id='previous-section'>Back to
+        <a href='/written_statements/2003/jul/14/transport' rel='prev'>
+          TRANSPORT
+        </a>
+        </div>
+        <div id='next-section'>Forward to
+        <a href='/written_statements/2003/jul/14/crossrail' rel='next'>
+          Crossrail
+        </a>
+        </div>
+</div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
