@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Revenue Act 1903 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Revenue Act 1903 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='r'>
+          Acts (R)
+        </a>
+
+      </div>
+      <h1 class='title'>Revenue Act 1903</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='r#Revenue Act'>
+          [23 other Acts called <q>Revenue Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1904/feb/23/customs-certificates-for-treacle-used#S4V0130P0_19040223_HOC_31">Customs Certificates for Treacle used for Feeding Stuffs.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1904-02-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/may/07/sugar#S4V0188P0_19080507_HOC_379">SUGAR.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-05-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/may/26/sugar#S4V0189P0_19080526_HOC_319">SUGAR.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-05-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1909/sep/24/clause-64-duty-on-motor-spirit#S5CV0011P0_19090924_HOC_46">CLAUSE 64.&#x2014;(Duty on Motor Spirit.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1909-09-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1909/oct/29/clause-85-duty-on-motor-spirit#S5CV0012P0_19091029_HOC_14">CLAUSE 85.&#x2014;(Duty on Motor Spirit.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1909-10-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1918/jun/03/clause-18-molasses-used-as-food-for-stock#S5CV0106P0_19180603_HOC_373">CLAUSE 18.&#x2014;(Molasses Used as Food for Stock.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1918-06-03</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

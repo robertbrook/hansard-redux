@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>National Heritage Act 2002 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the National Heritage Act 2002 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>National Heritage Act 2002</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='n#National Heritage Act'>
+          [7 other Acts called <q>National Heritage Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/2002/may/01/royal-assent#S6CV0384P0_20020501_HOC_98">ROYAL ASSENT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>2002-05-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2002/jul/24/historic-environment#S5LV0638P0_20020724_LWA_36">Historic Environment</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-07-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2002/jul/24/a-force-for-our-future#S6CV0389P2_20020724_CWA_296">"A Force for Our Future"</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-07-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2002/dec/02/underwater-archaeology#S6CV0395P2_20021202_CWA_433">Underwater Archaeology</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-12-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2002/dec/10/wrecks#S6CV0396P0_20021210_CWA_435">Wrecks</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-12-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2003/may/15/statutory-instruments#S6CV0405P0_20030515_CWA_189">Statutory Instruments</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2003-05-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2004/may/20/public-bodies-funding#S6CV0421P2_20040520_CWA_56">Public Bodies (Funding)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2004-05-20</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

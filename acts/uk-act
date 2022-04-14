@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>UK Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the UK Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='u'>
+          Acts (U)
+        </a>
+
+      </div>
+      <h1 class='title'>UK Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1993/oct/11/personal-data-protection-ecc-report#S5LV0549P0_19931011_HOL_86">Personal Data Protection: ECC Report</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1993-10-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1994/jun/14/merchant-shipping-salvage-and-pollution#S5LV0555P0_19940614_HOL_358">Merchant Shipping (Salvage and Pollution) Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-06-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1997/feb/17/social-security-administration-fraud-bill#S5LV0578P0_19970217_HOL_94">Social Security Administration (Fraud) Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1997-02-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1998/jun/25/gibraltar-fishing-incursions#S5LV0591P0_19980625_LWA_34">Gibraltar: Fishing Incursions</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1998-06-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1998/jul/20/branded-goods#S6CV0316P0_19980720_CWA_250">Branded Goods</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1998-07-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1998/oct/28/power-to-change-titles#S5LV0593P0_19981028_HOL_633">POWER TO CHANGE TITLES</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1998-10-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2001/jul/09/freedom-of-information-act-implementation#S5LV0626P0_20010709_LWA_46">Freedom of Information Act: Implementation</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2001-07-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/2002/jan/23/disability-discrimination-amendment-bill#S5LV0630P0_20020123_HOL_138">Disability Discrimination (Amendment) Bill [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2002-01-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/2002/mar/19/freedom-of-information#S6CV0382P0_20020319_CWA_63">Freedom of Information</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-03-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/2003/mar/14/equality-bill-hl#S5LV0645P0_20030314_HOL_139">Equality Bill [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2003-03-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/2005/mar/17/gender-recognition-approved-countries#S5LV0670P0_20050317_HOL_130">Gender Recognition (Approved Countries and Territories) Order 2005</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2005-03-17</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

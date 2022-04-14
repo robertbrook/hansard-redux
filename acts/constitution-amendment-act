@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Constitution Amendment Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Constitution Amendment Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='c'>
+          Acts (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Constitution Amendment Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='c#Constitution Amendment Act'>
+          [4 other Acts called <q>Constitution Amendment Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1932/jun/17/dominions-office#S5CV0267P0_19320617_HOC_65">DOMINIONS OFFICE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1932-06-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1958/jan/30/constitution#S5CV0581P0_19580130_HOC_36">Constitution</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1958-01-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1958/feb/18/rhodesia-and-nyasaland-electoral-bill#S5CV0582P0_19580218_HOC_406">RHODESIA AND NYASALAND ELECTORAL BILL</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1958-02-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1959/mar/24/unrest-in-nyasaland#S5LV0215P0_19590324_HOL_178">UNREST IN NYASALAND</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1959-03-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1959/may/15/nyasaland-church-of-scotland#S5CV0605P0_19590515_HOC_25">NYASALAND (CHURCH OF SCOTLAND)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1959-05-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1971/dec/01/rhodesia#S5CV0827P0_19711201_HOC_475">RHODESIA</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1971-12-01</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

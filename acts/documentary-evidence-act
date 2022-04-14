@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Documentary Evidence Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Documentary Evidence Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='d'>
+          Acts (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Documentary Evidence Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='d#Documentary Evidence Act'>
+          [3 other Acts called <q>Documentary Evidence Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1907/jul/31/evidence-colonial-statutes-bill#S4V0179P0_19070731_HOC_529">EVIDENCE (COLONIAL STATUTES) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1907-07-31</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1915/dec/08/evidence-amendment-bill#S5LV0020P0_19151208_HOL_45">EVIDENCE (AMENDMENT) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1915-12-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1917/mar/20/army-annual-bill#S5CV0092P0_19170320_HOC_541">ARMY (ANNUAL) BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1917-03-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1918/apr/29/army-annual-bill#S5CV0105P0_19180429_HOC_378">ARMY (ANNUAL) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1918-04-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1939/mar/30/clause-1-transfer-of-scottish#S5CV0345P0_19390330_HOC_332">CLAUSE 1.&#x2014;(Transfer of Scottish Departments' functions to Secretary of State.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1939-03-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1944/aug/03/statutory-rules-and-orders-magistrates#S5CV0402P0_19440803_HOC_245">STATUTORY RULES AND ORDERS (MAGISTRATE'S DECISION)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1944-08-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1973/dec/13/northern-ireland-constitution-amendment#S5CV0866P0_19731213_HOC_513">NORTHERN IRELAND CONSTITUTION (AMENDMENT) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1973-12-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1996/jul/16/statutory-instruments-production-and#S5LV0574P0_19960716_HOL_334">Statutory Instruments (Production and Sale) Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1996-07-16</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

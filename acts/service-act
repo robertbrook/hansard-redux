@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Service Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Service Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Service Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='s#Service Act'>
+          [2 other Acts called <q>Service Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1916/jul/17/derby-scheme#S5CV0084P0_19160717_HOC_81">DERBY SCHEME.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1916-07-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1918/jun/25/statement-by-chief-secretary#S5CV0107P0_19180625_HOC_355">STATEMENT BY CHIEF SECRETARY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1918-06-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1919/mar/31/naval-military-and-air-force-service#S5CV0114P0_19190331_HOC_342">NAVAL, MILITARY, AND AIR FORCE SERVICE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1919-03-31</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1953/nov/17/navy-army-and-air-force-reserves-bill#S5CV0520P0_19531117_HOC_346">NAVY, ARMY AND AIR FORCE RESERVES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1953-11-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1960/jun/30/disabled-persons-two-seater-cars#S5CV0625P0_19600630_HOC_325">DISABLED PERSONS (TWO-SEATER CARS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1960-06-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1962/nov/09/foreign-service-mr-mcdermott#S5CV0666P0_19621109_HOC_101">FOREIGN SERVICE (MR. McDERMOTT)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1962-11-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1974/dec/02/national-health-service#S5CV0882P0_19741202_HOC_329">NATIONAL HEALTH SERVICE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1974-12-02</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

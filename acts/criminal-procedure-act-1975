@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Criminal Procedure Act 1975 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Criminal Procedure Act 1975 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='c'>
+          Acts (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Criminal Procedure Act 1975</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='c#Criminal Procedure Act'>
+          [5 other Acts called <q>Criminal Procedure Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1978/jun/29/scotland-bill#S5LV0394P0_19780629_HOL_231">SCOTLAND BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-06-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1979/nov/20/bail-etc-scotland-bill#S5LV0403P0_19791120_HOL_154">BAIL ETC. (SCOTLAND) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1979-11-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1980/feb/05/criminal-justice-scotland-bill-hl#S5LV0404P0_19800205_HOL_123">CRIMINAL JUSTICE (SCOTLAND) BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1980-02-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1982/oct/21/new-clause-w#S6CV0029P0_19821021_HOC_804">New Clause W</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1982-10-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1995/jul/05/children-scotland-bill#S5LV0565P0_19950705_HOL_447">Children (Scotland) Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1995-07-05</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

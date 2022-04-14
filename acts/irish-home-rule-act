@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Irish Home Rule Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Irish Home Rule Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='i'>
+          Acts (I)
+        </a>
+
+      </div>
+      <h1 class='title'>Irish Home Rule Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1915/feb/24/irish-police-naval-and-military-service#S5CV0070P0_19150224_HOC_327">IRISH POLICE (NAVAL AND MILITARY SERVICE) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1915-02-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1917/jul/04/clause-15-modification-of-method-of#S5CV0095P0_19170704_HOC_470">CLAUSE 15.&#x2014;(Modification of Method of Voting in Certain Constituencies.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1917-07-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1920/mar/15/government-of-ireland-bill#S5CV0126P0_19200315_HOC_241">GOVERNMENT OF IRELAND BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1920-03-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1921/aug/19/autumn-recess-1#S5LV0043P0_19210819_HOL_88">AUTUMN RECESS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1921-08-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1921/dec/15/address-in-reply-to-his-majestys-most#S5LV0048P0_19211215_HOL_11">ADDRESS IN REPLY TO HIS MAJESTY'S MOST GRACIOUS SPEECH.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1921-12-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1922/mar/21/irish-free-state-agreement-bill#S5LV0049P0_19220321_HOL_162">IRISH FREE STATE (AGREEMENT) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1922-03-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1924/oct/07/irish-free-state-confirmation-of#S5LV0059P0_19241007_HOL_14">IRISH FREE STATE (CONFIRMATION OF AGREEMENT) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1924-10-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1977/nov/30/scrutiny-of-assembly-bills#S5CV0940P0_19771130_HOC_242">SCRUTINY OF ASSEMBLY BILLS</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1977-11-30</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Whole Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Whole Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='w'>
+          Acts (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Whole Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1914/aug/04/criminal-justice-administration-bill#S5LV0017P0_19140804_HOL_438">CRIMINAL JUSTICE ADMINISTRATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1914-08-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1920/nov/23/new-clause-power-to-enforce-proper#S5CV0135P0_19201123_HOC_806">NEW CLAUSE.&#x2014;(Power to Enforce Proper Cultivation.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1920-11-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1939/dec/12/schedule#S5CV0355P0_19391212_HOC_328">SCHEDULE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1939-12-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1957/feb/26/clause-15-repeals#S5CV0565P0_19570226_HOC_398">Clause 15.&#x2014;(REPEALS.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1957-02-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1964/may/12/schedule-3-procedure-in-respect-of#S5LV0258P0_19640512_HOL_430">Schedule 3: PROCEDURE IN RESPECT OF AMALGAMATION SCHEMES MADE BY SECRETARY OF STATE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1964-05-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1965/mar/11/commons-amendments-1#S5LV0264P0_19650311_HOL_264">COMMONS AMENDMENTS</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1965-03-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1971/jun/10/industrial-relations-bill#S5LV0320P0_19710610_HOL_370">INDUSTRIAL RELATIONS BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1971-06-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1972/jul/20/clause-259#S5CV0841P0_19720720_HOC_815">Clause 259</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1972-07-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1972/oct/18/local-government-bill-1#S5LV0335P0_19721018_HOL_833">LOCAL GOVERNMENT BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1972-10-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1973/oct/22/repeals#S5CV0861P0_19731022_HOC_986">REPEALS</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1973-10-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1983/feb/03/dentists-bill-hl#S5LV0438P0_19830203_HOL_213">Dentists Bill [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1983-02-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1999/oct/25/the-transport-users-committee#S5LV0606P0_19991025_HOL_917">THE TRANSPORT USERS' COMMITTEE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1999-10-25</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

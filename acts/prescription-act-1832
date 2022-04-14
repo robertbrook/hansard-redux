@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Prescription Act 1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Prescription Act 1832 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='p'>
+          Acts (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Prescription Act 1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='p#Prescription Act'>
+          [Another Act called <q>Prescription Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1916/may/30/clause-3-power-to-court-to-suspend#S5CV0082P0_19160530_HOC_475">CLAUSE 3.&#x2014;(Power to Court to Suspend Period for Prescription Running in Certain Cases.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1916-05-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1928/mar/28/public-rights-of-way#S5CV0215P0_19280328_HOC_289">PUBLIC RIGHTS OF WAY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1928-03-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1948/feb/05/rights-of-light#S5CV0446P0_19480205_CWA_186">RIGHTS OF LIGHT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1948-02-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1959/feb/12/rights-of-light-bill-hl#S5LV0214P0_19590212_HOL_94">RIGHTS OF LIGHT BILL [H.L.]</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1959-02-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1959/mar/05/rights-of-light-bill-hl#S5LV0214P0_19590305_HOL_102">RIGHTS OF LIGHT BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1959-03-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1959/jun/19/rights-of-light-bill-lords#S5CV0607P0_19590619_HOC_18">RIGHTS OF LIGHT BILL [Lords]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1959-06-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1959/jul/16/commons-amendments#S5LV0218P0_19590716_HOL_127">COMMONS AMENDMENTS</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1959-07-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1994/may/03/prescription-act-1832#S5LV0554P0_19940503_LWA_7">PRESCRIPTION ACT 1832</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1994-05-03</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

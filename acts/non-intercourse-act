@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Non-intercourse Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Non-intercourse Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>Non-intercourse Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1809/jun/13/america#S1V0014P0_18090613_HOC_19">AMERICA.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1809-06-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1812/feb/13/mr-whitbreads-motion-for-corrbspondence#S1V0021P0_18120213_HOC_1">MR. WHITBREAD'S MOTION FOR CORRBSPONDENCE RELATING TO AMERICA.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1812-02-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1812/feb/28/orders-in-council#S1V0021P0_18120228_HOL_3">ORDERS IN COUNCIL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1812-02-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1813/feb/03/declaration-of-his-royal-highness-the#S1V0024P0_18130203_HOC_38">DECLARATION OF HIS ROYAL HIGHNESS THE PRINCE REGENT RELATIVE TO THE CAUSES AND ORIGIN OF THE WAR WITH AMERICA.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1813-02-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1831/mar/11/west-indian-trade-with-america#S3V0003P0_18310311_HOC_15">WEST INDIAN TRADE WITH AMERICA.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-03-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1831/mar/18/west-india-trade-with-america#S3V0003P0_18310318_HOC_34">WEST-INDIA TRADE WITH AMERICA.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-03-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1844/jun/13/import-duties#S3V0075P0_18440613_HOL_14">IMPORT DUTIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1844-06-13</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Proclamation Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Proclamation Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='p'>
+          Acts (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Proclamation Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1832/feb/27/tithes-ireland#S3V0010P0_18320227_HOL_24">TITHES (IRELAND).</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1832-02-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1832/jul/02/state-of-ireland#S3V0013P0_18320702_HOL_46">STATE OF IRELAND.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1832-07-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1833/feb/15/suppression-of-disturbances-ireland#S3V0015P0_18330215_HOL_8">SUPPRESSION OF DISTURBANCES (IRELAND).</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1833-02-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1833/feb/27/suppression-of-distuubances-ireland#S3V0015P0_18330227_HOC_59">SUPPRESSION OF DISTUUBANCES (IRELAND).</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1833-02-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1833/feb/28/suppression-of-disturbances-ire-land#S3V0015P0_18330228_HOC_14">SUPPRESSION OF DISTURBANCES (IRE-LAND).&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1833-02-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1833/mar/15/suppression-of-disturbances-ireland-bill#S3V0016P0_18330315_HOC_26">SUPPRESSION OF DISTURBANCES (IRELAND) BILL&#x2014;COMMITTEE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1833-03-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1833/apr/01/suppression-of-disturbances-ireland#S3V0016P0_18330401_HOL_21">SUPPRESSION OF DISTURBANCES, (IRELAND).</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1833-04-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1833/jun/21/collection-of-tithes-ireland#S3V0018P0_18330621_HOL_13">COLLECTION OF TITHES (IRELAND).</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1833-06-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1833/jul/19/church-temporalities-ireland-adjourned#S3V0019P0_18330719_HOL_21">CHURCH TEMPORALITIES (IRELAND) &#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1833-07-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1834/jul/01/state-of-ireland-during-the-month-of-may#S3V0024P0_18340701_HOL_46">STATE OF IRELAND DURING THE MONTH OF MAY, 1834.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1834-07-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1834/jul/22/supply-battle-of-navarino#S3V0025P0_18340722_HOC_111">SUPPLY&#x2014;BATTLE OF NAVARINO.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1834-07-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1834/aug/11/tithes-ireland#S3V0025P0_18340811_HOL_36">TITHES (IRELAND.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1834-08-11</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

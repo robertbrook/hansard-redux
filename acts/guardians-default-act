@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Guardians (Default) Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Guardians (Default) Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='g'>
+          Acts (G)
+        </a>
+
+      </div>
+      <h1 class='title'>Guardians (Default) Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1927/mar/29/boards-of-guardians-default-act#S5CV0204P0_19270329_HOC_463">BOARDS OF GUARDIANS (DEFAULT) ACT.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1927-03-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1927/apr/06/sir-a-chamberlains-statement#S5CV0204P0_19270406_HOC_358">SIR A. CHAMBERLAIN'S STATEMENT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1927-04-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1927/jul/14/boards-of-guardians-default-act-1926#S5CV0208P0_19270714_HOC_439">BOARDS OF GUARDIANS (DEFAULT) ACT, 1926.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1927-07-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1928/dec/18/clause-17-application-to-unions-wills#S5CV0223P0_19281218_HOC_477">CLAUSE 17.&#x2014;(Application to unions wills appointed guardians.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1928-12-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1929/feb/12/clause-1-transfer-of-functions-of-poor#S5CV0225P0_19290212_HOC_467">CLAUSE 1.&#x2014;(Transfer of functions of Poor Law authorities.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1929-02-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1929/may/01/ministry-of-health#S5CV0227P0_19290501_HOC_198">MINISTRY OF HEALTH.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1929-05-01</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

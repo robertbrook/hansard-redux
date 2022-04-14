@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Burial Grounds Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Burial Grounds Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='b'>
+          Acts (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Burial Grounds Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='b#Burial Grounds Act'>
+          [Another Act called <q>Burial Grounds Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1883/aug/15/committee#S3V0283P0_18830815_HOC_256">COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-08-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1883/aug/16/powers-and-duties-of-secretary-of-state#S3V0283P0_18830816_HOC_500">POWERS AND DUTIES OF SECRETARY OF STATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-08-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1885/apr/30/poor-law-ireland-belfast-board-of#S3V0297P0_18850430_HOC_22">POOR LAW (IRELAND) &#x2014; BELFAST BOARD OF GUARDIANS&#x2014;HOLYWOOD BURIAL GROUND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1885-04-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/apr/19/burials-act-scotland-private-cemeteries#S3V0324P0_18880419_HOC_83">BURIALS ACT (SCOTLAND)&#x2014;PRIVATE CEMETERIES COMPANIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-04-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1919/apr/01/scottish-board-of-health-bill#S5CV0114P0_19190401_HOC_370">SCOTTISH BOARD OF HEALTH BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1919-04-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1919/may/06/scottish-board-of-health-bill#S5LV0034P0_19190506_HOL_4">SCOTTISH BOARD OF HEALTH BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1919-05-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1929/apr/26/clause-1-transfer-of-functions-of-parish#S5CV0227P0_19290426_HOC_63">CLAUSE 1.&#x2014;(Transfer of functions of parish.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1929-04-26</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

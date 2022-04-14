@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>New Police Act 1829 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the New Police Act 1829 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>New Police Act 1829</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1830/dec/03/minutes#S3V0001P0_18301203_HOL_1">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1830-12-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1831/feb/11/minutes#S3V0002P0_18310211_HOC_5">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-02-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1832/feb/03/parliamentary-reform-bill-for-england#S3V0009P0_18320203_HOC_44">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;COMMITTEE&#x2014;SEVENTH DAY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-02-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1832/jul/24/new-police-act">NEW POLICE ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-07-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1833/mar/27/metropolitan-police#S3V0016P0_18330327_HOC_5">METROPOLITAN POLICE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1833-03-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1844/mar/05/the-metropolitan-police#S3V0073P0_18440305_HOC_20">THE METROPOLITAN POLICE.</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1844-03-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1866/mar/08/observations#S3V0181P0_18660308_HOC_53">OBSERVATIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1866-03-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1970/feb/18/the-police-service-1#S5LV0307P0_19700218_HOL_109">THE POLICE SERVICE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1970-02-18</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

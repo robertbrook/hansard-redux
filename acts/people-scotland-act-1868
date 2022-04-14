@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>People (Scotland) Act 1868 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the People (Scotland) Act 1868 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='p'>
+          Acts (P)
+        </a>
+
+      </div>
+      <h1 class='title'>People (Scotland) Act 1868</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1880/jun/14/minutes#S3V0252P0_18800614_HOC_4">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1880-06-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1880/jun/24/minutes#S3V0253P0_18800624_HOC_5">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1880-06-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1880/jun/25/minutes#S3V0253P0_18800625_HOC_9">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1880-06-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1880/jul/06/minutes#S3V0253P0_18800706_HOL_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1880-07-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1880/jul/08/minutes#S3V0253P0_18800708_HOL_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1880-07-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1884/jun/09/committee-progress-26th-may-sixth-night#S3V0288P0_18840609_HOC_328">COMMITTEE. [Progress 26th May.] [SIXTH NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1884-06-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1899/jul/24/agriculture-and-technical-instruction#S4V0075P0_18990724_HOC_202">AGRICULTURE AND TECHNICAL INSTRUCTION (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1899-07-24</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

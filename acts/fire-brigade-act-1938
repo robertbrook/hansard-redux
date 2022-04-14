@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Fire Brigade Act 1938 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Fire Brigade Act 1938 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='f'>
+          Acts (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Fire Brigade Act 1938</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1866/feb/16/committee#S3V0181P0_18660216_HOC_211">COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1866-02-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1929/may/07/fire-brigade-pensions-bill#S5LV0074P0_19290507_HOL_65">FIRE BRIGADE PENSIONS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1929-05-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1947/mar/27/fire-services-bill-1#S5CV0435P0_19470327_HOC_452">FIRE SERVICES BILL</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1947-03-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1947/jun/12/clause-13-transitional-provisions-1#S5CV0438P0_19470612_HOC_518">CLAUSE 13.&#x2014;(Transitional provisions.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1947-06-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1947/jun/25/fire-services-bill#S5LV0149P0_19470625_HOL_80">FIRE SERVICES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1947-06-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1950/apr/26/ilford-corporation-bill#S5CV0474P0_19500426_HOC_511">ILFORD CORPORATION BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1950-04-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1958/nov/17/factories-bill#S5CV0595P0_19581117_HOC_287">FACTORIES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1958-11-17</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

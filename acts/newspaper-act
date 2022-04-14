@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Newspaper Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Newspaper Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>Newspaper Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='n#Newspaper Act'>
+          [Another Act called <q>Newspaper Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1836/jul/18/stamp-duties#S3V0035P0_18360718_HOC_147">STAMP DUTIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1836-07-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1855/apr/23/newspaper-stamp-duties-bill#S3V0137P0_18550423_HOC_94">NEWSPAPER STAMP DUTIES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1855-04-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1869/jul/23/debate-resumed#S3V0198P0_18690723_HOC_66">DEBATE RESUMED.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1869-07-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/mar/26/post-office-rates-for-re-posted#S3V0324P0_18880326_HOC_75">POST OFFICE&#x2014;RATES FOR RE-POSTED AUSTRALIAN AND COLONIAL NEWS PAPERS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-03-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/apr/24/post-office-england-and-wales-newspaper#S3V0325P0_18880424_HOC_165">POST OFFICE (ENGLAND AND WALES) NEWSPAPER ACT&#x2014;REGISTRATION FOR POSTAGE&#x2014;"WEST LONDON ADVERTISER."</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-04-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/jun/06/committee-progress-8th-may#S3V0326P0_18880606_HOC_38">COMMITTEE. [Progress 8th May.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-06-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1904/feb/26/musical-copyright-bill#S4V0130P0_19040226_HOC_60">MUSICAL COPYRIGHT BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1904-02-26</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Registration of Titles Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Registration of Titles Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='r'>
+          Acts (R)
+        </a>
+
+      </div>
+      <h1 class='title'>Registration of Titles Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1896/jun/12/bath-estate-north-monaghan#S4V0041P0_18960612_HOC_63">BATH ESTATE, NORTH MONAGHAN.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1896-06-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1901/may/07/local-registration-of-title-ireland-act#S4V0093P0_19010507_HOC_255">LOCAL REGISTRATION OF TITLE (IRELAND) ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1901-05-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1905/jul/07/public-trustee-and-executor-bill#S4V0148P0_19050707_HOC_281">PUBLIC TRUSTEE AND EXECUTOR BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1905-07-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1909/sep/02/atkinson-estate-kings-county#S5CV0010P0_19090902_HOC_71">Atkinson Estate, King's County.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1909-09-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1912/oct/16/expieing-laws-continuance-bill#S5CV0042P0_19121016_HOC_448">EXPIEING LAWS CONTINUANCE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1912-10-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1913/aug/06/conveyancing-bill-hl#S5LV0014P0_19130806_HOL_80">CONVEYANCING BILL. [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1913-08-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1915/mar/03/registration-of-titles#S5CV0070P0_19150303_CWA_47">Registration of Titles.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1915-03-03</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

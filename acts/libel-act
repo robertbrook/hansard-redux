@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Libel Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Libel Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='l'>
+          Acts (L)
+        </a>
+
+      </div>
+      <h1 class='title'>Libel Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='l#Libel Act'>
+          [2 other Acts called <q>Libel Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1811/mar/04/informations-ex-officio-for-libel#S1V0019P0_18110304_HOL_2">INFORMATIONS EX OFFICIO FOR. LIBEL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1811-03-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1819/feb/22/libel-act-petition-of-richard-carlile">LIBEL ACT&#x2014;PETITION OF RICHARD CARLILE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1819-02-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1843/feb/13/the-law-of-libel#S3V0066P0_18430213_HOL_15">THE LAW OF LIBEL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1843-02-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1883/jul/11/committee-progress-10th-july-nineteenth#S3V0281P0_18830711_HOC_241">COMMITTEE. [Progress 10th July.] [NINETEENTH NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-07-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1891/feb/05/tithe-rent-charge-recovery-bill-no-184#S3V0350P0_18910205_HOC_165">TITHE RENT-CHARGE RECOVERY BILL.&#x2014;(No. 184.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1891-02-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1909/apr/27/post-office-vote#S5CV0004P0_19090427_HOC_252">POST OFFICE VOTE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1909-04-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1934/apr/16/incitement-to-disaffection-bill#S5CV0288P0_19340416_HOC_277">INCITEMENT TO DISAFFECTION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1934-04-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1939/feb/13/clause-4-prohibition-of-certain#S5CV0343P0_19390213_HOC_412">CLAUSE 4.&#x2014;(Prohibition of certain advertisements.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1939-02-13</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,580 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Test Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Test Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='t'>
+          Acts (T)
+        </a>
+
+      </div>
+      <h1 class='title'>Test Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1808/may/25/roman-catholic-petition#S1V0011P0_18080525_HOC_20">ROMAN CATHOLIC PETITION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1808-05-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1811/may/30/british-and-irish-militias-interchange#S1V0020P0_18110530_HOC_24">BRITISH AND IRISH MILITIAS INTERCHANGE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1811-05-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1811/jun/18/roman-catholic-petitions#S1V0020P0_18110618_HOL_16">ROMAN CATHOLIC PETITIONS.</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1811-06-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1812/feb/04/state-of-ireland-adjourned-debate#S1V0021P0_18120204_HOC_12">STATE OF IRELAND.&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1812-02-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1812/apr/21/answer-to-the-third-question-3#S1V0022P0_18120421_HOL_485">ANSWER TO THE THIRD QUESTION.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1812-04-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1812/apr/23/mr-grattans-motion-for-a-committee-on#S1V0022P0_18120423_HOC_90">MR. GRATTAN'S MOTION FOR A COMMITTEE ON THE CIVIL DISABILITIES OF THE ROMAN CATHOLICS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1812-04-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1813/feb/24/petitions-for-the-repeal-of-the-test-act">PETITIONS FOR THE REPEAL OF THE TEST ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1813-02-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1813/feb/25/mr-grattans-motion-for-a-committee-on#S1V0024P0_18130225_HOC_31">MR. GRATTAN'S MOTION FOR A COMMITTEE ON THE CLAIMS OF THE ROMAN CATHOLICS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1813-02-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1813/mar/02/mr-grattans-motion-for-a-committee-on#S1V0024P0_18130302_HOC_21">MR. GRATTAN'S MOTION FOR A COMMITTEE ON THE CLAIMS OF THE ROMAN CATHOLICS&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1813-03-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1813/mar/09/committee-on-the-state-of-the-laws#S1V0024P0_18130309_HOC_25">COMMITTEE ON THE STATE OF THE LAWS AFFECTING THE ROMAN CATHOLICS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1813-03-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1819/may/03/roman-catholic-question#S1V0040P0_18190503_HOC_18">ROMAN CATHOLIC QUESTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1819-05-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1820/jul/13/test-act">TEST ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1820-07-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1824/may/24/english-catholics-relief-bill#S2V0011P0_18240524_HOL_12">ENGLISH CATHOLICS RELIEF BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1824-05-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1827/mar/05/roman-catholic-claims#S2V0016P0_18270305_HOC_25">ROMAN CATHOLIC CLAIMS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1827-03-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1827/may/11/new-administration-test-act-supplies">NEW ADMINISTRATION&#x2014;TEST ACT&#x2014;SUPPLIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1827-05-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1827/jun/07/corporation-and-test-acts#S2V0017P0_18270607_HOC_5">Corporation And Test Acts.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1827-06-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1828/apr/17/corporation-and-test-acts-repeal-bill#S2V0018P0_18280417_HOL_8">CORPORATION AND TEST ACTS REPEAL BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1828-04-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1828/jun/10/roman-catholic-claims#S2V0019P0_18280610_HOL_15">ROMAN CATHOLIC CLAIMS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1828-06-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1830/apr/05/the-jews#S2V0023P0_18300405_HOC_53">THE JEWS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1830-04-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1830/dec/10/distress#S3V0001P0_18301210_HOL_15">DISTRESS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1830-12-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1830/dec/21/parliamentary-reform-middle-sex-petition#S3V0002P0_18301221_HOC_18">PARLIAMENTARY REFORM&#x2014;MIDDLE-SEX PETITION.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1830-12-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1831/mar/01/ministerial-plan-of-parliamentary-reform#S3V0002P0_18310301_HOC_20">MINISTERIAL PLAN OF PARLIAMENTARY REFORM.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-03-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1831/dec/17/parliamentary-reform-bill-for-england#S3V0009P0_18311217_HOC_27">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;SECOND READING&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-12-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1832/feb/27/the-navy-civil-departments-bill#S3V0010P0_18320227_HOC_10">THE NAVY CIVIL DEPARTMENTS' BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-02-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1832/mar/20/parliamentary-reform-bill-for-england#S3V0011P0_18320320_HOC_25">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;THIRD READING&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-03-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1832/apr/09/parliamentary-reform-bill-for-england#S3V0012P0_18320409_HOL_8">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1832-04-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1832/apr/10/parliamentary-reform-bill-for-england#S3V0012P0_18320410_HOL_29">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;SECOND READING&#x2014;SECOND DAY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1832-04-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1834/jun/20/admission-of-the-dissenters-to-the#S3V0024P0_18340620_HOC_17">ADMISSION OF THE DISSENTERS TO THE UNIVERSITIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1834-06-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1835/jul/03/corporation-reform-commit-tee#S3V0029P0_18350703_HOC_45">CORPORATION REFORM &#x2014; (COMMIT- TEE.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1835-07-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1836/jun/03/tithes-and-church-ireland-adjourned#S3V0034P0_18360603_HOC_4">TITHES AND CHURCH (IRELAND)&#x2014;ADJOURNED DEBATE&#x2014;THIRD DAY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1836-06-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1837/dec/04/municipal-officers-declarations#S3V0039P0_18371204_HOC_11">MUNICIPAL OFFICERS' DECLARATIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1837-12-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1840/jan/30/confidence-in-the-ministry-adjourned#S3V0051P0_18400130_HOC_15">CONFIDENCE IN THE MINISTRY&#x2014;ADJOURNED DEBATE&#x2014;(THIRD NIGHT).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1840-01-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1841/jun/11/jews-declaration#S3V0058P0_18410611_HOL_13">JEWS' DECLARATION.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1841-06-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1843/may/10/abolition-of-the-cork-laws-adjourned#S3V0069P0_18430510_HOC_14">ABOLITION OF THE CORK LAWS&#x2014;ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1843-05-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1843/may/18/parliamentary-reform#S3V0069P0_18430518_HOC_23">PARLIAMENTARY REFORM.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1843-05-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1843/may/25/oaths-in-the-universities#S3V0069P0_18430525_HOC_26">OATHS IN THE UNIVERSITIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1843-05-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1848/feb/07/disabilities-of-the-jews#S3V0096P0_18480207_HOC_13">DISABILITIES OF THE JEWS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1848-02-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1848/may/04/jewish-disabilities#S3V0098P0_18480504_HOC_25">JEWISH DISABILITIES.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1848-05-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1849/may/07/parliamentary-oaths-bill#S3V0104P0_18490507_HOC_17">PARLIAMENTARY OATHS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1849-05-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1849/jun/11/parliamentary-oaths-bill#S3V0105P0_18490611_HOC_42">PARLIAMENTARY OATHS BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1849-06-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1850/feb/27/marriages-bill#S3V0109P0_18500227_HOC_3">MARRIAGES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-02-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1850/jul/30/parliamentary-voters-ireland-bill#S3V0113P0_18500730_HOC_94">PARLIAMENTARY VOTERS (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-07-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1851/feb/04/address-in-answer-to-the-speech#S3V0114P0_18510204_HOC_10">ADDRESS IN ANSWER TO THE SPEECH.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1851-02-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1854/may/12/education-scotland-bill#S3V0133P0_18540512_HOC_12">EDUCATION (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1854-05-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1855/apr/17/supply-civil-service-estimates#S3V0137P0_18550417_HOC_35">SUPPLY&#x2014;CIVIL SERVICE ESTIMATES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1855-04-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1856/feb/07/privilege-lord-wensleydales-patent#S3V0140P0_18560207_HOL_7">PRIVILEGE&#x2014;LORD WENSLEYDALE'S PATENT&#x2014;PEERAGES FOR LIFE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1856-02-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1856/feb/22/committee-for-privileges-the-wensleydale#S3V0140P0_18560222_HOL_52">COMMITTEE FOR PRIVILEGES&#x2014;THE WENSLEYDALE PEERAGE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1856-02-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1858/apr/22/second-reading#S3V0149P0_18580422_HOL_6">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1858-04-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1858/jun/10/second-reading-1#S3V0150P0_18580610_HOC_64">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1858-06-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1859/mar/31/adjourned-debate-seventh-night#S3V0153P0_18590331_HOC_42">ADJOURNED DEBATE.&#x2014;SEVENTH NIGHT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1859-03-31</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1860/mar/22/second-reading#S3V0157P0_18600322_HOL_8">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1860-03-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1860/jun/11/withdrawal-of-the-bill#S3V0159P0_18600611_HOC_16">WITHDRAWAL OF THE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1860-06-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1861/feb/19/leave-first-reading#S3V0161P0_18610219_HOC_40">LEAVE. FIRST READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1861-02-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1862/may/13/second-reading#S3V0166P0_18620513_HOL_2">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1862-05-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1863/apr/24/second-reading#S3V0170P0_18630424_HOL_29">SECOND READING.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1863-04-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1864/mar/16/bill-18-second-reading#S3V0174P0_18640316_HOC_21">[BILL 18.] SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1864-03-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1867/apr/09/committee#S3V0186P0_18670409_HOC_109">COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-04-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1874/jul/13/second-reading-adjourned-debate-second#S3V0220P0_18740713_HOC_53">SECOND READING. ADJOURNED DEBATE. SECOND NIGHT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1874-07-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1876/mar/03/burial-services-in-parish-churchyards#S3V0227P0_18760303_HOC_38">BURIAL SERVICES IN PARISH CHURCHYARDS.&#x2014;RESOLUTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-03-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1876/may/15/law-of-burial-resolution#S3V0229P0_18760515_HOL_13">LAW OF BURIAL.&#x2014;RESOLUTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1876-05-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1877/may/07/postponement-of-orders-of-the-day#S3V0234P0_18770507_HOC_81">POSTPONEMENT OF ORDERS OF THE DAY</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1877-05-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1879/aug/06/committee-progress-5th-august#S3V0249P0_18790806_HOC_114">COMMITTEE. [Progress 5th August.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-08-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1881/aug/08/class-iv-education-science-and-art#S3V0264P0_18810808_HOC_149">CLASS IV.&#x2014;EDUCATION, SCIENCE, AND ART.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1881-08-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1882/may/01/oxford-and-cambridge-universities#S3V0268P0_18820501_HOL_9">OXFORD AND CAMBRIDGE UNIVERSITIES COMMISSION&#x2014;THE STATUTES&#x2014;RELIGIOUS TEACHING AND WORSHIP.&#x2014;OBSERVATIONS.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1882-05-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1883/mar/08/class-ii-salaries-and-expenses-of-civil#S3V0276P0_18830308_HOC_307">CLASS II.&#x2014;SALARIES AND EXPENSES OF CIVIL DEPARTMENTS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-03-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1886/may/21/second-reading-adjourned-debate#S3V0305P0_18860521_HOC_85">SECOND READING. [ADJOURNED DEBATE.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1886-05-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1891/feb/04/second-reading#S3V0349P0_18910204_HOC_4">SECOND READING.</a></td>
+          <td class='count'>7</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1891-02-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1893/aug/31/third-reading-second-night#S4V0016P0_18930831_HOC_190">THIRD READING. [SECOND NIGHT.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-08-31</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1899/jun/06/london-government-bill#S4V0072P0_18990606_HOC_325">LONDON GOVERNMENT BILL.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1899-06-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1899/jun/23/class-iv#S4V0073P0_18990623_HOC_290">Class IV.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1899-06-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1904/aug/03/class-iv#S4V0139P0_19040803_HOC_243">CLASS IV.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1904-08-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/may/11/irish-universities-bill-1#S4V0188P0_19080511_HOC_436">IRISH UNIVERSITIES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-05-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1910/mar/30/duration-of-parliament#S5CV0015P0_19100330_HOC_108">DURATION OF PARLIAMENT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1910-03-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1910/jul/27/accession-declaration-bill-2#S5CV0019P0_19100727_HOC_367">ACCESSION DECLARATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1910-07-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1911/feb/21/parliament-bill#S5CV0021P0_19110221_HOC_300">PARLIAMENT BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1911-02-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1912/may/16/second-reading-fourth-days-debate#S5CV0038P0_19120516_HOC_367">SECOND READING.&#x2014; [Fourth Day's Debate.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1912-05-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1914/apr/20/established-church-wales-bill#S5CV0061P0_19140420_HOC_372">ESTABLISHED CHURCH (WALES) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1914-04-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1917/nov/28/conscientious-objectors#S5LV0027P0_19171128_HOL_19">CONSCIENTIOUS OBJECTORS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1917-11-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1925/dec/10/tithe-bill#S5LV0062P0_19251210_HOL_43">TITHE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1925-12-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1926/mar/30/business-of-the-house-procedure#S5CV0193P0_19260330_HOC_538">BUSINESS OF THE HOUSE (PROCEDURE).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1926-03-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1937/feb/10/regency-bill#S5LV0104P0_19370210_HOL_11">REGENCY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1937-02-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1943/may/11/religious-disabilities#S5LV0127P0_19430511_HOL_26">RELIGIOUS DISABILITIES.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1943-05-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1946/jul/16/broadcasting-1#S5CV0425P0_19460716_HOC_501">BROADCASTING</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1946-07-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1954/jan/28/standing-orders-of-the-house#S5LV0185P0_19540128_HOL_34">STANDING ORDERS OF THE HOUSE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1954-01-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1963/jul/16/ecclesiastical-jurisdiction-measure-1963#S5CV0681P0_19630716_HOC_310">ECCLESIASTICAL JURISDICTION MEASURE, 1963</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1963-07-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1966/dec/19/racial-and-religious-discrimination-bill-1#S5LV0278P0_19661219_HOL_120">RACIAL AND RELIGIOUS DISCRIMINATION BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1966-12-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1977/feb/09/industry-and-society-1#S5LV0379P0_19770209_HOL_145">INDUSTRY AND SOCIETY</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1977-02-09</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

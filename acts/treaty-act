@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Treaty Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Treaty Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='t'>
+          Acts (T)
+        </a>
+
+      </div>
+      <h1 class='title'>Treaty Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1842/jul/19/minutes#S3V0065P0_18420719_HOL_1">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1842-07-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1919/oct/27/clause-1-removal-of-disqualification-on#S5CV0120P0_19191027_HOC_337">CLAUSE 1&#x2014; (Removal of Disqualification on Grounds of Sex.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1919-10-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1922/mar/08/articles-ok-agreement-for-a-treaty#S5CV0151P0_19220308_HOC_438">ARTICLES OK AGREEMENT FOR A TREATY BETWEEN GREAT BRITAIN AND IRELAND DATED THE SIXTH DAY OF DECEMBER, NINETEEN HUNDRED AND TWENTY-ONE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1922-03-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1924/mar/19/property-of-ex-enemy-aliens#S5LV0056P0_19240319_HOL_68">PROPERTY OF EX-ENEMY ALIENS.</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1924-03-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1925/mar/05/financial-arrangements-with-irish-free#S5LV0060P0_19250305_HOL_39">FINANCIAL ARRANGEMENTS WITH IRISH FREE STATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1925-03-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1926/mar/03/appeal-from-the-irish-free-state-courts#S5LV0063P0_19260303_HOL_23">APPEAL FROM THE IRISH FREE STATE COURTS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1926-03-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1927/mar/23/royal-and-parliamentary-titles-bill#S5LV0066P0_19270323_HOL_26">ROYAL AND PARLIAMENTARY TITLES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1927-03-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1931/nov/24/new-clause-saving-with-respect-to-irish#S5CV0260P0_19311124_HOC_445">NEW CLAUSE.&#x2014;(Saving with respect to Irish Free State and Northern Ireland.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1931-11-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1931/nov/26/statute-of-westminster-bill#S5LV0083P0_19311126_HOL_22">STATUTE OF WESTMINSTER BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1931-11-26</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>National Insurance Act 1967 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the National Insurance Act 1967 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>National Insurance Act 1967</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='n#National Insurance Act'>
+          [35 other Acts called <q>National Insurance Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1967/jul/27/royal-assent#S5CV0751P0_19670727_HOC_518">ROYAL ASSENT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1967-07-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1967/nov/08/family-allowances-and-national-insurance#S5CV0753P0_19671108_HOC_266">FAMILY ALLOWANCES AND NATIONAL INSURANCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1967-11-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1967/dec/07/family-allowances-and-national-insurance#S5LV0287P0_19671207_HOL_224">FAMILY ALLOWANCES AND NATIONAL INSURANCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1967-12-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1968/may/23/clause-1#S5CV0765P0_19680523_HOC_454">Clause 1.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1968-05-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1968/nov/21/industrial-injuries-colliery-workers#S5CV0773P0_19681121_HOC_380">INDUSTRIAL INJURIES (COLLIERY WORKERS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1968-11-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1969/jan/27/widows-and-retirement-pensioners#S5CV0776P0_19690127_CWA_75">Widows and Retirement Pensioners</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1969-01-27</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Scotch Crofters' Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content="List of mentions of the Scotch Crofters' Act in Parliament in the period 1803 to 2005" name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Scotch Crofters' Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/apr/11/second-reading#S3V0324P0_18880411_HOC_5">SECOND READING.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-04-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/may/01/scotland-the-highlands-and-islands#S3V0325P0_18880501_HOC_144">SCOTLAND&#x2014;THE HIGHLANDS AND ISLANDS&#x2014;BREAKDOWN OF THE CROFTERS' ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-05-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/nov/22/bill-382-second-reading#S3V0330P0_18881122_HOC_186">[BILL 382.] SECOND READING.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-11-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/dec/11/class-ii-salaries-and-expenses-of-civil#S3V0331P0_18881211_HOC_175">CLASS II.&#x2014;SALARIES AND EXPENSES OF CIVIL DEPARTMENTS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-12-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1890/may/02/allotments-act-1887-amendment-bill-no-147#S3V0344P0_18900502_HOC_136">ALLOTMENTS ACT (1887) AMENDMENT BILL.&#x2014;(No. 147.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1890-05-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1892/feb/22/leave-first-reading#S4V0001P0_18920222_HOC_217">LEAVE. FIRST READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-02-22</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Summary Jurisdiction and Criminal Justice Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Summary Jurisdiction and Criminal Justice Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Summary Jurisdiction and Criminal Justice Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1948/may/25/motor-spirit-regulation-bill#S5LV0155P0_19480525_HOL_451">MOTOR SPIRIT (REGULATION) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1948-05-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1949/may/30/clause-40-amendment-and-extension-of-s-7#S5CV0465P0_19490530_HOC_531">Clause 40.&#x2014;(AMENDMENT AND EXTENSION OF S. 7 OF THE BUILDING MATERIALS HOUSING ACT, 1945.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1949-05-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1968/jan/19/house-of-commons-disqualification-act#S5CV0756P0_19680119_HOC_122">HOUSE OF COMMONS DISQUALIFICATION ACT, 1957</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1968-01-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1976/apr/13/animals-northern-ireland-order-1976#S5LV0369P0_19760413_HOL_267">ANIMALS (NORTHERN IRELAND) ORDER 1976</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1976-04-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1976/jun/11/northern-ireland-animals#S5CV0912P0_19760611_HOC_316">NORTHERN IRELAND (ANIMALS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1976-06-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1982/feb/02/house-of-commons-disqualification-act#S6CV0017P0_19820202_HOC_423">House of Commons Disqualification Act 1975</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1982-02-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1982/may/10/probation-board-northern-ireland#S6CV0023P0_19820510_HOC_353">Probation Board (Northern Ireland)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1982-05-10</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

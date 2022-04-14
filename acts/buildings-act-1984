@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Buildings Act 1984 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Buildings Act 1984 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='b'>
+          Acts (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Buildings Act 1984</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1882/feb/14/metropolis-theatres-and-music-halls#S3V0266P0_18820214_HOC_16">METROPOLIS&#x2014;THEATRES AND MUSIC HALLS&#x2014;FROTECTION FROM FIRE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1882-02-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1883/jul/02/building-act-panics-in-public-buildings#S3V0281P0_18830702_HOC_66">BUILDING ACT&#x2014;PANICS IN PUBLIC BUILDINGS&#x2014;LEGISLATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-07-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1899/mar/21/london-government-bill-1#S4V0068P0_18990321_HOC_216">LONDON GOVERNMENT BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1899-03-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1899/may/09/london-government-bill#S4V0071P0_18990509_HOC_187">LONDON GOVERNMENT BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1899-05-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1906/nov/12/land-tenure-bill#S4V0164P0_19061112_HOC_431">LAND TENURE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1906-11-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1978/apr/06/housing-financial-provisions-scotland#S5LV0390P0_19780406_HOL_97">HOUSING (FINANCIAL PROVISIONS) (SCOTLAND) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-04-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1998/apr/06/building-regulations-baa#S6CV0310P0_19980406_CWA_98">Building Regulations (BAA)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1998-04-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/2004/jun/25/sustainable-and-secure-buildings-bill#S5LV0662P0_20040625_HOL_104">Sustainable and Secure Buildings Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2004-06-25</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

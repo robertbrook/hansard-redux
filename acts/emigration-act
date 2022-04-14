@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Emigration Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Emigration Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='e'>
+          Acts (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Emigration Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1838/may/10/foreign-slave-trade#S3V0042P0_18380510_HOC_20">FOREIGN SLAVE TRADE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1838-05-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1858/jun/21/correspondence-moved-for#S3V0151P0_18580621_HOL_11">CORRESPONDENCE MOVED FOR.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1858-06-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1859/mar/01/committee-moved-for#S3V0152P0_18590301_HOC_52">COMMITTEE MOVED FOR.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1859-03-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1887/aug/08/emigration-ireland-mr-r-v-stoney-of#S3V0318P0_18870808_HOC_172">EMIGRATION (IRELAND)&#x2014;MR. R. V. STONEY, OF ROSTURK CASTLE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1887-08-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/aug/06/india-coolies-mortality-in-tea-gardens#S3V0329P0_18880806_HOC_36">INDIA&#x2014;COOLIES&#x2014;MORTALITY IN TEA GARDENS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-08-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1888/aug/10/india-inland-emigration-act-1882-the#S3V0330P0_18880810_HOC_102">INDIA&#x2014;INLAND EMIGRATION ACT, 1882&#x2014;THE COOLIES IN THE ASSAM TEA GARDENS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-08-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1913/jul/22/passenger-steamers-survey#S5CV0055P0_19130722_HOC_293">Passenger Steamers (Survey).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1913-07-22</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

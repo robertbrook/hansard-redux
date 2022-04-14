@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Northern Ireland Assembly Disqualification Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Northern Ireland Assembly Disqualification Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='n'>
+          Acts (N)
+        </a>
+
+      </div>
+      <h1 class='title'>Northern Ireland Assembly Disqualification Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='n#Northern Ireland Assembly Disqualification Act'>
+          [Another Act called <q>Northern Ireland Assembly Disqualification Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1975/dec/19/legislation#S5CV0902P0_19751219_CWA_86">LEGISLATION</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1975-12-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1982/jul/20/northern-ireland-bill-1#S5LV0433P0_19820720_HOL_250">Northern Ireland Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1982-07-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1982/jul/28/northern-ireland-assembly-day-of#S5LV0434P0_19820728_HOL_239">Northern Ireland Assembly (Day of Election) Order 1982</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1982-07-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1983/apr/12/house-of-commons-disqualification-act#S6CV0040P0_19830412_HOC_463">House of Commons Disqualification Act 1975</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1983-04-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1992/jan/16/customer-service-committees#S6CV0201P0_19920116_HOC_372">CUSTOMER SERVICE COMMITTEES</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1992-01-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1995/jul/20/disability-discrimination-bill#S5LV0566P0_19950720_HOL_266">Disability Discrimination Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1995-07-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1998/oct/19/northern-ireland-bill-2#S5LV0593P0_19981019_HOL_763">Northern Ireland Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1998-10-19</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

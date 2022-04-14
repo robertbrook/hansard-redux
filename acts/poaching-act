@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Poaching Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Poaching Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='p'>
+          Acts (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Poaching Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1862/jul/16/bill-no-203-second-reading#S3V0168P0_18620716_HOC_19">[BILL NO. 203.] SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1862-07-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1863/mar/17/select-committee-moved-for#S3V0169P0_18630317_HOC_25">SELECT COMMITTEE MOVED FOR.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1863-03-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1870/jun/10/game-laws-resolution#S3V0201P0_18700610_HOC_67">GAME LAWS.&#x2014;RESOLUTION.</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1870-06-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1871/apr/19/second-reading#S3V0205P0_18710419_HOC_21">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1871-04-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1872/feb/21/second-reading#S3V0209P0_18720221_HOC_16">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1872-02-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1876/mar/08/second-reading#S3V0227P0_18760308_HOC_10">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-03-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1881/mar/07/committee-first-night#S3V0259P0_18810307_HOC_244">COMMITTEE. [FIRST NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1881-03-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1934/apr/11/clause-1-penalties-for-illegal-trawling#S5CV0288P0_19340411_HOC_208">CLAUSE 1.&#x2014;(Penalties for illegal trawling.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1934-04-11</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

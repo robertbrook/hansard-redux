@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Enclosures Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Enclosures Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='e'>
+          Acts (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Enclosures Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='e#Enclosures Act'>
+          [Another Act called <q>Enclosures Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1893/jul/25/second-reading#S4V0015P0_18930725_HOL_6">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1893-07-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1897/apr/12/agriculture-and-industries-ireland-bill#S4V0048P0_18970412_HOC_251">AGRICULTURE AND INDUSTRIES (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1897-04-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/may/29/commons-bill#S4V0189P0_19080529_HOC_83">COMMONS BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-05-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1924/jun/02/agricultural-wages-bill#S5CV0174P0_19240602_HOC_415">AGRICULTURAL WAGES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1924-06-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1945/nov/14/hydro-electric-development-scotland#S5CV0415P0_19451114_HOC_417">HYDRO-ELECTRIC DEVELOPMENT (SCOTLAND)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1945-11-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1980/feb/05/local-government-planning-and-land-no-2#S5CV0978P0_19800205_HOC_326">LOCAL GOVERNMENT, PLANNING AND LAND (No. 2) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1980-02-05</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

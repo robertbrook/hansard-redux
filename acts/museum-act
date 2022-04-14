@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Museum Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Museum Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='m'>
+          Acts (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Museum Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1850/feb/14/public-libraries-and-museums#S3V0108P0_18500214_HOC_3">PUBLIC LIBRARIES AND MUSEUMS.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-02-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1850/mar/13/public-libraries-and-museums-bills#S3V0109P0_18500313_HOC_37">PUBLIC LIBRARIES AND MUSEUMS BILLS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-03-13</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1878/mar/18/class-1-public-works-and-buildings#S3V0238P0_18780318_HOC_161">CLASS 1.&#x2014;PUBLIC WORKS AND BUILDINGS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1878-03-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1962/may/16/ulster-museum-order-1962#S5LV0240P0_19620516_HOL_30">ULSTER MUSEUM ORDER, 1962</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1962-05-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1972/jul/18/museums#S5CV0841P0_19720718_CWA_241">Museums</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1972-07-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1972/aug/07/museums-admission-charges#S5CV0842P0_19720807_CWA_353">Museums (Admission Charges)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1972-08-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1972/sep/12/ulster-museum-free-days#S5LV0335P0_19720912_LWA_1">ULSTER MUSEUM: FREE DAYS</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1972-09-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1972/oct/26/ulster-museum#S5CV0843P0_19721026_CWA_172">Ulster Museum</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1972-10-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1973/feb/06/northern-ireland-museums#S5CV0850P0_19730206_HOC_389">NORTHERN IRELAND (MUSEUMS)</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1973-02-06</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

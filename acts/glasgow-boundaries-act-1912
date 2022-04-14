@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Glasgow Boundaries Act 1912 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Glasgow Boundaries Act 1912 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='g'>
+          Acts (G)
+        </a>
+
+      </div>
+      <h1 class='title'>Glasgow Boundaries Act 1912</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='g#Glasgow Boundaries Act'>
+          [Another Act called <q>Glasgow Boundaries Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1912/aug/07/royal-assent#S5CV0041P0_19120807_HOC_362">ROYAL ASSENT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1912-08-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1913/jan/20/national-insurance-act#S5CV0047P0_19130120_HOC_4">NATIONAL INSURANCE ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1913-01-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1916/jul/20/glasgow-town-council#S5CV0084P0_19160720_HOC_314">Glasgow Town Council.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1916-07-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1917/aug/16/glasgow-boundaries-act-1912-amend-ment">GLASGOW BOUNDARIES ACT, 1912 (AMEND MENT) ORDER CONFIRMATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1917-08-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1917/aug/17/glasgow-boundaries-act-1912-amendment">GLASGOW BOUNDARIES ACT, 1912 (AMENDMENT) ORDER CONFIRMATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1917-08-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1917/aug/21/royal-commission#S5LV0026P0_19170821_HOL_178">ROYAL COMMISSION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1917-08-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1926/dec/10/burgh-registers-scotland-bill#S5CV0200P0_19261210_HOC_304">BURGH REGISTERS (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1926-12-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1996/jul/22/glasgow-boundaries-act#S6CV0282P0_19960722_CWA_539">Glasgow Boundaries Act</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1996-07-22</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

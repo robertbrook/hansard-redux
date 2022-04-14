@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Scots Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Scots Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Scots Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1887/aug/15/scotland-orkney-and-shetland-islands#S3V0319P0_18870815_HOC_26">SCOTLAND&#x2014;ORKNEY AND SHETLAND ISLANDS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1887-08-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1934/mar/09/shops-sunday-trading-restriction-1#S5CV0286P0_19340309_HOC_133">SHOPS (SUNDAY TRADING RESTRICTION) (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1934-03-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1944/jan/25/courts-emergency-powers-scotland-bill#S5CV0396P0_19440125_HOC_364">COURTS (EMERGENCY POWERS) (SCOTLAND) BILL [Lords.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1944-01-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1953/jul/22/charitable-trusts#S5LV0183P0_19530722_HOL_119">CHARITABLE TRUSTS</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1953-07-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1959/feb/11/clause-27-interpretation#S5CV0599P0_19590211_HOC_485">Clause 27.&#x2014;(INTERPRETATION.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1959-02-11</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1972/mar/01/chairman-of-ways-and-means-conduct#S5CV0832P0_19720301_HOC_501">CHAIRMAN OF WAYS AND MEANS (CONDUCT)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1972-03-01</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

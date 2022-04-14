@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Small Tenements Rating Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Small Tenements Rating Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Small Tenements Rating Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1851/apr/02/compound-householders-bill#S3V0115P0_18510402_HOC_15">COMPOUND HOUSEHOLDERS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1851-04-02</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1851/apr/08/minutes#S3V0115P0_18510408_HOC_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1851-04-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1851/may/19/minutes#S3V0116P0_18510519_HOL_1">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1851-05-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1866/mar/12/leave-first-reading-first-night#S3V0182P0_18660312_HOC_37">LEAVE, FIRST READING. FIRST NIGHT.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1866-03-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1867/feb/15/small-tenements-rating-act">SMALL TENEMENTS RATING ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-02-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1867/feb/15/question-2#S3V0185P0_18670215_HOC_27">QUESTION.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-02-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1867/mar/26/debate-resumed#S3V0186P0_18670326_HOC_47">DEBATE RESUMED.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-03-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1881/may/23/in-the-committee#S3V0261P0_18810523_HOC_323">(In the Committee.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1881-05-23</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

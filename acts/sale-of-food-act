@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Sale of Food Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Sale of Food Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='s'>
+          Acts (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Sale of Food Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='s#Sale of Food Act'>
+          [Another Act called <q>Sale of Food Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1929/nov/05/sale-of-food-act">SALE OF FOOD ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1929-11-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1935/jul/09/weights-and-measures-bill-hl#S5LV0098P0_19350709_HOL_224">WEIGHTS AND MEASURES BILL. [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1935-07-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1938/may/27/clause-7-remedies-for-default#S5CV0336P0_19380527_HOC_149">CLAUSE 7.&#x2014;(Remedies for default.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1938-05-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1948/nov/10/food-rationing-retailerslicences#S5CV0457P0_19481110_HOC_471">FOOD RATIONING (RETAILERS'LICENCES)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1948-11-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1949/dec/15/sale-of-food-weights-and-measures#S5LV0165P0_19491215_HOL_16">SALE OF FOOD (WEIGHTS AND MEASURES: VARIATION OF FIRST SCHEDULE) REGULATIONS, 1949</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1949-12-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1968/feb/22/trade-descriptions-no-2-bill-lords#S5CV0759P0_19680222_HOC_428">TRADE DESCRIPTIONS (No. 2) BILL [Lords]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1968-02-22</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

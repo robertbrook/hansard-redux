@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Dyes Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Dyes Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='d'>
+          Acts (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Dyes Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1922/may/29/genoa-conference#S5CV0154P0_19220529_HOC_236">GENOA CONFERENCE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1922-05-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1925/mar/10/dyestuffs-act-1921#S5CV0181P0_19250310_HOC_612">DYESTUFFS ACT, 1921.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1925-03-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1925/nov/23/british-dyestuffs-corporation#S5CV0188P0_19251123_HOC_285">BRITISH DYESTUFFS CORPORATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1925-11-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1929/dec/17/dyestuffs-act#S5CV0233P0_19291217_HOC_170">DYESTUFFS ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1929-12-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1930/may/21/unemployment-and-fiscal-policy#S5LV0077P0_19300521_HOL_50">UNEMPLOYMENT AND FISCAL POLICY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1930-05-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1930/jul/22/dyestuffs-import-regulation-act#S5CV0241P0_19300722_HOC_38">DYESTUFFS (IMPORT REGULATION) ACT.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1930-07-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1932/feb/09/general-ad-valorem-customs-duty#S5CV0261P0_19320209_HOC_390">GENERAL AD VALOREM CUSTOMS DUTY.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1932-02-09</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

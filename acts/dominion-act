@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Dominion Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Dominion Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='d'>
+          Acts (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Dominion Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1876/may/26/third-reading#S3V0229P0_18760526_HOC_90">THIRD READING.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-05-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1886/apr/05/bill-151-committee#S3V0304P0_18860405_HOC_647">[BILL 151.] COMMITTEE.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1886-04-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1886/may/17/second-reading-adjourned-debate-third#S3V0305P0_18860517_HOC_55">SECOND READING. [ADJOURNED DEBATE.] [THIRD NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1886-05-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1893/may/15/committee-progress-12th-may#S4V0012P0_18930515_HOC_186">COMMITTEE. [Progress, 12th May.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-05-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1897/aug/04/south-africa-and-commercial-treaties#S4V0052P0_18970804_HOC_71">SOUTH AFRICA AND COMMERCIAL TREATIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1897-08-04</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/mar/30/government-of-ireland#S4V0187P0_19080330_HOC_365">GOVERNMENT OF IRELAND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-03-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1946/jun/26/marriage-law-anomalies#S5LV0141P0_19460626_HOL_28">MARRIAGE LAW ANOMALIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1946-06-26</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

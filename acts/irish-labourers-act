@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Irish Labourers' Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content="List of mentions of the Irish Labourers' Act in Parliament in the period 1803 to 2005" name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='i'>
+          Acts (I)
+        </a>
+
+      </div>
+      <h1 class='title'>Irish Labourers' Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1884/may/21/second-reading#S3V0288P0_18840521_HOC_46">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1884-05-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1887/sep/01/supply-civil-service-estimates#S3V0320P0_18870901_HOC_253">SUPPLY&#x2014;CIVIL SERVICE ESTIMATES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1887-09-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1892/feb/17/second-reading-1#S4V0001P0_18920217_HOC_59">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-02-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1892/feb/22/leave-first-reading#S4V0001P0_18920222_HOC_217">LEAVE. FIRST READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-02-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1893/nov/03/second-reading-adjourned-debate#S4V0018P0_18931103_HOC_77">SECOND READING. [ADJOURNED DEBATE.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-11-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1902/jun/23/irish-labourers-act-kanturk-scheme">Irish Labourers' Act&#x2014;Kanturk Scheme.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1902-06-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1906/jun/28/irish-labourers-act-returns">Irish Labourers' Act Returns.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1906-06-28</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

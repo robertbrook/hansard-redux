@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Old-Age Pension Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Old-Age Pension Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='o'>
+          Acts (O)
+        </a>
+
+      </div>
+      <h1 class='title'>Old-Age Pension Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='o#Old-Age Pension Act'>
+          [Another Act called <q>Old-Age Pension Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/oct/22/old-age-pensions#S4V0194P0_19081022_HOC_199">Old-Age Pensions.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-10-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/nov/10/old-age-pensions-in-ireland#S4V0196P0_19081110_HOC_126">Old-Age Pensions in Ireland.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-11-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/nov/19/mayo-county-council-and-old-age-pensions#S4V0196P0_19081119_HOC_315">Mayo County Council and Old-Age Pensions.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-11-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/nov/19/old-age-pensions-regulations#S4V0196P0_19081119_HOC_585">OLD-AGE PENSIONS (REGULATIONS).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-11-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/dec/14/pension-application-forms-in-cork-post#S4V0198P0_19081214_HOC_279">Pension Application Forms in Cork Post Office.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-12-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/dec/15/elementary-education-grant#S4V0198P0_19081215_HOC_152">Elementary Education Grant.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-12-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1908/dec/17/education-grant-and-the-budget#S4V0198P0_19081217_HOC_394">Education Grant and the Budget.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-12-17</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

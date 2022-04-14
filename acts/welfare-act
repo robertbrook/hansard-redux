@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Welfare Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Welfare Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='w'>
+          Acts (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Welfare Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1934/jul/17/mines-department-of-the-board-of-trade#S5CV0292P0_19340717_HOC_183">MINES DEPARTMENT OF THE BOARD OF TRADE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1934-07-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1936/dec/03/railway-freight-rebates-bill-lords#S5CV0318P0_19361203_HOC_327">RAILWAY FREIGHT REBATES BILL [Lords]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1936-12-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1936/dec/16/pit-baths#S5CV0318P0_19361216_HOC_268">PIT BATHS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1936-12-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1941/jul/09/colonial-policy#S5LV0119P0_19410709_HOL_21">COLONIAL POLICY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1941-07-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1942/nov/26/colonial-development#S5CV0385P0_19421126_HOC_420">COLONIAL DEVELOPMENT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1942-11-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1949/may/27/colonial-development-and-welfare-bill#S5CV0465P0_19490527_HOC_81">COLONIAL DEVELOPMENT AND WELFARE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1949-05-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1950/nov/09/colonial-development-and-welfare-bill#S5CV0480P0_19501109_HOC_579">COLONIAL DEVELOPMENT AND WELFARE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1950-11-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1963/may/10/under-developed-countries-living#S5CV0677P0_19630510_HOC_18">UNDER-DEVELOPED COUNTRIES (LIVING STANDARDS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1963-05-10</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Military Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Military Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='m'>
+          Acts (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Military Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1879/jun/16/supply-army-estimates-progress#S3V0246P0_18790616_HOC_93">SUPPLY&#x2014;ARMY ESTIMATES. [Progress.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-06-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1879/jun/20/power-of-commanding-officer#S3V0247P0_18790620_HOC_156">Power of Commanding Officer.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-06-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1879/jun/23/army-discipline-and-regulation-bill-bill#S3V0247P0_18790623_HOC_117">ARMY DISCIPLINE AND REGULATION BILL.&#x2014; [BILL 88.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-06-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1879/jul/10/questions-observations#S3V0248P0_18790710_HOC_305">QUESTIONS. OBSERVATIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-07-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1889/aug/06/class-iii#S3V0339P0_18890806_HOC_161">CLASS III.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1889-08-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1916/jun/01/arrests-on-farms#S5CV0082P0_19160601_HOC_207">ARRESTS ON FARMS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1916-06-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1918/jul/23/order-of-the-british-empire-mr-b-e-spoor#S5CV0108P0_19180723_CWA_35">ORDER OF THE BRITISH EMPIRE (MR. B. E. SPOOR).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1918-07-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1921/apr/21/auxiliary-forces-control#S5CV0140P0_19210421_HOC_152">AUXILIARY FORCES (CONTROL).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1921-04-21</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

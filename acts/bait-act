@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bait Act (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Bait Act in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='b'>
+          Acts (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bait Act</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1890/apr/14/class-v#S3V0343P0_18900414_HOC_228">CLASS V.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1890-04-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1890/jun/10/newfoundland#S3V0345P0_18900610_HOC_80">NEWFOUNDLAND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1890-06-10</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1890/aug/07/newfoundland#S3V0348P0_18900807_HOC_55">NEWFOUNDLAND.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1890-08-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1891/apr/27/second-reading#S3V0352P0_18910427_HOL_5">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1891-04-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1893/jun/29/motion-for-papers#S4V0014P0_18930629_HOL_17">MOTION FOR PAPERS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1893-06-29</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1904/jun/01/the-anglo-french-convention-bill#S4V0135P0_19040601_HOC_60">THE ANGLO-FRENCH CONVENTION BILL.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1904-06-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1906/nov/05/newfoundland-1#S4V0164P0_19061105_HOC_241">Newfoundland.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1906-11-05</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1906/nov/22/newfoundland-modus-vivendi#S4V0165P0_19061122_HOC_146">Newfoundland Modus Vivendi.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1906-11-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1907/feb/18/newfoundland#S4V0169P0_19070218_HOC_93">Newfoundland.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1907-02-18</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1907/mar/18/consolidated-fund-no-1-bill#S4V0171P0_19070318_HOC_429">CONSOLIDATED FUND (NO. 1) BILL.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1907-03-18</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

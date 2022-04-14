@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Elementary Act 1900 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Elementary Act 1900 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='e'>
+          Acts (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Elementary Act 1900</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='e#Elementary Act'>
+          [Another Act called <q>Elementary Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1876/jul/17/committee-progress-14th-july#S3V0230P0_18760717_HOC_119">COMMITTEE. [Progress 14th July.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-07-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1887/sep/09/consideeation#S3V0321P0_18870909_HOC_238">CONSIDEEATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1887-09-09</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1891/jul/23/report-of-amendments-1#S3V0356P0_18910723_HOL_92">REPORT OF AMENDMENTS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1891-07-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1891/jul/30/elementary-education-bill-no-432#S3V0356P0_18910730_HOC_252">ELEMENTARY EDUCATION BILL. (No. 432.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1891-07-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1902/nov/12/education-england-and-wales-bill-2#S4V0114P0_19021112_HOC_192">EDUCATION (ENGLAND AND WALES) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1902-11-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1906/aug/03/religious-instruction#S4V0162P0_19060803_HOL_54">RELIGIOUS INSTRUCTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1906-08-03</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1918/aug/01/education-bill#S5LV0031P0_19180801_HOL_88">EDUCATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1918-08-01</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

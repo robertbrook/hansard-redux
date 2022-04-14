@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Railway Act 1974 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Railway Act 1974 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='r'>
+          Acts (R)
+        </a>
+
+      </div>
+      <h1 class='title'>Railway Act 1974</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='r#Railway Act'>
+          [19 other Acts called <q>Railway Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1975/feb/25/borrowing-powers#S5CV0887P0_19750225_CWA_162">Borrowing Powers</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1975-02-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1975/nov/26/pension-funds-nationalised-industries#S5CV0901P0_19751126_CWA_325">Pension Funds (Nationalised Industries)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1975-11-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1975/dec/16/railways#S5CV0902P0_19751216_CWA_372">Railways</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1975-12-16</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1976/may/20/railways-private-sidings#S5CV0911P0_19760520_CWA_312">Railways (Private Sidings)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1976-05-20</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1976/jun/25/railway-sidings#S5CV0913P0_19760625_CWA_107">Railway Sidings</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1976-06-25</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1976/dec/01/railway-sidings#S5CV0921P0_19761201_CWA_174">Railway Sidings</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1976-12-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1977/jan/27/railways-and-national-freight-corporation#S5CV0924P0_19770127_CWA_142">Railways and National Freight Corporation</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1977-01-27</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1979/nov/08/rail-sidings-grants-international#S5CV0973P0_19791108_CWA_200">Rail Sidings Grants (International Comparisons)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1979-11-08</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Housing Act 1921 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Housing Act 1921 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='h'>
+          Acts (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Housing Act 1921</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='h#Housing Act'>
+          [67 other Acts called <q>Housing Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1921/jun/21/housing-bill#S5LV0045P0_19210621_HOL_46">HOUSING BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1921-06-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1921/jun/28/clause-11-short-title-extent-and-repeal#S5CV0143P0_19210628_HOC_298">CLAUSE 11.&#x2014;(Short Title, Extent, and Repeal.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1921-06-28</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1921/jul/01/constitution-and-proceedings-of-the-board#S5CV0143P0_19210701_HOC_215">CONSTITUTION AND PROCEEDINGS OF THE BOARD.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1921-07-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1923/jul/17/housing-etc-no-2-bill#S5LV0054P0_19230717_HOL_166">HOUSING, ETC. (No. 2) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1923-07-17</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1923/jul/19/clause-6-repeal-of-superseded-enactments#S5CV0166P0_19230719_HOC_506">CLAUSE 6.&#x2014;(Repeal of superseded enactments subject to saving for existing liabilities.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1923-07-19</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1929/dec/12/local-authorities-loans#S5CV0233P0_19291212_CWA_54">LOCAL AUTHORITIES' LOANS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1929-12-12</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1930/apr/08/housing-no-2-expenses#S5CV0237P0_19300408_HOC_360">HOUSING (No. 2) (EXPENSES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1930-04-08</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1930/apr/09/housing-no-2-expenses#S5CV0237P0_19300409_HOC_468">HOUSING (No. 2) [EXPENSES].</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1930-04-09</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

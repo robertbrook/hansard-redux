@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Dogs Regulation Act 1865 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Dogs Regulation Act 1865 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='d'>
+          Acts (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Dogs Regulation Act 1865</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1870/may/23/committee-progress-19th-may#S3V0201P0_18700523_HOC_76">COMMITTEE. [Progress 19th May.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1870-05-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1876/aug/14/question-2#S3V0231P0_18760814_HOC_17">QUESTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-08-14</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1882/jun/22/dogs-regulation-ireland-act-expenditure#S3V0271P0_18820622_HOC_25">DOGS REGULATION (IRELAND) ACT&#x2014;EXPENDITURE OF LICENCE DUTY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1882-06-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1897/feb/01/dog-licences#S4V0045P0_18970201_HOC_36">DOG LICENCES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1897-02-01</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1916/jul/06/returns-reports-c#S5LV0022P0_19160706_HOL_21">RETURNS, REPORTS, &c.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1916-07-06</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1917/aug/07/returns-reports-etc#S5LV0026P0_19170807_HOL_17">RETURNS, REPORTS, ETC.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1917-08-07</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1919/jul/28/dogs-regulation-ireland-bill#S5CV0118P0_19190728_HOC_347">DOGS REGULATION (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1919-07-28</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

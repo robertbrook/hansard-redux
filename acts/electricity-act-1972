@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Electricity Act 1972 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Electricity Act 1972 in Parliament in the period 1803 to 2005' name='description' />
+    <link href="../stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="../stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="../search">Search Help</a></div>
+            <form action='../search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="../index.html" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='acts' href='e'>
+          Acts (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Electricity Act 1972</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <p>  <a class='acts' href='e#Electricity Act'>
+          [21 other Acts called <q>Electricity Act</q>]
+        </a>
+      </p>
+      <table class='act-mentions'>
+        <theader>
+          <th>Section</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1972/mar/23/royal-assent#S5CV0833P0_19720323_HOC_297">ROYAL ASSENT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1972-03-23</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1973/jul/24/retrospective-legislation#S5CV0860P0_19730724_CWA2_215">Retrospective Legislation</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1973-07-24</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1974/jul/26/electricity-borrowing-powers#S5CV0877P0_19740726_HOC_423">ELECTRICITY (BORROWING POWERS)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1974-07-26</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/written_answers/1976/jan/30/nationalised-industries#S5CV0904P0_19760130_CWA_124">Nationalised Industries</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1976-01-30</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/lords/1976/mar/22/energy-bill-hl#S5LV0369P0_19760322_HOL_117">ENERGY BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1976-03-22</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1976/jun/15/energy-bill-lords#S5CV0913P0_19760615_HOC_226">ENERGY BILL [Lords]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1976-06-15</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1976/jun/21/energy-money#S5CV0913P0_19760621_HOC_521">ENERGY [MONEY]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1976-06-21</td>
+        </tr>
+        <tr class='act-mention'>
+          <td class='section'><a href="/commons/1978/apr/24/nuclear-safeguards-and-electricity#S5CV0948P0_19780424_HOC_257">NUCLEAR SAFEGUARDS AND ELECTRICITY (FINANCE) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-04-24</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="../typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
