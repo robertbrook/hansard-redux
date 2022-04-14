@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Corfe Castle (Dorset) 1677-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Corfe Castle. Region: Dorset. Created: 1677. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/c'>
+          Constituencies (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Corfe Castle (Dorset) 1677-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-henry-bankes">Mr Henry Bankes</a> September  9, 1780 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-nathaniel-bond">Mr Nathaniel Bond</a> February 25, 1801 - May  8, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-peter-baker-1">Mr Peter Baker</a> May  8, 1807 - February 13, 1816</li>
+        <li class='constituency-member'><a href="/people/mr-george-bankes-1">Mr George Bankes</a> February 13, 1816 - March 18, 1823</li>
+        <li class='constituency-member'><a href="/people/mr-john-bond">Mr John Bond</a> March 18, 1823 - December 31, 1828</li>
+        <li class='constituency-member'><a href="/people/mr-george-bankes-1">Mr George Bankes</a> February 13, 1826 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-nathaniel-peach">Mr Nathaniel Peach</a> February  8, 1828 - March  6, 1829</li>
+        <li class='constituency-member'><a href="/people/mr-philip-miles">Mr Philip Miles</a> March  6, 1829 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

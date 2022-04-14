@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Thirsk 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Thirsk. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/t'>
+          Constituencies (T)
+        </a>
+
+      </div>
+      <h1 class='title'>Thirsk 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-gregory-page-turner">Sir Gregory Page-Turner</a> April  3, 1784 - December 31, 1805</li>
+        <li class='constituency-member'><a href="/people/mr-william-frankland">Mr William Frankland</a> November  7, 1801 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-richard-neville">Mr Richard Neville</a> February  6, 1805 - November  4, 1806</li>
+        <li class='constituency-member'><a href="/people/sir-robert-greenhill-russell">Sir Robert Greenhill-Russell</a> November  4, 1806 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-james-topping">Mr James Topping</a> November  4, 1806 - May  9, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-william-frankland">Mr William Frankland</a> May  9, 1807 - March 31, 1815</li>
+        <li class='constituency-member'><a href="/people/sir-robert-frankland">Sir Robert Frankland</a> December 10, 1832 - 1834</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-crompton">Mr Samuel Crompton</a> March 21, 1834 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-john-bell">Mr John Bell</a> June 29, 1841 - March  5, 1851</li>
+        <li class='constituency-member'><a href="/people/sir-william-gallwey">Sir William Gallwey</a> March 21, 1851 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/hon-lewis-dawnay">Hon. Lewis Dawnay</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

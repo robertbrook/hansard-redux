@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Edinburgh Central 1885-2005 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Edinburgh Central. Created: 1885. Abolished: 2005.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/e'>
+          Constituencies (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Edinburgh Central 1885-2005</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-john-wilson">Mr John Wilson</a> November 24, 1885 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-william-mewan">Mr William M'Ewan</a> July  1, 1886 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-george-brown">Mr George Brown</a> October  1, 1900 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-charles-price">Mr Charles Price</a> January 12, 1906 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-william-graham-1">Mr William Graham</a> December 14, 1918 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-james-guy">Mr James Guy</a> October 27, 1931 - November 24, 1941</li>
+        <li class='constituency-member'><a href="/people/mr-francis-watt">Mr Francis Watt</a> December 11, 1941 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-andrew-gilzean">Mr Andrew Gilzean</a> July  5, 1945 - October 25, 1951</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-oswald">Mr Thomas Oswald</a> October 25, 1951 - February 28, 1974</li>
+        <li class='constituency-member'><a href="/people/mr-robin-cook">Mr Robin Cook</a> February 28, 1974 - June  9, 1983</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-fletcher">Mr Alexander Fletcher</a> June  9, 1983 - June 11, 1987</li>
+        <li class='constituency-member'><a href="/people/mr-alistair-darling">Mr Alistair Darling</a> June 11, 1987 - May  5, 2005</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

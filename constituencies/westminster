@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Westminster 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Westminster. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Westminster 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-charles-fox-1">Mr Charles Fox</a> May 17, 1784 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-alan-gardiner">Mr Alan Gardiner</a> June 13, 1796 - November 30, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-hugh-percy">Mr Hugh Percy</a> October  7, 1806 - November 19, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-richard-sheridan-1">Mr Richard Sheridan</a> November 19, 1806 - May 23, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-hood">Sir Samuel Hood</a> November 19, 1806 - May 23, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-romilly-1">Sir Samuel Romilly</a> July  4, 1818 - March  3, 1819</li>
+        <li class='constituency-member'><a href="/people/hon-george-lamb">Hon. George Lamb</a> March  3, 1819 - March 25, 1820</li>
+        <li class='constituency-member'><a href="/people/sir-john-hobhouse">Sir John Hobhouse</a> December 10, 1832 - May 11, 1833</li>
+        <li class='constituency-member'><a href="/people/sir-francis-burdett">Sir Francis Burdett</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/sir-de-lacy-evans">Sir De Lacy Evans</a> May 11, 1833 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-john-leader">Mr John Leader</a> July 24, 1837 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/hon-henry-rous">Hon. Henry Rous</a> June 29, 1841 - February 19, 1846</li>
+        <li class='constituency-member'><a href="/people/sir-de-lacy-evans">Sir De Lacy Evans</a> February 19, 1846 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-charles-lushington">Mr Charles Lushington</a> July 29, 1847 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/sir-john-shelley">Sir John Shelley</a> July  7, 1852 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-john-stuart-mill">Mr John Stuart Mill</a> July 11, 1865 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/hon-robert-grosvenor">Hon. Robert Grosvenor</a> July 11, 1865 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-wh-smith">Mr W.H. Smith</a> November 17, 1868 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/sir-charles-russell">Sir Charles Russell</a> January 31, 1874 - January 31, 1882</li>
+        <li class='constituency-member'><a href="/people/lord-algernon-percy">Lord Algernon Percy</a> February 10, 1882 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-william-burdett-coutts">Mr William Burdett-Coutts</a> November 24, 1885 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

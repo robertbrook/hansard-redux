@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Aberdeenshire Eastern 1868-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Aberdeenshire Eastern. Created: 1868. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/a'>
+          Constituencies (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Aberdeenshire Eastern 1868-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-william-fordyce">Mr William Fordyce</a> November 17, 1868 - November 27, 1875</li>
+        <li class='constituency-member'><a href="/people/sir-alexander-gordon">Sir Alexander Gordon</a> December 24, 1875 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-peter-esslemont">Mr Peter Esslemont</a> November 24, 1885 - 1892</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-buchanan">Mr Thomas Buchanan</a> December 10, 1892 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-archibald-maconochie">Mr Archibald Maconochie</a> October  1, 1900 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-james-annand">Mr James Annand</a> January 12, 1906 - February  6, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-james-murray">Mr James Murray</a> February 28, 1906 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/mr-william-cowan">Mr William Cowan</a> January 15, 1910 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

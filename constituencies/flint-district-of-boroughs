@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Flint District of Boroughs 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Flint District of Boroughs. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/f'>
+          Constituencies (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Flint District of Boroughs 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-watkin-williams-1">Mr Watkin Williams</a> June 26, 1777 - November 11, 1806</li>
+        <li class='constituency-member'><a href="/people/sir-edward-lloyd">Sir Edward Lloyd</a> November 11, 1806 - May 27, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-william-shipley">Mr William Shipley</a> May 27, 1807 - October 10, 1812</li>
+        <li class='constituency-member'><a href="/people/sir-edward-lloyd">Sir Edward Lloyd</a> October 10, 1812 - September 22, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-henry-glynne">Mr Henry Glynne</a> September 22, 1831 - February 25, 1832</li>
+        <li class='constituency-member'><a href="/people/sir-stephen-glynne">Sir Stephen Glynne</a> February 25, 1832 - August  1, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-charles-dundas">Mr Charles Dundas</a> July 24, 1837 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/sir-richard-williams-bulkeley">Sir Richard Williams-Bulkeley</a> June 29, 1841 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/sir-john-hanmer">Sir John Hanmer</a> July 31, 1847 - October 16, 1872</li>
+        <li class='constituency-member'><a href="/people/sir-robert-cunliffe">Sir Robert Cunliffe</a> October 16, 1872 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-peter-eyton">Mr Peter Eyton</a> January 31, 1874 - June 17, 1878</li>
+        <li class='constituency-member'><a href="/people/mr-john-roberts">Mr John Roberts</a> July  5, 1878 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-john-lewis">Mr John Lewis</a> July  4, 1892 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-idris">Mr Thomas Idris</a> January 12, 1906 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-thomas-parry">Lieut-Colonel Thomas Parry</a> January 21, 1913 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

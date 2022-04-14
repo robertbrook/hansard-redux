@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Northallerton 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Northallerton. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/n'>
+          Constituencies (N)
+        </a>
+
+      </div>
+      <h1 class='title'>Northallerton 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-henry-peirse">Mr Henry Peirse</a> October 10, 1774 - December 31, 1824</li>
+        <li class='constituency-member'><a href="/people/mr-edward-lascelles">Mr Edward Lascelles</a> May 27, 1796 - June 24, 1814</li>
+        <li class='constituency-member'><a href="/people/mr-john-morritt">Mr John Morritt</a> June 24, 1814 - June 20, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-henry-lascelles">Mr Henry Lascelles</a> June 20, 1818 - March  9, 1820</li>
+        <li class='constituency-member'><a href="/people/hon-william-lascelles">Hon. William Lascelles</a> March  9, 1820 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-marcus-beresford">Mr Marcus Beresford</a> May 28, 1824 - June  9, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-henry-lascelles">Mr Henry Lascelles</a> June  9, 1826 - May  3, 1831</li>
+        <li class='constituency-member'><a href="/people/vice-admiral-sir-john-beresford">Vice-Admiral Sir John Beresford</a> June  9, 1826 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/hon-william-lascelles">Hon. William Lascelles</a> May  3, 1831 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/captain-john-boss">Captain John Boss</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-william-wrightson">Mr William Wrightson</a> January  6, 1835 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/sir-charles-mills">Sir Charles Mills</a> July 11, 1865 - 1866</li>
+        <li class='constituency-member'><a href="/people/hon-egremont-lascelles">Hon. Egremont Lascelles</a> May 10, 1866 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-john-hutton-1">Mr John Hutton</a> November 17, 1868 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/sir-george-elliot">Sir George Elliot</a> January 31, 1874 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

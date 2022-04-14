@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>West Looe (Cornwall) 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: West Looe. Region: Cornwall. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>West Looe (Cornwall) 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-james-buller-2">Mr James Buller</a> July  7, 1802 - December 31, 1805</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-smith-2">Mr Thomas Smith</a> July  7, 1802 - December 21, 1803</li>
+        <li class='constituency-member'><a href="/people/mr-quintin-dick">Mr Quintin Dick</a> December 21, 1803 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-ralph-daniell">Mr Ralph Daniell</a> January 23, 1805 - October 31, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-james-buller-2">Mr James Buller</a> November  1, 1806 - January 17, 1812</li>
+        <li class='constituency-member'><a href="/people/sir-joseph-yorke-1">Sir Joseph Yorke</a> January 17, 1812 - October 10, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-anthony-buller">Mr Anthony Buller</a> October 10, 1812 - March 11, 1816</li>
+        <li class='constituency-member'><a href="/people/mr-charles-buller-1">Mr Charles Buller</a> October 10, 1812 - March 11, 1816</li>
+        <li class='constituency-member'><a href="/people/mr-henry-ros">Mr Henry Ros</a> March 11, 1816 - June 19, 1818</li>
+        <li class='constituency-member'><a href="/people/sir-charles-hulse">Sir Charles Hulse</a> March 11, 1816 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-henry-goulburn">Mr Henry Goulburn</a> June 19, 1818 - June  9, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-charles-buller-1">Mr Charles Buller</a> June  9, 1826 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-john-buller-1">Mr John Buller</a> June  9, 1826 - April  6, 1827</li>
+        <li class='constituency-member'><a href="/people/sir-charles-hulse">Sir Charles Hulse</a> April  6, 1827 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-charles-buller">Mr Charles Buller</a> February 12, 1830 - April 29, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-anthony-buller">Mr Anthony Buller</a> April 29, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Launceston 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Launceston. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/l'>
+          Constituencies (L)
+        </a>
+
+      </div>
+      <h1 class='title'>Launceston 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-james-brogden">Mr James Brogden</a> May 31, 1796 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-richard-bennet">Mr Richard Bennet</a> July  7, 1802 - November  4, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-hugh-percy">Mr Hugh Percy</a> November  4, 1806 - July 17, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-richard-bennet">Mr Richard Bennet</a> July 17, 1807 - May  8, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-jonathan-raine">Mr Jonathan Raine</a> May  8, 1812 - October  9, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-pownoll-pellew">Mr Pownoll Pellew</a> October  9, 1812 - August  2, 1830</li>
+        <li class='constituency-member'><a href="/people/sir-james-gordon">Sir James Gordon</a> August  2, 1830 - May  3, 1831</li>
+        <li class='constituency-member'><a href="/people/sir-john-malcolm">Sir John Malcolm</a> May  3, 1831 - December 12, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-henry-hardinge">Mr Henry Hardinge</a> December 10, 1832 - May  6, 1844</li>
+        <li class='constituency-member'><a href="/people/admiral-william-bowles">Admiral William Bowles</a> May 20, 1844 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/hon-josceline-percy">Hon. Josceline Percy</a> July  7, 1852 - April 29, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-haliburton">Mr Thomas Haliburton</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-campbell-1">Mr Alexander Campbell</a> July 11, 1865 - 1868</li>
+        <li class='constituency-member'><a href="/people/mr-henry-lopes">Mr Henry Lopes</a> April  9, 1868 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-james-deakin">Mr James Deakin</a> July  3, 1874 - 1877</li>
+        <li class='constituency-member'><a href="/people/sir-hardinge-giffard">Sir Hardinge Giffard</a> March  3, 1877 - June 26, 1885</li>
+        <li class='constituency-member'><a href="/people/sir-richard-webster">Sir Richard Webster</a> July  4, 1885 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-charles-acland">Mr Charles Acland</a> November 24, 1885 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-owen">Mr Thomas Owen</a> July  4, 1892 - July 10, 1898</li>
+        <li class='constituency-member'><a href="/people/sir-john-moulton">Sir John Moulton</a> August  3, 1898 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/sir-george-marks">Sir George Marks</a> January 12, 1906 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

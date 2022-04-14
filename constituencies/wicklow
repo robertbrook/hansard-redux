@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Wicklow 1801-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Wicklow. Created: 1801. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Wicklow 1801-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-ponsonby-1">Mr George Ponsonby</a> February  1, 1801 - November 15, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-william-tighe">Mr William Tighe</a> November 15, 1806 - April 30, 1816</li>
+        <li class='constituency-member'><a href="/people/mr-granville-proby">Mr Granville Proby</a> February 13, 1816 - December 31, 1829</li>
+        <li class='constituency-member'><a href="/people/mr-george-ponsonby-1">Mr George Ponsonby</a> April 19, 1816 - August 12, 1817</li>
+        <li class='constituency-member'><a href="/people/mr-william-parnell-hayes">Mr William Parnell-Hayes</a> August 12, 1817 - February  9, 1821</li>
+        <li class='constituency-member'><a href="/people/mr-james-grattan">Mr James Grattan</a> February  9, 1821 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/sir-ralph-howard">Sir Ralph Howard</a> December 10, 1832 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-james-gratton">Mr James Gratton</a> December 10, 1832 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/colonel-william-acton">Colonel William Acton</a> June 29, 1841 - 1848</li>
+        <li class='constituency-member'><a href="/people/viscount-milton-3">Viscount  Milton</a> July 29, 1847 - October  4, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-william-fitzwilliam">Mr William Fitzwilliam</a> August  7, 1847 - December 31, 1858</li>
+        <li class='constituency-member'><a href="/people/sir-ralph-howard">Sir Ralph Howard</a> April 27, 1848 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-william-hume">Mr William Hume</a> July  7, 1852 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-granville-proby-1">Mr Granville Proby</a> February 25, 1858 - November 24, 1868</li>
+        <li class='constituency-member'><a href="/people/hon-william-wentworth-fitzwilliam">Hon. William Wentworth-Fitzwilliam</a> November 17, 1868 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-william-obyrne">Mr William O'Byrne</a> January 31, 1874 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-james-mccoan">Mr James McCoan</a> March 31, 1880 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-william-corbet">Mr William Corbet</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

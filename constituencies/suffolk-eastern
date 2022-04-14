@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Suffolk Eastern 1832-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Suffolk Eastern. Created: 1832. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/s'>
+          Constituencies (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Suffolk Eastern 1832-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-robert-shawe">Mr Robert Shawe</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/lord-henniker">Lord  Henniker</a> December 10, 1832 - February  5, 1846</li>
+        <li class='constituency-member'><a href="/people/sir-charles-vere">Sir Charles Vere</a> January  6, 1835 - 1843</li>
+        <li class='constituency-member'><a href="/people/lord-rendlesham-1">Lord  Rendlesham</a> April 18, 1843 - April  6, 1852</li>
+        <li class='constituency-member'><a href="/people/sir-edward-gooch">Sir Edward Gooch</a> February 19, 1846 - November  9, 1856</li>
+        <li class='constituency-member'><a href="/people/mr-fitz-roy-kelly">Mr Fitz-Roy Kelly</a> May  1, 1852 - 1866</li>
+        <li class='constituency-member'><a href="/people/lord-henniker">Lord  Henniker</a> December 26, 1856 - July 13, 1866</li>
+        <li class='constituency-member'><a href="/people/mr-john-henniker-major">Mr John Henniker-Major</a> July 25, 1866 - April 16, 1870</li>
+        <li class='constituency-member'><a href="/people/sir-edward-kerrison">Sir Edward Kerrison</a> July 25, 1866 - 1867</li>
+        <li class='constituency-member'><a href="/people/mr-frederick-corrance">Mr Frederick Corrance</a> February 20, 1867 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/viscount-mahon-1">Viscount  Mahon</a> June  1, 1870 - December 24, 1875</li>
+        <li class='constituency-member'><a href="/people/lord-rendlesham">Lord  Rendlesham</a> January 31, 1874 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/sir-frederick-barne">Sir Frederick Barne</a> February 24, 1876 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

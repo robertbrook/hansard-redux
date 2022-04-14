@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bridgwater 1660-1870 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Bridgwater. Created: 1660. Abolished: 1870.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bridgwater 1660-1870</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-pocock">Mr George Pocock</a> May 27, 1796 - June 26, 1804</li>
+        <li class='constituency-member'><a href="/people/mr-jeffreys-allen">Mr Jeffreys Allen</a> May 27, 1796 - June 26, 1804</li>
+        <li class='constituency-member'><a href="/people/mr-john-hudleston">Mr John Hudleston</a> June 26, 1804 - October 31, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-vere-poulett">Mr Vere Poulett</a> October 31, 1806 - May  5, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-john-langston-1">Mr John Langston</a> October 31, 1806 - May  5, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-george-pocock">Mr George Pocock</a> May  5, 1807 - March  7, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-william-astell">Mr William Astell</a> May  5, 1807 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-charles-kemeys-tynte-1">Mr Charles Kemeys-Tynte</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-william-tayleur">Mr William Tayleur</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-john-leader">Mr John Leader</a> January  6, 1835 - May 15, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-henry-broadwood">Mr Henry Broadwood</a> May 16, 1837 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-philip-courtenay">Mr Philip Courtenay</a> July 24, 1837 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-forman">Mr Thomas Forman</a> June 29, 1841 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-charles-kemeys-tynte">Mr Charles Kemeys-Tynte</a> July 29, 1847 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-brent-follett">Mr Brent Follett</a> July  7, 1852 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-kinglake">Mr Alexander Kinglake</a> March 27, 1857 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-henry-westropp">Mr Henry Westropp</a> July 11, 1865 - 1866</li>
+        <li class='constituency-member'><a href="/people/mr-george-patton">Mr George Patton</a> June  7, 1866 - July 12, 1866</li>
+        <li class='constituency-member'><a href="/people/mr-philip-vanderbyl">Mr Philip Vanderbyl</a> July 12, 1866 - 1869</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

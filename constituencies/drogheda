@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Drogheda 1832-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Drogheda. Created: 1832. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/d'>
+          Constituencies (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Drogheda 1832-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-henry-ogle">Mr Henry Ogle</a> November 14, 1806 - May 28, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-foster">Mr Thomas Foster</a> May 28, 1807 - October 21, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-henry-ogle">Mr Henry Ogle</a> October 21, 1812 - March 22, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-henry-metcalfe">Mr Henry Metcalfe</a> March 22, 1820 - March  9, 1822</li>
+        <li class='constituency-member'><a href="/people/mr-william-smythe">Mr William Smythe</a> March  9, 1822 - June 17, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-peter-hemrigh">Mr Peter Hemrigh</a> June 17, 1826 - August 13, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-john-north-1">Mr John North</a> August 13, 1830 - October 20, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-wallace-2">Mr Thomas Wallace</a> October 20, 1831 - December 15, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-andrew-odwyer">Mr Andrew O'Dwyer</a> December 10, 1832 - April 23, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-andrew-odwyer">Mr Andrew O'Dwyer</a> April 24, 1835 - June 21, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-randal-plunket">Mr Randal Plunket</a> June 29, 1835 - August  3, 1837</li>
+        <li class='constituency-member'><a href="/people/sir-william-somerville">Sir William Somerville</a> August  3, 1837 - July 13, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-james-mccann">Mr James McCann</a> July  7, 1852 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-benjamin-whitworth">Mr Benjamin Whitworth</a> July 11, 1865 - 1869</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-whitworth">Mr Thomas Whitworth</a> March 15, 1869 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/dr-william-oleary">Dr William O'Leary</a> January 31, 1874 - February 15, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-benjamin-whitworth">Mr Benjamin Whitworth</a> March  2, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

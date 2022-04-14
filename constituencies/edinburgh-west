@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Edinburgh West 1885- (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Edinburgh West. Created: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/e'>
+          Constituencies (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Edinburgh West 1885-</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-thomas-buchanan">Mr Thomas Buchanan</a> November 24, 1885 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/viscount-wolmer">Viscount  Wolmer</a> July  4, 1892 - May  4, 1895</li>
+        <li class='constituency-member'><a href="/people/sir-lewis-mciver">Sir Lewis McIver</a> July 13, 1895 - May 12, 1909</li>
+        <li class='constituency-member'><a href="/people/mr-james-clyde-1">Mr James Clyde</a> May 17, 1909 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/captain-john-jameson">Captain John Jameson</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/mr-henry-phillips">Mr Henry Phillips</a> November 15, 1922 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/mr-ian-macintyre">Mr Ian MacIntyre</a> October 29, 1924 - May 30, 1929</li>
+        <li class='constituency-member'><a href="/people/mr-george-mathers">Mr George Mathers</a> May 30, 1929 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-wilfrid-normand">Mr Wilfrid Normand</a> October 27, 1931 - 1935</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-cooper">Mr Thomas Cooper</a> November 14, 1935 - 1941</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-sir-george-hutchison">Lieut-Colonel Sir George Hutchison</a> July 12, 1941 - October  8, 1959</li>
+        <li class='constituency-member'><a href="/people/mr-james-stodart">Mr James Stodart</a> October  8, 1959 - October 10, 1974</li>
+        <li class='constituency-member'><a href="/people/lord-james-douglas-hamilton">Lord James Douglas-Hamilton</a> October 10, 1974 - May  1, 1997</li>
+        <li class='constituency-member'><a href="/people/mr-donald-gorrie">Mr Donald Gorrie</a> May  1, 1997 - June  7, 2001</li>
+        <li class='constituency-member'><a href="/people/mr-john-barrett">Mr John Barrett</a> June  7, 2001 - ?</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

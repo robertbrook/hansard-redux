@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Huddersfield 1832-1950 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Huddersfield. Created: 1832. Abolished: 1950.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/h'>
+          Constituencies (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Huddersfield 1832-1950</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/captain-lewis-fenton">Captain Lewis Fenton</a> December 10, 1832 - 1833</li>
+        <li class='constituency-member'><a href="/people/mr-john-blackburne-2">Mr John Blackburne</a> January  9, 1834 - 1837</li>
+        <li class='constituency-member'><a href="/people/general-william-johnson">General William Johnson</a> January  6, 1835 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-edward-ellice">Mr Edward Ellice</a> May  8, 1837 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-william-stansfield-1">Mr William Stansfield</a> July 29, 1837 - April 22, 1853</li>
+        <li class='constituency-member'><a href="/people/viscount-goderich">Viscount  Goderich</a> April 22, 1853 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-edward-akroyd">Mr Edward Akroyd</a> March 27, 1857 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-edward-leatham">Mr Edward Leatham</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-crosland">Mr Thomas Crosland</a> July 11, 1865 - March  8, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-edward-leatham">Mr Edward Leatham</a> November 17, 1868 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-william-summers">Mr William Summers</a> July  3, 1886 - February  4, 1893</li>
+        <li class='constituency-member'><a href="/people/sir-joseph-crosland">Sir Joseph Crosland</a> February  4, 1893 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-james-woodhouse">Mr James Woodhouse</a> July 13, 1895 - November 27, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-sherwell">Mr Arthur Sherwell</a> November 28, 1906 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/sir-arthur-marshall">Sir Arthur Marshall</a> November 15, 1922 - December  6, 1923</li>
+        <li class='constituency-member'><a href="/people/mr-james-hudson">Mr James Hudson</a> December  6, 1923 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-william-mabane">Mr William Mabane</a> October 27, 1931 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-mallalieu">Mr Joseph Mallalieu</a> July  5, 1945 - February 23, 1950</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

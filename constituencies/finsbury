@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Finsbury 1832-1950 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Finsbury. Created: 1832. Abolished: 1950.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/f'>
+          Constituencies (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Finsbury 1832-1950</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-robert-grant">Mr Robert Grant</a> December 10, 1832 - June 30, 1834</li>
+        <li class='constituency-member'><a href="/people/mr-robert-spankie">Mr Robert Spankie</a> December 12, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-duncombe">Mr Thomas Duncombe</a> July  2, 1834 - November 13, 1861</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-wakley">Mr Thomas Wakley</a> January  6, 1835 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-challis">Mr Thomas Challis</a> July  7, 1852 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-william-cox">Mr William Cox</a> March 27, 1857 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-peto">Sir Samuel Peto</a> May  2, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-william-cox">Mr William Cox</a> December 17, 1861 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-william-mccullagh">Mr William McCullagh</a> July 11, 1865 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/sir-andrew-lusk">Sir Andrew Lusk</a> July 11, 1865 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-dadabhai-naoroji">Mr Dadabhai Naoroji</a> July  4, 1892 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-martin-archer-shee">Lieut-Colonel Martin Archer-Shee</a> January 15, 1910 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-martin-archer-shee">Lieut-Colonel Martin Archer-Shee</a> December 14, 1918 - December  6, 1923</li>
+        <li class='constituency-member'><a href="/people/sir-george-gillett">Sir George Gillett</a> December  6, 1923 - November 14, 1935</li>
+        <li class='constituency-member'><a href="/people/reverend-george-woods">Reverend George Woods</a> November 14, 1935 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-john-platts-mills">Mr John Platts-Mills</a> July  5, 1945 - February 23, 1950</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

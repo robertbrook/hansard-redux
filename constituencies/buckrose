@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Buckrose 1885-1950 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Buckrose. Created: 1885. Abolished: 1950.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Buckrose 1885-1950</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-christopher-sykes">Mr Christopher Sykes</a> December  5, 1885 - July 14, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-william-mcarthur">Mr William McArthur</a> July  1, 1886 - 1887</li>
+        <li class='constituency-member'><a href="/people/mr-christopher-sykes">Mr Christopher Sykes</a> December 11, 1886 - July  1, 1892</li>
+        <li class='constituency-member'><a href="/people/sir-angus-holden">Sir Angus Holden</a> July  4, 1892 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-luke-white-1">Mr Luke White</a> October  1, 1900 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/captain-algernon-moreing">Captain Algernon Moreing</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/captain-algernon-moreing">Captain Algernon Moreing</a> November 15, 1922 - December  6, 1923</li>
+        <li class='constituency-member'><a href="/people/vice-admiral-sir-guy-gaunt">Vice-Admiral Sir Guy Gaunt</a> November 15, 1922 - April 14, 1926</li>
+        <li class='constituency-member'><a href="/people/sir-albert-braithwaite">Sir Albert Braithwaite</a> May  5, 1926 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-george-wadsworth">Mr George Wadsworth</a> July  5, 1945 - February 23, 1950</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bridgnorth 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Bridgnorth. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bridgnorth 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-isaac-browne">Mr Isaac Browne</a> April  5, 1784 - November 24, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-john-whitmore">Mr John Whitmore</a> April 28, 1795 - November  1, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-whitmore-1">Mr Thomas Whitmore</a> November  1, 1806 - July 25, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-charles-jenkinson">Mr Charles Jenkinson</a> October  8, 1812 - June 20, 1818</li>
+        <li class='constituency-member'><a href="/people/sir-thomas-jones">Sir Thomas Jones</a> June 20, 1818 - March  7, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-wolryche-whitmore">Mr Wolryche Whitmore</a> March  7, 1820 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-james-foster">Mr James Foster</a> May  3, 1831 - December 11, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-whitmore">Mr Thomas Whitmore</a> December 10, 1832 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/sir-robert-pigot">Sir Robert Pigot</a> December 11, 1832 - July 26, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-h-tracy">Mr H. Tracy</a> July 24, 1837 - 1838</li>
+        <li class='constituency-member'><a href="/people/sir-robert-pigot">Sir Robert Pigot</a> February 20, 1838 - December 31, 1853</li>
+        <li class='constituency-member'><a href="/people/mr-henry-whitmore">Mr Henry Whitmore</a> July  7, 1852 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-john-pritchard-1">Mr John Pritchard</a> March 23, 1853 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/sir-john-acton">Sir John Acton</a> July 11, 1865 - 1865</li>
+        <li class='constituency-member'><a href="/people/sir-john-dalberg-acton">Sir John Dalberg-Acton</a> July 13, 1865 - March 22, 1866</li>
+        <li class='constituency-member'><a href="/people/mr-henry-whitmore">Mr Henry Whitmore</a> 1866 - 1870</li>
+        <li class='constituency-member'><a href="/people/mr-william-foster">Mr William Foster</a> February 16, 1870 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

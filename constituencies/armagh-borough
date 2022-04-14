@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Armagh (borough) 1832-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Armagh. Area type: borough. Created: 1832. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/a'>
+          Constituencies (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Armagh (borough) 1832-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-daniel-webber">Mr Daniel Webber</a> May  8, 1816 - June 26, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-john-foster-1">Mr John Foster</a> June 26, 1818 - March 10, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-william-stuart">Mr William Stuart</a> March 10, 1820 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-henry-goulburn">Mr Henry Goulburn</a> June 19, 1826 - May 10, 1831</li>
+        <li class='constituency-member'><a href="/people/viscount-ingestre-1">Viscount  Ingestre</a> May 10, 1831 - August 25, 1831</li>
+        <li class='constituency-member'><a href="/people/sir-john-brydges-1">Sir John Brydges</a> August 25, 1831 - December 15, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-leonard-dobbin">Mr Leonard Dobbin</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-william-curry">Mr William Curry</a> July 24, 1837 - 1839</li>
+        <li class='constituency-member'><a href="/people/mr-john-rawdon">Mr John Rawdon</a> May 22, 1840 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-ross-moore">Mr Ross Moore</a> July  7, 1852 - October  5, 1855</li>
+        <li class='constituency-member'><a href="/people/mr-joshua-bond">Mr Joshua Bond</a> December  6, 1855 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-stearne-miller">Mr Stearne Miller</a> March 27, 1857 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-joshua-bond">Mr Joshua Bond</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-stearne-miller">Mr Stearne Miller</a> July 11, 1865 - 1867</li>
+        <li class='constituency-member'><a href="/people/mr-john-vance">Mr John Vance</a> January 30, 1867 - September 21, 1875</li>
+        <li class='constituency-member'><a href="/people/mr-george-beresford">Mr George Beresford</a> October 18, 1875 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

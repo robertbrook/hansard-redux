@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Middlesex 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Middlesex. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/m'>
+          Constituencies (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Middlesex 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-francis-burdett">Sir Francis Burdett</a> July 13, 1802 - July 23, 1804</li>
+        <li class='constituency-member'><a href="/people/mr-george-mainwaring">Mr George Mainwaring</a> July 23, 1804 - March  5, 1805</li>
+        <li class='constituency-member'><a href="/people/sir-francis-burdett">Sir Francis Burdett</a> March  5, 1805 - February 10, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-george-mainwaring">Mr George Mainwaring</a> February 10, 1806 - November 10, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-william-mellish">Mr William Mellish</a> November 10, 1806 - March 17, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-whitbread-3">Mr Samuel Whitbread</a> March 17, 1820 - August  5, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-hume">Mr Joseph Hume</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-george-byng">Mr George Byng</a> December 10, 1832 - January 10, 1847</li>
+        <li class='constituency-member'><a href="/people/colonel-thomas-wood-1">Colonel Thomas Wood</a> July 24, 1837 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/lord-robert-grosvenor">Lord Robert Grosvenor</a> February  3, 1847 - September 15, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-ralph-bernal">Mr Ralph Bernal</a> July 29, 1847 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-robert-hanbury-1">Mr Robert Hanbury</a> March 27, 1857 - March 29, 1867</li>
+        <li class='constituency-member'><a href="/people/hon-george-byng">Hon. George Byng</a> September  3, 1857 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-henry-labouchere">Mr Henry Labouchere</a> April 15, 1867 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/lord-george-hamilton">Lord George Hamilton</a> November 17, 1868 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-octavius-coope">Mr Octavius Coope</a> January 31, 1874 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

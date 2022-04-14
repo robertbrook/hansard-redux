@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Cashel 1801-1870 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Cashel. Created: 1801. Abolished: 1870.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/c'>
+          Constituencies (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Cashel 1801-1870</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-william-wickham-1">Mr William Wickham</a> July 27, 1802 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-archibald-primrose">Mr Archibald Primrose</a> November 17, 1806 - May 25, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-quintin-dick">Mr Quintin Dick</a> May 25, 1807 - April 15, 1809</li>
+        <li class='constituency-member'><a href="/people/sir-robert-peel-1">Sir Robert Peel</a> April 15, 1809 - October 26, 1812</li>
+        <li class='constituency-member'><a href="/people/sir-charles-saxton">Sir Charles Saxton</a> October 26, 1812 - June  9, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-richard-pennefather">Mr Richard Pennefather</a> June  9, 1818 - March  4, 1819</li>
+        <li class='constituency-member'><a href="/people/mr-ebenezer-collett">Mr Ebenezer Collett</a> March  4, 1819 - August  5, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-matthew-pennefather">Mr Matthew Pennefather</a> August  5, 1830 - July 16, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-philip-pusey">Mr Philip Pusey</a> July 16, 1831 - December 14, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-james-roe">Mr James Roe</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-louis-perrin">Mr Louis Perrin</a> January 14, 1835 - September  4, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-stephen-woulfe">Mr Stephen Woulfe</a> September  4, 1835 - 1838</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-stock-1">Mr Joseph Stock</a> July 14, 1838 - February  5, 1846</li>
+        <li class='constituency-member'><a href="/people/mr-timothy-obrien">Mr Timothy O'Brien</a> February  5, 1846 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-john-lanigan">Mr John Lanigan</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-james-obeirne">Mr James O'Beirne</a> July 11, 1865 - December 31, 1870</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

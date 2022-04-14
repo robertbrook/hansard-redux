@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Kildare 1802-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Kildare. Created: 1802. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/k'>
+          Constituencies (K)
+        </a>
+
+      </div>
+      <h1 class='title'>Kildare 1802-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-robert-latouche">Mr Robert Latouche</a> July 20, 1802 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/lord-robert-fitzgerald">Lord Robert Fitzgerald</a> July 20, 1802 - May 21, 1807</li>
+        <li class='constituency-member'><a href="/people/lord-henry-fitzgerald">Lord Henry Fitzgerald</a> May 21, 1807 - March 23, 1814</li>
+        <li class='constituency-member'><a href="/people/lord-william-fitzgerald">Lord William Fitzgerald</a> March 23, 1814 - August 18, 1830</li>
+        <li class='constituency-member'><a href="/people/sir-josiah-hort">Sir Josiah Hort</a> May  9, 1831 - December 21, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-edward-ruthven">Mr Edward Ruthven</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-richard-more-oferrall">Mr Richard More-O'Ferrall</a> December 10, 1832 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-robert-archbold">Mr Robert Archbold</a> July 24, 1837 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/marquess-of-kildare">Marquess of Kildare</a> July 29, 1847 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/lord-naas">Lord  Naas</a> July 29, 1847 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-david-henchy">Mr David Henchy</a> July  7, 1852 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-william-cogan">Mr William Cogan</a> July  7, 1852 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-richard-more-oferrall">Mr Richard More-O'Ferrall</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/lord-otho-fitzgerald">Lord Otho Fitzgerald</a> July 19, 1865 - February 16, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-charles-meldon">Mr Charles Meldon</a> January 31, 1874 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-james-leahy">Mr James Leahy</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

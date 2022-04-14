@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Oxford University 1660-1950 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Oxford University. Created: 1660. Abolished: 1950.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/o'>
+          Constituencies (O)
+        </a>
+
+      </div>
+      <h1 class='title'>Oxford University 1660-1950</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-william-dolben">Sir William Dolben</a> September 11, 1780 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/sir-william-scott-1">Sir William Scott</a> March 23, 1801 - January  6, 1821</li>
+        <li class='constituency-member'><a href="/people/baron-charles-abbot">Baron Charles Abbot</a> November  6, 1806 - June 10, 1817</li>
+        <li class='constituency-member'><a href="/people/sir-robert-peel-1">Sir Robert Peel</a> June 10, 1817 - August 24, 1821</li>
+        <li class='constituency-member'><a href="/people/mr-richard-heber">Mr Richard Heber</a> August 24, 1821 - February 22, 1826</li>
+        <li class='constituency-member'><a href="/people/sir-robert-inglis">Sir Robert Inglis</a> December 10, 1832 - 1854</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-bucknall-estcourt-1">Mr Thomas Bucknall-Estcourt</a> December 10, 1832 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-we-gladstone">Mr W.E. Gladstone</a> July 29, 1847 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/sir-william-heathcote">Sir William Heathcote</a> February  7, 1854 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-gathorne-hardy">Mr Gathorne Hardy</a> July 11, 1865 - May  4, 1878</li>
+        <li class='constituency-member'><a href="/people/sir-john-mowbray">Sir John Mowbray</a> November 17, 1868 - April 22, 1899</li>
+        <li class='constituency-member'><a href="/people/mr-john-talbot">Mr John Talbot</a> May 17, 1878 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/sir-william-anson">Sir William Anson</a> May 11, 1899 - June  4, 1914</li>
+        <li class='constituency-member'><a href="/people/lord-hugh-cecil">Lord Hugh Cecil</a> January 15, 1910 - January 29, 1937</li>
+        <li class='constituency-member'><a href="/people/mr-rowland-prothero">Mr Rowland Prothero</a> June 30, 1914 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-rowland-prothero">Mr Rowland Prothero</a> December 14, 1918 - February  4, 1919</li>
+        <li class='constituency-member'><a href="/people/professor-sir-charles-oman">Professor Sir Charles Oman</a> March 24, 1919 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/professor-sir-charles-oman">Professor Sir Charles Oman</a> November 15, 1922 - November 14, 1935</li>
+        <li class='constituency-member'><a href="/people/sir-ap-herbert">Sir A.P. Herbert</a> November 14, 1935 - February 23, 1950</li>
+        <li class='constituency-member'><a href="/people/sir-arthur-salter">Sir Arthur Salter</a> February 27, 1937 - February 23, 1950</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

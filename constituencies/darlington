@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Darlington 1832- (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Darlington. Created: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/d'>
+          Constituencies (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Darlington 1832-</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-edmund-backhouse">Mr Edmund Backhouse</a> November 17, 1868 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/sir-theodore-fry">Sir Theodore Fry</a> March 31, 1880 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-pease">Mr Arthur Pease</a> July 13, 1895 - September 17, 1898</li>
+        <li class='constituency-member'><a href="/people/mr-herbert-pease">Mr Herbert Pease</a> September 17, 1898 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/mr-ignatius-lincoln">Mr Ignatius Lincoln</a> January 15, 1910 - December  3, 1910</li>
+        <li class='constituency-member'><a href="/people/mr-herbert-pease">Mr Herbert Pease</a> December  3, 1910 - February 12, 1923</li>
+        <li class='constituency-member'><a href="/people/mr-william-pease">Mr William Pease</a> February 28, 1923 - February 17, 1926</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-shepherd">Mr Arthur Shepherd</a> February 17, 1926 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-charles-peat">Mr Charles Peat</a> October 27, 1931 - June 15, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-david-hardman">Mr David Hardman</a> July  5, 1945 - October 25, 1951</li>
+        <li class='constituency-member'><a href="/people/sir-fergus-graham">Sir Fergus Graham</a> October 25, 1951 - October  8, 1959</li>
+        <li class='constituency-member'><a href="/people/mr-anthony-bourne-arton">Mr Anthony Bourne-Arton</a> October  8, 1959 - October 15, 1964</li>
+        <li class='constituency-member'><a href="/people/mr-edward-fletcher">Mr Edward Fletcher</a> October 15, 1964 - February 13, 1983</li>
+        <li class='constituency-member'><a href="/people/mr-ossie-obrien">Mr Ossie O'Brien</a> March 24, 1983 - June  9, 1983</li>
+        <li class='constituency-member'><a href="/people/mr-michael-fallon">Mr Michael Fallon</a> June  9, 1983 - April  9, 1992</li>
+        <li class='constituency-member'><a href="/people/mr-alan-milburn">Mr Alan Milburn</a> April  9, 1992 - ?</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

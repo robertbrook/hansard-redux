@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Londonderry (county) 1801-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Londonderry. Area type: county. Created: 1801. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/l'>
+          Constituencies (L)
+        </a>
+
+      </div>
+      <h1 class='title'>Londonderry (county) 1801-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/lord-george-beresford">Lord George Beresford</a> July 21, 1802 - October 26, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-william-ponsonby">Mr William Ponsonby</a> October 26, 1812 - December 31, 1815</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-stewart">Mr Alexander Stewart</a> July 19, 1814 - August  4, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-george-dawson">Mr George Dawson</a> August  7, 1815 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-stewart-1">Mr Alexander Stewart</a> July  1, 1818 - August 16, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-theobald-jones">Mr Theobald Jones</a> December 10, 1832 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-robert-bateson">Mr Robert Bateson</a> May 26, 1842 - December 23, 1843</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-bateson">Mr Thomas Bateson</a> March 13, 1844 - 1857</li>
+        <li class='constituency-member'><a href="/people/mr-james-clark">Mr James Clark</a> March  9, 1857 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-robert-dawson">Mr Robert Dawson</a> May 16, 1859 - February 16, 1874</li>
+        <li class='constituency-member'><a href="/people/sir-frederic-heygate">Sir Frederic Heygate</a> May 16, 1859 - February 16, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-hugh-law">Mr Hugh Law</a> January 31, 1874 - 1881</li>
+        <li class='constituency-member'><a href="/people/professor-richard-smyth">Professor Richard Smyth</a> January 31, 1874 - December  4, 1878</li>
+        <li class='constituency-member'><a href="/people/sir-thomas-mcclure">Sir Thomas McClure</a> December 18, 1878 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-andrew-porter">Mr Andrew Porter</a> December 10, 1881 - January 12, 1884</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-walker">Mr Samuel Walker</a> January 10, 1884 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

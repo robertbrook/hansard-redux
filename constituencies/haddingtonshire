@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Haddingtonshire 1708-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Haddingtonshire. Created: 1708. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/h'>
+          Constituencies (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Haddingtonshire 1708-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-charles-hope">Mr Charles Hope</a> May 12, 1800 - March 21, 1816</li>
+        <li class='constituency-member'><a href="/people/sir-james-suttie">Sir James Suttie</a> March 21, 1816 - June 20, 1826</li>
+        <li class='constituency-member'><a href="/people/lord-john-hay-1">Lord John Hay</a> June 20, 1826 - May  9, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-james-balfour">Mr James Balfour</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-robert-ferguson-1">Mr Robert Ferguson</a> January  6, 1835 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/lord-ramsay-1">Lord  Ramsay</a> July 24, 1837 - March 21, 1838</li>
+        <li class='constituency-member'><a href="/people/sir-thomas-hepburn">Sir Thomas Hepburn</a> April 14, 1838 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-james-balfour-1">Mr James Balfour</a> June 29, 1841 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/hon-francis-charteris">Hon. Francis Charteris</a> July 29, 1847 - January  1, 1883</li>
+        <li class='constituency-member'><a href="/people/lord-elcho">Lord  Elcho</a> February  7, 1883 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-richard-haldane">Mr Richard Haldane</a> November 24, 1885 - March 27, 1911</li>
+        <li class='constituency-member'><a href="/people/mr-john-hope">Mr John Hope</a> April 19, 1911 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

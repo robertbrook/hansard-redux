@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Argyll 1708-1983 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Argyll. Created: 1708. Abolished: 1983.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/a'>
+          Constituencies (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Argyll 1708-1983</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/lord-john-campbell">Lord John Campbell</a> October  3, 1799 - March 14, 1822</li>
+        <li class='constituency-member'><a href="/people/mr-walter-campbell">Mr Walter Campbell</a> March 14, 1822 - December 21, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-james-callander">Mr James Callander</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-walter-campbell">Mr Walter Campbell</a> January  6, 1835 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-campbell">Mr Alexander Campbell</a> June 29, 1841 - 1843</li>
+        <li class='constituency-member'><a href="/people/mr-duncan-mcneill">Mr Duncan McNeill</a> September  8, 1843 - 1851</li>
+        <li class='constituency-member'><a href="/people/sir-archibald-campbell-1">Sir Archibald Campbell</a> June  6, 1851 - April  3, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-finlay">Mr Alexander Finlay</a> July  7, 1852 - 1868</li>
+        <li class='constituency-member'><a href="/people/marquess-of-lorne">Marquess of Lorne</a> November 17, 1868 - 1878</li>
+        <li class='constituency-member'><a href="/people/lord-colin-campbell">Lord Colin Campbell</a> August 31, 1878 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/sir-donald-macfarlane">Sir Donald Macfarlane</a> November 24, 1885 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-john-malcolm">Mr John Malcolm</a> July  1, 1886 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/sir-donald-macfarlane">Sir Donald Macfarlane</a> July  4, 1892 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-donald-nicol">Mr Donald Nicol</a> July 13, 1895 - July 27, 1903</li>
+        <li class='constituency-member'><a href="/people/sir-john-ainsworth">Sir John Ainsworth</a> August 26, 1903 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/sir-william-sutherland">Sir William Sutherland</a> December 14, 1918 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/mr-frederick-macquisten">Mr Frederick Macquisten</a> October 29, 1924 - February 29, 1940</li>
+        <li class='constituency-member'><a href="/people/major-sir-duncan-mccallum">Major Sir Duncan McCallum</a> April 10, 1940 - May 10, 1958</li>
+        <li class='constituency-member'><a href="/people/mr-michael-noble-1">Mr Michael Noble</a> June 12, 1958 - February 28, 1974</li>
+        <li class='constituency-member'><a href="/people/mr-iain-maccormick">Mr Iain MacCormick</a> February 28, 1974 - May  3, 1979</li>
+        <li class='constituency-member'><a href="/people/mr-john-mackay">Mr John Mackay</a> May  3, 1979 - June  9, 1983</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

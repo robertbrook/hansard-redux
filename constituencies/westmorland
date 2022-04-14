@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Westmorland 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Westmorland. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Westmorland 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-michael-fleming">Sir Michael Fleming</a> October 13, 1774 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-james-lowther-2">Mr James Lowther</a> December  7, 1775 - November 24, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-john-pennington">Mr John Pennington</a> June  2, 1806 - December 31, 1813</li>
+        <li class='constituency-member'><a href="/people/viscount-lowther">Viscount  Lowther</a> November 22, 1813 - May 11, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-nowell">Mr Alexander Nowell</a> May 11, 1831 - December 15, 1832</li>
+        <li class='constituency-member'><a href="/people/hon-henry-lowther">Hon. Henry Lowther</a> December 10, 1832 - December  6, 1867</li>
+        <li class='constituency-member'><a href="/people/viscount-lowther">Viscount  Lowther</a> December 10, 1832 - September 21, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-william-thompson-1">Mr William Thompson</a> September 22, 1841 - March 10, 1854</li>
+        <li class='constituency-member'><a href="/people/earl-of-bective">Earl of Bective</a> March 31, 1854 - December  6, 1870</li>
+        <li class='constituency-member'><a href="/people/hon-william-lowther">Hon. William Lowther</a> November 17, 1868 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/earl-of-bective-1">Earl of Bective</a> February 21, 1871 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Brecon 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Brecon. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Brecon 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-robert-salusbury">Sir Robert Salusbury</a> November  2, 1796 - October  9, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-charles-morgan-2">Mr Charles Morgan</a> October  9, 1812 - June 20, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-george-morgan-2">Mr George Morgan</a> June 20, 1818 - August  3, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-charles-morgan-2">Mr Charles Morgan</a> August  3, 1830 - December 12, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-john-watkins">Mr John Watkins</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/sir-charles-morgan">Sir Charles Morgan</a> January  6, 1835 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-john-watkins">Mr John Watkins</a> July 29, 1847 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-charles-morgan-1">Mr Charles Morgan</a> July  7, 1852 - January 14, 1854</li>
+        <li class='constituency-member'><a href="/people/mr-john-watkins">Mr John Watkins</a> February  6, 1854 - September 28, 1865</li>
+        <li class='constituency-member'><a href="/people/earl-of-brecknock">Earl of Brecknock</a> February 27, 1866 - August  6, 1866</li>
+        <li class='constituency-member'><a href="/people/mr-howel-gwyn">Mr Howel Gwyn</a> October  3, 1866 - 1868</li>
+        <li class='constituency-member'><a href="/people/lord-hyde">Lord  Hyde</a> April 24, 1869 - June 27, 1870</li>
+        <li class='constituency-member'><a href="/people/mr-james-holford">Mr James Holford</a> July 19, 1870 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-james-gwynne-holford">Mr James Gwynne-Holford</a> July 19, 1870 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-cyril-flower-1">Mr Cyril Flower</a> April  7, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

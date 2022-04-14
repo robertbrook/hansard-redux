@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Huntingdon 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Huntingdon. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/h'>
+          Constituencies (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Huntingdon 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-william-fellowes">Mr William Fellowes</a> May 26, 1796 - May  6, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-john-calvert">Mr John Calvert</a> May 26, 1796 - July 25, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-william-farmer">Mr William Farmer</a> May  6, 1807 - April  3, 1809</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-farmer">Mr Samuel Farmer</a> April  3, 1809 - June 16, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-william-montagu">Mr William Montagu</a> June 16, 1818 - March  7, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-john-kerr-1">Mr John Kerr</a> March  7, 1820 - May 14, 1824</li>
+        <li class='constituency-member'><a href="/people/mr-james-stuart-2">Mr James Stuart</a> May 14, 1824 - May  2, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-jonathan-peel">Mr Jonathan Peel</a> May  2, 1831 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/sir-frederick-pollock">Sir Frederick Pollock</a> May  2, 1831 - April 22, 1844</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-baring">Mr Thomas Baring</a> April 22, 1844 - November 18, 1873</li>
+        <li class='constituency-member'><a href="/people/sir-john-karslake">Sir John Karslake</a> December 20, 1873 - 1876</li>
+        <li class='constituency-member'><a href="/people/viscount-hinchingbrooke">Viscount  Hinchingbrooke</a> February 16, 1876 - March  3, 1884</li>
+        <li class='constituency-member'><a href="/people/sir-robert-peel">Sir Robert Peel</a> March 21, 1884 - November 28, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-coote">Mr Thomas Coote</a> November 24, 1885 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-barry">Mr Arthur Barry</a> July  1, 1886 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-george-montagu">Mr George Montagu</a> October  1, 1900 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-whitbread-1">Mr Samuel Whitbread</a> January 12, 1906 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/mr-john-cator">Mr John Cator</a> January 15, 1910 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

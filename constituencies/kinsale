@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Kinsale 1802-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Kinsale. Created: 1802. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/k'>
+          Constituencies (K)
+        </a>
+
+      </div>
+      <h1 class='title'>Kinsale 1802-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-samuel-rowley">Mr Samuel Rowley</a> July 13, 1802 - April 29, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-henry-martin">Mr Henry Martin</a> April 29, 1806 - June 27, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-george-coussmaker">Mr George Coussmaker</a> June 27, 1818 - July  3, 1821</li>
+        <li class='constituency-member'><a href="/people/sir-josias-rowley">Sir Josias Rowley</a> July  3, 1821 - June 15, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-john-russell">Mr John Russell</a> June 15, 1826 - December 18, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-stawell">Mr Samuel Stawell</a> December 18, 1832 - January 15, 1835</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-henry-thomas">Lieut-Colonel Henry Thomas</a> January  6, 1835 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-peirce-mahony">Mr Peirce Mahony</a> July 24, 1837 - 1838</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-henry-thomas">Lieut-Colonel Henry Thomas</a> April  1, 1838 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-william-watson-1">Mr William Watson</a> June 29, 1841 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-richard-guinness">Mr Richard Guinness</a> July 29, 1847 - 1848</li>
+        <li class='constituency-member'><a href="/people/mr-benjamin-hawes">Mr Benjamin Hawes</a> March 11, 1848 - October 31, 1851</li>
+        <li class='constituency-member'><a href="/people/mr-john-heard">Mr John Heard</a> July  7, 1852 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/sir-john-arnott">Sir John Arnott</a> April 28, 1859 - 1863</li>
+        <li class='constituency-member'><a href="/people/sir-george-colthurst">Sir George Colthurst</a> June  8, 1863 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-eugene-collins">Mr Eugene Collins</a> January 31, 1874 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

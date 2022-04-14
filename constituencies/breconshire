@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Breconshire 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Breconshire. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Breconshire 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-charles-morgan-2">Sir Charles Morgan</a> June 20, 1787 - November 11, 1806</li>
+        <li class='constituency-member'><a href="/people/colonel-thomas-wood">Colonel Thomas Wood</a> December 10, 1832 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/sir-joseph-bailey-1">Sir Joseph Bailey</a> July 29, 1847 - November 20, 1858</li>
+        <li class='constituency-member'><a href="/people/hon-godfrey-morgan">Hon. Godfrey Morgan</a> December 28, 1858 - April 16, 1875</li>
+        <li class='constituency-member'><a href="/people/mr-wiiliam-fuller-maitland">Mr Wiiliam Fuller-Maitland</a> May 22, 1875 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-cyril-flower">Mr Cyril Flower</a> March 31, 1880 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-charles-morley">Mr Charles Morley</a> July 13, 1895 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-sidney-robinson">Mr Sidney Robinson</a> January 12, 1906 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

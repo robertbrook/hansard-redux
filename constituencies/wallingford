@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Wallingford 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Wallingford. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Wallingford 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-francis-sykes">Sir Francis Sykes</a> March 31, 1784 - December 31, 1804</li>
+        <li class='constituency-member'><a href="/people/mr-william-hughes-3">Mr William Hughes</a> July  5, 1802 - July 25, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-george-mills">Mr George Mills</a> February  8, 1804 - October 29, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-richard-benyon-2">Mr Richard Benyon</a> October 29, 1806 - October  8, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-ebenezer-maitland-1">Mr Ebenezer Maitland</a> October  8, 1812 - March  6, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-george-robarts">Mr George Robarts</a> March  6, 1820 - December 16, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-robert-knight">Mr Robert Knight</a> December 16, 1826 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-leigh">Mr Thomas Leigh</a> September 21, 1831 - December 11, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-william-blackstone">Mr William Blackstone</a> December 10, 1832 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-richard-malins">Mr Richard Malins</a> July  7, 1852 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/sir-charles-dilke-1">Sir Charles Dilke</a> July 11, 1865 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-stanley-vickers">Mr Stanley Vickers</a> November 17, 1868 - February 24, 1872</li>
+        <li class='constituency-member'><a href="/people/mr-edward-wells">Mr Edward Wells</a> March  9, 1872 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-walter-wren">Mr Walter Wren</a> March 31, 1880 - June 19, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-pandeli-ralli">Mr Pandeli Ralli</a> July  1, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

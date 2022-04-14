@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Winchelsea 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Winchelsea. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/w'>
+          Constituencies (W)
+        </a>
+
+      </div>
+      <h1 class='title'>Winchelsea 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-william-moffat">Mr William Moffat</a> July  7, 1802 - November  1, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-robert-ladbroke">Mr Robert Ladbroke</a> July  7, 1802 - November  1, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-calverley-bewicke">Mr Calverley Bewicke</a> November  1, 1806 - December 31, 1816</li>
+        <li class='constituency-member'><a href="/people/sir-frederick-fletcher-vane">Sir Frederick Fletcher-Vane</a> November  1, 1806 - July 27, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-oswald-mosley">Sir Oswald Mosley</a> July 27, 1807 - October  8, 1812</li>
+        <li class='constituency-member'><a href="/people/lord-william-powlett">Lord William Powlett</a> October  8, 1812 - July 21, 1815</li>
+        <li class='constituency-member'><a href="/people/mr-henry-brougham">Mr Henry Brougham</a> July 21, 1815 - February 28, 1830</li>
+        <li class='constituency-member'><a href="/people/earl-of-darlington">Earl of Darlington</a> February 12, 1816 - June 18, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-george-mills">Mr George Mills</a> June 18, 1818 - March  8, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-lucius-concannon">Mr Lucius Concannon</a> March  8, 1820 - February 20, 1823</li>
+        <li class='constituency-member'><a href="/people/mr-william-leader">Mr William Leader</a> February 20, 1823 - June  9, 1826</li>
+        <li class='constituency-member'><a href="/people/viscount-howick">Viscount  Howick</a> June  9, 1826 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-john-williams-5">Mr John Williams</a> February 15, 1830 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-henry-dundas-1">Mr Henry Dundas</a> July 30, 1830 - April  4, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-stephen-lushington">Mr Stephen Lushington</a> April  4, 1831 - July 15, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-james-brougham">Mr James Brougham</a> July 15, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

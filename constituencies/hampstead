@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Hampstead 1885-1974 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Hampstead. Created: 1885. Abolished: 1974.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/h'>
+          Constituencies (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Hampstead 1885-1974</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-henry-holland">Sir Henry Holland</a> November 24, 1885 - February 23, 1888</li>
+        <li class='constituency-member'><a href="/people/mr-edward-hoare">Mr Edward Hoare</a> February 28, 1888 - January  9, 1902</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-milvain">Mr Thomas Milvain</a> January 24, 1902 - 1905</li>
+        <li class='constituency-member'><a href="/people/mr-john-fletcher">Mr John Fletcher</a> October 26, 1905 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-george-balfour">Mr George Balfour</a> December 14, 1918 - September 26, 1941</li>
+        <li class='constituency-member'><a href="/people/mr-charles-challen">Mr Charles Challen</a> November 27, 1941 - February 23, 1950</li>
+        <li class='constituency-member'><a href="/people/mr-henry-brooke">Mr Henry Brooke</a> February 23, 1950 - March 31, 1966</li>
+        <li class='constituency-member'><a href="/people/mr-benjamin-whitaker">Mr Benjamin Whitaker</a> March 31, 1966 - June 18, 1970</li>
+        <li class='constituency-member'><a href="/people/mr-geoffrey-finsberg">Mr Geoffrey Finsberg</a> June 18, 1970 - February 28, 1974</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

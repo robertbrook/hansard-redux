@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Monmouth 1918- (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Monmouth. Created: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/m'>
+          Constituencies (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Monmouth 1918-</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-charles-forestier-walker">Sir Charles Forestier-Walker</a> December 14, 1918 - May 13, 1934</li>
+        <li class='constituency-member'><a href="/people/lieut-colonel-john-herbert">Lieut-Colonel John Herbert</a> June 14, 1934 - July  1, 1939</li>
+        <li class='constituency-member'><a href="/people/mr-leslie-pym">Mr Leslie Pym</a> July 25, 1939 - July 17, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-peter-thorneycroft">Mr Peter Thorneycroft</a> October 30, 1945 - March 31, 1966</li>
+        <li class='constituency-member'><a href="/people/mr-donald-anderson">Mr Donald Anderson</a> March 31, 1966 - June 18, 1970</li>
+        <li class='constituency-member'><a href="/people/mr-john-stradling-thomas">Mr John Stradling Thomas</a> June 18, 1970 - March 29, 1991</li>
+        <li class='constituency-member'><a href="/people/mr-huw-edwards">Mr Huw Edwards</a> May 16, 1991 - April  9, 1992</li>
+        <li class='constituency-member'><a href="/people/mr-roger-evans">Mr Roger Evans</a> April  9, 1992 - May  1, 1997</li>
+        <li class='constituency-member'><a href="/people/mr-huw-edwards">Mr Huw Edwards</a> May  1, 1997 - May  5, 2005</li>
+        <li class='constituency-member'><a href="/people/mr-david-davies-5">Mr David Davies</a> May  5, 2005 - ?</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

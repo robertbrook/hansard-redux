@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Merionethshire 1660-1974 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Merionethshire. Created: 1660. Abolished: 1974.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/m'>
+          Constituencies (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Merionethshire 1660-1974</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-robert-vaughan">Sir Robert Vaughan</a> December 10, 1832 - 1836</li>
+        <li class='constituency-member'><a href="/people/mr-richard-richards">Mr Richard Richards</a> June 27, 1836 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-william-wynne-1">Mr William Wynne</a> July  7, 1852 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-william-wynne">Mr William Wynne</a> July 11, 1865 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-david-williams">Mr David Williams</a> November 17, 1868 - December 15, 1869</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-holland">Mr Samuel Holland</a> January 17, 1870 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-henry-robertson">Mr Henry Robertson</a> November 24, 1885 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-ellis">Mr Thomas Ellis</a> July  1, 1886 - April  5, 1899</li>
+        <li class='constituency-member'><a href="/people/sir-owen-edwards">Sir Owen Edwards</a> May  2, 1899 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-williams-1">Mr Arthur Williams</a> October  1, 1900 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/sir-henry-jones">Sir Henry Jones</a> January 15, 1910 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-emrys-roberts">Mr Emrys Roberts</a> July  5, 1945 - October 25, 1951</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-jones-1">Mr Thomas Jones</a> October 25, 1951 - March 31, 1966</li>
+        <li class='constituency-member'><a href="/people/mr-william-edwards">Mr William Edwards</a> March 31, 1966 - February 28, 1974</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

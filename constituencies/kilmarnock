@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Kilmarnock 1918-1983 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Kilmarnock. Created: 1918. Abolished: 1983.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/k'>
+          Constituencies (K)
+        </a>
+
+      </div>
+      <h1 class='title'>Kilmarnock 1918-1983</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/hon-alexander-shaw">Hon. Alexander Shaw</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/hon-alexander-shaw">Hon. Alexander Shaw</a> November 15, 1922 - November 12, 1923</li>
+        <li class='constituency-member'><a href="/people/mr-robert-climie">Mr Robert Climie</a> December  6, 1923 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/sir-charles-macandrew">Sir Charles MacAndrew</a> October 29, 1924 - May 30, 1929</li>
+        <li class='constituency-member'><a href="/people/mr-robert-climie">Mr Robert Climie</a> May 30, 1929 - October  3, 1929</li>
+        <li class='constituency-member'><a href="/people/mr-craigie-aitchison">Mr Craigie Aitchison</a> November 27, 1929 - 1933</li>
+        <li class='constituency-member'><a href="/people/mr-kenneth-lindsay">Mr Kenneth Lindsay</a> November  2, 1933 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/miss-clarice-shaw">Miss Clarice Shaw</a> July  5, 1945 - October  2, 1946</li>
+        <li class='constituency-member'><a href="/people/mr-william-ross">Mr William Ross</a> December  5, 1946 - May  3, 1979</li>
+        <li class='constituency-member'><a href="/people/mr-william-mckelvey">Mr William McKelvey</a> May  3, 1979 - June  9, 1983</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

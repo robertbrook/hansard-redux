@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Edinburgh South 1885- (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Edinburgh South. Created: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/e'>
+          Constituencies (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Edinburgh South 1885-</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-george-harrison">Sir George Harrison</a> November 24, 1885 - December 23, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-hugh-childers">Mr Hugh Childers</a> July  1, 1886 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-herbert-paul">Mr Herbert Paul</a> July  1, 1892 - July 17, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-robert-cox">Mr Robert Cox</a> July 13, 1895 - June  2, 1899</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-dewar">Mr Arthur Dewar</a> June 19, 1899 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/mr-andrew-agnew">Mr Andrew Agnew</a> October  1, 1900 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-dewar">Mr Arthur Dewar</a> January 12, 1906 - 1910</li>
+        <li class='constituency-member'><a href="/people/hon-charles-lyell">Hon. Charles Lyell</a> April 29, 1910 - May  7, 1917</li>
+        <li class='constituency-member'><a href="/people/sir-james-parrott">Sir James Parrott</a> May 13, 1917 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-charles-murray-3">Mr Charles Murray</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-chapman">Sir Samuel Chapman</a> November 15, 1922 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/sir-william-darling">Sir William Darling</a> July  5, 1945 - May  2, 1957</li>
+        <li class='constituency-member'><a href="/people/mr-michael-hutchison">Mr Michael Hutchison</a> May 29, 1957 - May  3, 1979</li>
+        <li class='constituency-member'><a href="/people/earl-of-ancram">Earl of Ancram</a> May  3, 1979 - June 11, 1987</li>
+        <li class='constituency-member'><a href="/people/mr-nigel-griffiths">Mr Nigel Griffiths</a> June 11, 1987 - ?</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Rutlandshire 1660-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Rutlandshire. Created: 1660. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/r'>
+          Constituencies (R)
+        </a>
+
+      </div>
+      <h1 class='title'>Rutlandshire 1660-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-evans-1">Mr George Evans</a> July 13, 1802 - January 31, 1805</li>
+        <li class='constituency-member'><a href="/people/mr-john-henniker-major-1">Mr John Henniker-Major</a> January 31, 1805 - November 24, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-charles-noel">Mr Charles Noel</a> May 19, 1808 - December 31, 1814</li>
+        <li class='constituency-member'><a href="/people/sir-gerard-noel">Sir Gerard Noel</a> December 10, 1832 - February 25, 1838</li>
+        <li class='constituency-member'><a href="/people/sir-gilbert-heathcote">Sir Gilbert Heathcote</a> December 10, 1832 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/hon-william-noel">Hon. William Noel</a> March 13, 1838 - 1840</li>
+        <li class='constituency-member'><a href="/people/hon-charles-noel">Hon. Charles Noel</a> January 28, 1840 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-gilbert-heathcote">Mr Gilbert Heathcote</a> June 29, 1841 - February 26, 1856</li>
+        <li class='constituency-member'><a href="/people/hon-william-dawnay">Hon. William Dawnay</a> June 29, 1841 - March 23, 1846</li>
+        <li class='constituency-member'><a href="/people/mr-george-finch-1">Mr George Finch</a> February 14, 1846 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-gerard-noel">Mr Gerard Noel</a> July 29, 1847 - 1883</li>
+        <li class='constituency-member'><a href="/people/hon-gilbert-heathcote">Hon. Gilbert Heathcote</a> March  4, 1856 - September  6, 1867</li>
+        <li class='constituency-member'><a href="/people/mr-george-finch">Mr George Finch</a> November 23, 1867 - May 22, 1907</li>
+        <li class='constituency-member'><a href="/people/mr-james-lowther">Mr James Lowther</a> September  1, 1883 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-john-gretton">Mr John Gretton</a> June 11, 1907 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

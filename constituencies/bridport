@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bridport 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Bridport. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bridport 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-barclay">Mr George Barclay</a> March 13, 1795 - June 22, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-evan-nepean">Sir Evan Nepean</a> July  6, 1802 - November 24, 1812</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-hood">Sir Samuel Hood</a> May  6, 1807 - October  9, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-william-best">Mr William Best</a> October  9, 1812 - March 28, 1817</li>
+        <li class='constituency-member'><a href="/people/mr-henry-sturt-1">Mr Henry Sturt</a> March 28, 1817 - March 11, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-james-scott-2">Mr James Scott</a> March 11, 1820 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-christopher-spurrier">Mr Christopher Spurrier</a> March 11, 1820 - June 20, 1820</li>
+        <li class='constituency-member'><a href="/people/sir-horace-stpaul-1">Sir Horace St.Paul</a> June 20, 1820 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-henry-warburton">Mr Henry Warburton</a> December 10, 1832 - 1841</li>
+        <li class='constituency-member'><a href="/people/sir-john-romilly">Sir John Romilly</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-horace-twiss">Mr Horace Twiss</a> January  6, 1835 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-swynfen-jervis">Mr Swynfen Jervis</a> July 24, 1837 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-mitchell">Mr Thomas Mitchell</a> June 29, 1841 - March 16, 1875</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-baillie-cochrane">Mr Alexander Baillie-Cochrane</a> September 15, 1841 - December 31, 1846</li>
+        <li class='constituency-member'><a href="/people/sir-john-romilly">Sir John Romilly</a> March  7, 1846 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-baillie-cochrane">Mr Alexander Baillie-Cochrane</a> July 29, 1847 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-john-murrough">Mr John Murrough</a> July  7, 1852 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-kirkman-hodgson">Mr Kirkman Hodgson</a> March 27, 1857 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-pandeli-ralli">Mr Pandeli Ralli</a> March 31, 1875 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-charles-warton">Mr Charles Warton</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bossiney (Cornwall) 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Bossiney. Region: Cornwall. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/b'>
+          Constituencies (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bossiney (Cornwall) 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-james-wortley">Mr James Wortley</a> February 22, 1797 - December 31, 1819</li>
+        <li class='constituency-member'><a href="/people/mr-john-addington">Mr John Addington</a> July  6, 1802 - January 12, 1803</li>
+        <li class='constituency-member'><a href="/people/mr-george-holford">Mr George Holford</a> January 12, 1803 - November  1, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-henry-baring-1">Mr Henry Baring</a> November  1, 1806 - May  9, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-peter-thellusson">Mr Peter Thellusson</a> May  9, 1807 - December 13, 1808</li>
+        <li class='constituency-member'><a href="/people/mr-john-cuffe">Mr John Cuffe</a> December 13, 1808 - June 12, 1817</li>
+        <li class='constituency-member'><a href="/people/mr-william-peel">Mr William Peel</a> June 12, 1817 - June 18, 1818</li>
+        <li class='constituency-member'><a href="/people/sir-compton-domvile-1">Sir Compton Domvile</a> June 18, 1818 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-john-ward-3">Mr John Ward</a> April  8, 1819 - June  2, 1823</li>
+        <li class='constituency-member'><a href="/people/mr-john-stuart-wortley-mackenzie">Mr John Stuart-Wortley-Mackenzie</a> June  2, 1823 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-edward-tunno">Mr Edward Tunno</a> June 12, 1826 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-charles-stuart-wortley-mackenzie">Mr Charles Stuart-Wortley-Mackenzie</a> July 31, 1830 - February 16, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-john-stuart-wortley-mackenzie">Mr John Stuart-Wortley-Mackenzie</a> February 16, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

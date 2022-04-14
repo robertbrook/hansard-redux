@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Stockbridge (Hampshire) 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Stockbridge. Region: Hampshire. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/s'>
+          Constituencies (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Stockbridge (Hampshire) 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-porter-1">Mr George Porter</a> February 22, 1793 - December 31, 1820</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-foster-barham">Mr Joseph Foster-Barham</a> July  5, 1802 - January 10, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-john-leicester">Sir John Leicester</a> January 10, 1807 - May  4, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-barham">Mr Joseph Barham</a> May  4, 1807 - December 31, 1822</li>
+        <li class='constituency-member'><a href="/people/mr-john-foster-barham">Mr John Foster-Barham</a> March  6, 1820 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/hon-edward-stanley-3">Hon. Edward Stanley</a> July 30, 1822 - June 15, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-grosvenor">Mr Thomas Grosvenor</a> June 15, 1826 - August  4, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-george-wilbraham">Mr George Wilbraham</a> June 15, 1826 - July 25, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-william-sloane-stanley">Mr William Sloane-Stanley</a> August  4, 1830 - May  2, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-stratford-redcliffe">Mr Stratford Redcliffe</a> May  2, 1831 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-john-canning">Mr John Canning</a> May  2, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Dudley 1832-1974 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Dudley. Created: 1832. Abolished: 1974.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/d'>
+          Constituencies (D)
+        </a>
+
+      </div>
+      <h1 class='title'>Dudley 1832-1974</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-john-campbell">Sir John Campbell</a> December 10, 1832 - February 28, 1834</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-hawkes">Mr Thomas Hawkes</a> February 28, 1834 - August 31, 1844</li>
+        <li class='constituency-member'><a href="/people/mr-john-benbow">Mr John Benbow</a> August  8, 1844 - February 24, 1855</li>
+        <li class='constituency-member'><a href="/people/sir-stafford-northcote">Sir Stafford Northcote</a> March  8, 1855 - March 27, 1857</li>
+        <li class='constituency-member'><a href="/people/mr-henry-sheridan">Mr Henry Sheridan</a> March 27, 1857 - July  1, 1886</li>
+        <li class='constituency-member'><a href="/people/mr-brooke-robinson">Mr Brooke Robinson</a> July  1, 1886 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-hooper">Mr Arthur Hooper</a> January 12, 1906 - December  3, 1910</li>
+        <li class='constituency-member'><a href="/people/mr-arthur-griffith-boscawen">Mr Arthur Griffith-Boscawen</a> December  3, 1910 - March  3, 1921</li>
+        <li class='constituency-member'><a href="/people/mr-james-wilson-1">Mr James Wilson</a> March  3, 1921 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/mr-cyril-lloyd">Mr Cyril Lloyd</a> November 15, 1922 - May 30, 1929</li>
+        <li class='constituency-member'><a href="/people/mr-oliver-baldwin">Mr Oliver Baldwin</a> May 30, 1929 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-dudley-joel">Mr Dudley Joel</a> October 27, 1931 - 1941</li>
+        <li class='constituency-member'><a href="/people/mr-cyril-lloyd">Mr Cyril Lloyd</a> July 23, 1941 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-george-wigg">Mr George Wigg</a> July  5, 1945 - November 30, 1967</li>
+        <li class='constituency-member'><a href="/people/mr-donald-williams">Mr Donald Williams</a> March 28, 1968 - June 18, 1970</li>
+        <li class='constituency-member'><a href="/people/dr-john-gilbert">Dr John Gilbert</a> June 18, 1970 - February 28, 1974</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

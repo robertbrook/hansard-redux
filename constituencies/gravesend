@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Gravesend 1832-1983 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Gravesend. Created: 1832. Abolished: 1983.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/g'>
+          Constituencies (G)
+        </a>
+
+      </div>
+      <h1 class='title'>Gravesend 1832-1983</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-charles-wingfield">Sir Charles Wingfield</a> November 17, 1868 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/mr-bedford-pim">Mr Bedford Pim</a> February  6, 1874 - April  3, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-t-bevan">Mr T. Bevan</a> March 31, 1880 - 1880</li>
+        <li class='constituency-member'><a href="/people/sir-sydney-waterlow">Sir Sydney Waterlow</a> July  2, 1880 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-john-white">Mr John White</a> November 24, 1885 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-james-palmer">Mr James Palmer</a> July  4, 1892 - July  2, 1898</li>
+        <li class='constituency-member'><a href="/people/mr-john-ryder">Mr John Ryder</a> July 13, 1898 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/sir-horatio-parker">Sir Horatio Parker</a> October  1, 1900 - May 27, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-richardson">Mr Alexander Richardson</a> June  7, 1918 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-richardson">Mr Alexander Richardson</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/mr-alexander-richardson">Mr Alexander Richardson</a> November 15, 1922 - December  6, 1923</li>
+        <li class='constituency-member'><a href="/people/mr-george-isaacs">Mr George Isaacs</a> December  6, 1923 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/mr-irving-albery">Mr Irving Albery</a> October 29, 1924 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/mr-garry-allighan">Mr Garry Allighan</a> July  5, 1945 - October 30, 1947</li>
+        <li class='constituency-member'><a href="/people/mr-richard-acland">Mr Richard Acland</a> November 26, 1947 - March 22, 1955</li>
+        <li class='constituency-member'><a href="/people/sir-peter-kirk">Sir Peter Kirk</a> May 26, 1955 - October 15, 1964</li>
+        <li class='constituency-member'><a href="/people/mr-albert-murray">Mr Albert Murray</a> October 15, 1964 - June 18, 1970</li>
+        <li class='constituency-member'><a href="/people/mr-roger-white">Mr Roger White</a> June 18, 1970 - February 28, 1974</li>
+        <li class='constituency-member'><a href="/people/mr-john-ovenden">Mr John Ovenden</a> February 28, 1974 - May  3, 1979</li>
+        <li class='constituency-member'><a href="/people/mr-timothy-brinton">Mr Timothy Brinton</a> May  3, 1979 - June  9, 1983</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Minehead (Somerset) 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Minehead. Region: Somerset. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/m'>
+          Constituencies (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Minehead (Somerset) 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-john-fownes-luttrell">Mr John Fownes-Luttrell</a> October  8, 1774 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-john-patteson">Mr John Patteson</a> July 13, 1802 - November  1, 1806</li>
+        <li class='constituency-member'><a href="/people/baron-rancliffe">Baron  Rancliffe</a> November  1, 1806 - May 31, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-john-parkyns">Sir John Parkyns</a> November  1, 1806 - January 14, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-john-luttrell-1">Mr John Luttrell</a> January 14, 1807 - December 31, 1816</li>
+        <li class='constituency-member'><a href="/people/mr-john-denison-1">Mr John Denison</a> May  9, 1807 - October  6, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-john-luttrell">Mr John Luttrell</a> October  6, 1812 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-henry-fownes-luttrell">Mr Henry Fownes-Luttrell</a> March 12, 1816 - April 12, 1822</li>
+        <li class='constituency-member'><a href="/people/mr-john-douglas">Mr John Douglas</a> April 12, 1822 - June 10, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-james-blair-1">Mr James Blair</a> June 10, 1826 - July 31, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-william-tomline">Mr William Tomline</a> July 31, 1830 - April 30, 1831</li>
+        <li class='constituency-member'><a href="/people/viscount-villiers">Viscount  Villiers</a> April 30, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

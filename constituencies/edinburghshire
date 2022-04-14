@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Edinburghshire 1708-1918 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Edinburghshire. Created: 1708. Abolished: 1918.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/e'>
+          Constituencies (E)
+        </a>
+
+      </div>
+      <h1 class='title'>Edinburghshire 1708-1918</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-robert-saunders-dundas">Mr Robert Saunders-Dundas</a> June  1, 1801 - July  6, 1811</li>
+        <li class='constituency-member'><a href="/people/sir-george-clerk">Sir George Clerk</a> July  6, 1811 - December 24, 1832</li>
+        <li class='constituency-member'><a href="/people/lieut-general-sir-john-dalrymple">Lieut-General Sir John Dalrymple</a> December 24, 1832 - January 17, 1835</li>
+        <li class='constituency-member'><a href="/people/sir-george-clerk">Sir George Clerk</a> January 17, 1835 - August  3, 1837</li>
+        <li class='constituency-member'><a href="/people/sir-william-craig">Sir William Craig</a> July 24, 1837 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/mr-william-ramsay">Mr William Ramsay</a> June 29, 1841 - June 24, 1845</li>
+        <li class='constituency-member'><a href="/people/sir-john-hope">Sir John Hope</a> June 25, 1845 - 1853</li>
+        <li class='constituency-member'><a href="/people/earl-of-dalkeith">Earl of Dalkeith</a> June 25, 1853 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/sir-alexander-maitland">Sir Alexander Maitland</a> November 17, 1868 - 1873</li>
+        <li class='constituency-member'><a href="/people/earl-of-dalkeith">Earl of Dalkeith</a> January 31, 1874 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-we-gladstone">Mr W.E. Gladstone</a> March 31, 1880 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-gibson-carmichael">Mr Thomas Gibson-Carmichael</a> July 13, 1895 - October  1, 1900</li>
+        <li class='constituency-member'><a href="/people/master-of-elibank">Master of Elibank</a> October  1, 1900 - January 12, 1906</li>
+        <li class='constituency-member'><a href="/people/lord-dalmeny-1">Lord  Dalmeny</a> January 12, 1906 - January 15, 1910</li>
+        <li class='constituency-member'><a href="/people/master-of-elibank">Master of Elibank</a> January 15, 1910 - September  9, 1912</li>
+        <li class='constituency-member'><a href="/people/colonel-john-hope">Colonel John Hope</a> September 10, 1912 - December 14, 1918</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

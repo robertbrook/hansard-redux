@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Tralee 1802-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Tralee. Created: 1802. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/t'>
+          Constituencies (T)
+        </a>
+
+      </div>
+      <h1 class='title'>Tralee 1802-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-canning">Mr George Canning</a> July 24, 1802 - November 17, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-maurice-fitzgerald">Mr Maurice Fitzgerald</a> November 17, 1806 - January 17, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-samuel-boddington">Mr Samuel Boddington</a> January 17, 1807 - May 21, 1807</li>
+        <li class='constituency-member'><a href="/people/sir-arthur-wellesley">Sir Arthur Wellesley</a> May 21, 1807 - July 27, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-evan-foulkes">Mr Evan Foulkes</a> July 27, 1807 - February 25, 1808</li>
+        <li class='constituency-member'><a href="/people/mr-james-stephen">Mr James Stephen</a> February 25, 1808 - October 27, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-henry-herbert-2">Mr Henry Herbert</a> October 27, 1812 - June 17, 1813</li>
+        <li class='constituency-member'><a href="/people/mr-james-baillie-2">Mr James Baillie</a> June 17, 1813 - June 29, 1818</li>
+        <li class='constituency-member'><a href="/people/mr-edward-denny">Mr Edward Denny</a> June 29, 1818 - May 29, 1819</li>
+        <li class='constituency-member'><a href="/people/mr-james-cuffe">Mr James Cuffe</a> May 29, 1819 - September 12, 1828</li>
+        <li class='constituency-member'><a href="/people/sir-edward-denny">Sir Edward Denny</a> September 12, 1828 - June  9, 1829</li>
+        <li class='constituency-member'><a href="/people/mr-robert-smith">Mr Robert Smith</a> June  9, 1829 - May  7, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-walker-ferrand">Mr Walker Ferrand</a> May  7, 1831 - December 14, 1832</li>
+        <li class='constituency-member'><a href="/people/mr-maurice-oconnell">Mr Maurice O'Connell</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-john-bateman">Mr John Bateman</a> July 24, 1837 - 1838</li>
+        <li class='constituency-member'><a href="/people/mr-maurice-oconnell">Mr Maurice O'Connell</a> March 12, 1838 - June 17, 1853</li>
+        <li class='constituency-member'><a href="/people/mr-daniel-oconnell">Mr Daniel O'Connell</a> July  4, 1853 - May 14, 1863</li>
+        <li class='constituency-member'><a href="/people/mr-thomas-ohagan">Mr Thomas O'Hagan</a> May 15, 1863 - January 31, 1865</li>
+        <li class='constituency-member'><a href="/people/the-odonoghue-of-the-glens">The  O'Donoghue of the Glens</a> July 11, 1865 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

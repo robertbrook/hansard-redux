@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Newport (Cornwall) 1660-1832 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Newport. Region: Cornwall. Created: 1660. Abolished: 1832.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/n'>
+          Constituencies (N)
+        </a>
+
+      </div>
+      <h1 class='title'>Newport (Cornwall) 1660-1832</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-william-northey">Mr William Northey</a> May 28, 1796 - June 19, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-joseph-richardson-1">Mr Joseph Richardson</a> May 28, 1796 - June 20, 1803</li>
+        <li class='constituency-member'><a href="/people/mr-edward-morris">Mr Edward Morris</a> June 20, 1803 - October 10, 1812</li>
+        <li class='constituency-member'><a href="/people/mr-jonathan-raine">Mr Jonathan Raine</a> October 10, 1812 - July 31, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-charles-greathead-bertie-percy">Mr Charles Greathead-Bertie-Percy</a> February  8, 1826 - March 20, 1829</li>
+        <li class='constituency-member'><a href="/people/mr-william-vesey-fitzgerald">Mr William Vesey-Fitzgerald</a> March 20, 1829 - July 30, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-john-doherty">Mr John Doherty</a> July 30, 1830 - December 17, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-henry-hardinge">Mr Henry Hardinge</a> December 17, 1830 - December 10, 1832</li>
+        <li class='constituency-member'><a href="/people/viscount-grimston-1">Viscount  Grimston</a> July 12, 1831 - December 10, 1832</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

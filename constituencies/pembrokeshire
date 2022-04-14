@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Pembrokeshire 1660-1974 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Pembrokeshire. Created: 1660. Abolished: 1974.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/p'>
+          Constituencies (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Pembrokeshire 1660-1974</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-richard-philipps">Mr Richard Philipps</a> February  9, 1786 - October 30, 1812</li>
+        <li class='constituency-member'><a href="/people/sir-john-owen">Sir John Owen</a> December 10, 1832 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/viscount-emlyn-1">Viscount  Emlyn</a> June 29, 1841 - November  7, 1860</li>
+        <li class='constituency-member'><a href="/people/mr-john-vaughan-1">Mr John Vaughan</a> July  6, 1841 - January 19, 1861</li>
+        <li class='constituency-member'><a href="/people/mr-george-philipps">Mr George Philipps</a> January 19, 1861 - November 26, 1866</li>
+        <li class='constituency-member'><a href="/people/mr-james-bowen">Mr James Bowen</a> November 26, 1866 - November 17, 1868</li>
+        <li class='constituency-member'><a href="/people/mr-john-philipps">Mr John Philipps</a> November 17, 1868 - June  3, 1876</li>
+        <li class='constituency-member'><a href="/people/mr-james-bowen">Mr James Bowen</a> June 28, 1876 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-william-davies">Mr William Davies</a> March 31, 1880 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-william-davies-1">Mr William Davies</a> July  4, 1892 - February 14, 1898</li>
+        <li class='constituency-member'><a href="/people/mr-john-phillipps">Mr John Phillipps</a> February 15, 1898 - June 29, 1908</li>
+        <li class='constituency-member'><a href="/people/mr-walter-roch">Mr Walter Roch</a> July 16, 1908 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/sir-evan-jones">Sir Evan Jones</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/mr-gwilym-lloyd-george">Mr Gwilym Lloyd George</a> November 15, 1922 - December  6, 1923</li>
+        <li class='constituency-member'><a href="/people/mr-gwilym-lloyd-george">Mr Gwilym Lloyd George</a> December  6, 1923 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/major-charles-price">Major Charles Price</a> October 29, 1924 - May 30, 1929</li>
+        <li class='constituency-member'><a href="/people/mr-gwilym-lloyd-george">Mr Gwilym Lloyd George</a> May 30, 1929 - February 23, 1950</li>
+        <li class='constituency-member'><a href="/people/mr-desmond-donnelly">Mr Desmond Donnelly</a> February 23, 1950 - June 18, 1970</li>
+        <li class='constituency-member'><a href="/people/mr-nicholas-edwards">Mr Nicholas Edwards</a> June 18, 1970 - February 28, 1974</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

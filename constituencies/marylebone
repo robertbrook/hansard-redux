@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Marylebone 1832-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Marylebone. Created: 1832. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/m'>
+          Constituencies (M)
+        </a>
+
+      </div>
+      <h1 class='title'>Marylebone 1832-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-william-horne">Sir William Horne</a> December 10, 1832 - January  6, 1835</li>
+        <li class='constituency-member'><a href="/people/mr-edward-portman">Mr Edward Portman</a> December 10, 1832 - March 19, 1833</li>
+        <li class='constituency-member'><a href="/people/sir-samuel-whalley">Sir Samuel Whalley</a> March 20, 1833 - February 28, 1838</li>
+        <li class='constituency-member'><a href="/people/sir-henry-bulwer">Sir Henry Bulwer</a> January  6, 1835 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/sir-benjamin-hall">Sir Benjamin Hall</a> July 24, 1837 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/lord-teignmouth">Lord  Teignmouth</a> March  3, 1838 - June 29, 1841</li>
+        <li class='constituency-member'><a href="/people/sir-charles-napier">Sir Charles Napier</a> June 29, 1841 - July 29, 1847</li>
+        <li class='constituency-member'><a href="/people/lord-dudley-stuart">Lord Dudley Stuart</a> July 31, 1847 - December 20, 1854</li>
+        <li class='constituency-member'><a href="/people/viscount-ebrington-2">Viscount  Ebrington</a> December 20, 1854 - January 31, 1859</li>
+        <li class='constituency-member'><a href="/people/mr-edmund-roche">Mr Edmund Roche</a> April 28, 1859 - July 11, 1865</li>
+        <li class='constituency-member'><a href="/people/mr-edwin-james">Mr Edwin James</a> April 28, 1859 - April 18, 1861</li>
+        <li class='constituency-member'><a href="/people/mr-john-lewis-2">Mr John Lewis</a> April 19, 1861 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/sir-thomas-chambers">Sir Thomas Chambers</a> July 11, 1865 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/mr-william-forsyth">Mr William Forsyth</a> January 31, 1874 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/mr-daniel-grant">Mr Daniel Grant</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

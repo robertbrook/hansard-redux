@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Forfarshire 1708-1950 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Forfarshire. Created: 1708. Abolished: 1950.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/f'>
+          Constituencies (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Forfarshire 1708-1950</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/sir-david-carnegie">Sir David Carnegie</a> June 13, 1796 - June 24, 1805</li>
+        <li class='constituency-member'><a href="/people/mr-william-maule-1">Mr William Maule</a> June 24, 1805 - October  3, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-donald-ogilvy">Mr Donald Ogilvy</a> October  3, 1831 - January 31, 1832</li>
+        <li class='constituency-member'><a href="/people/lord-douglas-hallyburton">Lord Douglas Hallyburton</a> December 10, 1832 - December 25, 1841</li>
+        <li class='constituency-member'><a href="/people/lord-john-gordon">Lord John Gordon</a> June 29, 1841 - July  7, 1852</li>
+        <li class='constituency-member'><a href="/people/hon-lauderdale-maule">Hon. Lauderdale Maule</a> July  7, 1852 - August  1, 1854</li>
+        <li class='constituency-member'><a href="/people/viscount-duncan">Viscount  Duncan</a> October 11, 1854 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/hon-charles-carnegie">Hon. Charles Carnegie</a> February  1, 1860 - December 15, 1872</li>
+        <li class='constituency-member'><a href="/people/mr-james-barclay">Mr James Barclay</a> December 16, 1872 - July  4, 1892</li>
+        <li class='constituency-member'><a href="/people/mr-john-rigby">Mr John Rigby</a> July  4, 1892 - November 16, 1894</li>
+        <li class='constituency-member'><a href="/people/hon-charles-ramsay">Hon. Charles Ramsay</a> November 17, 1894 - July 13, 1895</li>
+        <li class='constituency-member'><a href="/people/mr-james-white-1">Mr James White</a> July 13, 1895 - November 23, 1896</li>
+        <li class='constituency-member'><a href="/people/mr-john-sinclair">Mr John Sinclair</a> January 30, 1897 - February 10, 1909</li>
+        <li class='constituency-member'><a href="/people/mr-james-falconer">Mr James Falconer</a> February 27, 1909 - December 14, 1918</li>
+        <li class='constituency-member'><a href="/people/mr-william-shaw-2">Mr William Shaw</a> December 14, 1918 - November 15, 1922</li>
+        <li class='constituency-member'><a href="/people/mr-james-falconer">Mr James Falconer</a> November 15, 1922 - October 29, 1924</li>
+        <li class='constituency-member'><a href="/people/sir-harry-hope">Sir Harry Hope</a> October 29, 1924 - October 27, 1931</li>
+        <li class='constituency-member'><a href="/people/mr-william-shaw-2">Mr William Shaw</a> October 27, 1931 - July  5, 1945</li>
+        <li class='constituency-member'><a href="/people/major-hon-simon-ramsay">Major Hon. Simon Ramsay</a> July  5, 1945 - February 23, 1950</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

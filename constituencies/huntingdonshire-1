@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Huntingdonshire 1660-1885 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='UK Parliament constituency. Name: Huntingdonshire. Created: 1660. Abolished: 1885.' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='constituencies' href='/constituencies/h'>
+          Constituencies (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Huntingdonshire 1660-1885</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>MPs</h3>
+      <ol class='mps-list'>
+        <li class='constituency-member'><a href="/people/mr-george-montagu-1">Mr George Montagu</a> June  3, 1794 - December 31, 1814</li>
+        <li class='constituency-member'><a href="/people/lord-frederick-montagu">Lord Frederick Montagu</a> May 31, 1796 - November  5, 1806</li>
+        <li class='constituency-member'><a href="/people/mr-john-proby">Mr John Proby</a> November  5, 1806 - May 13, 1807</li>
+        <li class='constituency-member'><a href="/people/mr-william-fellowes">Mr William Fellowes</a> May 13, 1807 - August  9, 1830</li>
+        <li class='constituency-member'><a href="/people/mr-john-proby">Mr John Proby</a> June 22, 1814 - June 30, 1818</li>
+        <li class='constituency-member'><a href="/people/lord-frederick-montagu">Lord Frederick Montagu</a> June 30, 1818 - March 16, 1820</li>
+        <li class='constituency-member'><a href="/people/lord-john-russell">Lord John Russell</a> March 16, 1820 - June 20, 1826</li>
+        <li class='constituency-member'><a href="/people/mr-charles-gordon-1">Mr Charles Gordon</a> August 10, 1830 - May  9, 1831</li>
+        <li class='constituency-member'><a href="/people/mr-john-rooper">Mr John Rooper</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/viscount-mandeville">Viscount  Mandeville</a> December 10, 1832 - July 24, 1837</li>
+        <li class='constituency-member'><a href="/people/mr-george-thornhill">Mr George Thornhill</a> July 24, 1837 - May 19, 1852</li>
+        <li class='constituency-member'><a href="/people/mr-edward-fellowes">Mr Edward Fellowes</a> July 24, 1837 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/viscount-mandeville-1">Viscount  Mandeville</a> June 11, 1852 - August 18, 1855</li>
+        <li class='constituency-member'><a href="/people/mr-james-rust">Mr James Rust</a> October 23, 1855 - April 28, 1859</li>
+        <li class='constituency-member'><a href="/people/lord-robert-montagu">Lord Robert Montagu</a> April 28, 1859 - January 31, 1874</li>
+        <li class='constituency-member'><a href="/people/sir-henry-pelly">Sir Henry Pelly</a> February 15, 1874 - June 30, 1877</li>
+        <li class='constituency-member'><a href="/people/viscount-mandeville-2">Viscount  Mandeville</a> June 30, 1877 - March 31, 1880</li>
+        <li class='constituency-member'><a href="/people/hon-william-fellowes">Hon. William Fellowes</a> March 31, 1880 - November 24, 1885</li>
+        <li class='constituency-member'><a href="/people/lord-douglas-gordon">Lord Douglas Gordon</a> March 31, 1880 - November 24, 1885</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
