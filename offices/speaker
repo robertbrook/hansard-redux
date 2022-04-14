@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Speaker (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of holders of the office of Speaker in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='offices' href='/offices/s'>
+          Offices (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Speaker</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h3>People</h3>
+      <ol class='office-holders'>
+        <li class='office-holder'><a href="/people/baron-charles-abbot">Baron Charles Abbot</a> February 11, 1802 - June  5, 1817</li>
+        <li class='office-holder'><a href="/people/sir-charles-sutton">Sir Charles Sutton</a> June  5, 1817 - February 20, 1835</li>
+        <li class='office-holder'><a href="/people/mr-james-abercromby">Mr James Abercromby</a> February 20, 1835 - May 27, 1839</li>
+        <li class='office-holder'><a href="/people/mr-charles-shaw-lefevre">Mr Charles Shaw-Lefevre</a> May 27, 1839 - April 30, 1857</li>
+        <li class='office-holder'><a href="/people/mr-john-denison">Mr John Denison</a> April 30, 1857 - February  9, 1872</li>
+        <li class='office-holder'><a href="/people/sir-henry-brand">Sir Henry Brand</a> February  9, 1872 - February 26, 1884</li>
+        <li class='office-holder'><a href="/people/mr-arthur-peel">Mr Arthur Peel</a> February 26, 1884 - April  8, 1895</li>
+        <li class='office-holder'><a href="/people/mr-william-gully">Mr William Gully</a> April  8, 1895 - June  8, 1905</li>
+        <li class='office-holder'><a href="/people/mr-james-lowther">Mr James Lowther</a> June  8, 1905 - April 28, 1921</li>
+        <li class='office-holder'><a href="/people/mr-john-whitley">Mr John Whitley</a> April 28, 1921 - June 20, 1928</li>
+        <li class='office-holder'><a href="/people/lieut-general-edward-fitzroy">Lieut-General Edward Fitzroy</a> June 20, 1928 - March  9, 1943</li>
+        <li class='office-holder'><a href="/people/mr-douglas-clifton-brown">Mr Douglas Clifton Brown</a> March  9, 1943 - October 31, 1951</li>
+        <li class='office-holder'><a href="/people/mr-william-morrison">Mr William Morrison</a> October 31, 1951 - September 19, 1959</li>
+        <li class='office-holder'><a href="/people/sir-harry-hylton-foster">Sir Harry Hylton-Foster</a> October 20, 1959 - September  2, 1965</li>
+        <li class='office-holder'><a href="/people/dr-horace-king">Dr Horace King</a> October 26, 1965 - December 17, 1970</li>
+        <li class='office-holder'><a href="/people/mr-selwyn-lloyd">Mr Selwyn Lloyd</a> January 12, 1971 - February  3, 1976</li>
+        <li class='office-holder'><a href="/people/mr-george-thomas">Mr George Thomas</a> February  3, 1976 - June 10, 1983</li>
+        <li class='office-holder'><a href="/people/mr-bernard-weatherill">Mr Bernard Weatherill</a> June 11, 1983 - April 27, 1992</li>
+        <li class='office-holder'><a href="/people/miss-betty-boothroyd">Miss Betty Boothroyd</a> April 27, 1992 - October 23, 2000</li>
+        <li class='office-holder'><a href="/people/mr-michael-martin">Mr Michael Martin</a> October 23, 2000 - ?</li>
+      </ol>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

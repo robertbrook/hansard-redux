@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Offices (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content="List of offices held in the period 1803 to 2005 beginning with the letter 'H'" name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Offices</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <span class='letter-nav'><a href="/offices/a">A</a></span>
+      <span class='letter-nav'>B</span>
+      <span class='letter-nav'><a href="/offices/c">C</a></span>
+      <span class='letter-nav'><a href="/offices/d">D</a></span>
+      <span class='letter-nav'><a href="/offices/e">E</a></span>
+      <span class='letter-nav'><a href="/offices/f">F</a></span>
+      <span class='letter-nav'>G</span>
+      <span class='letter-nav'><span class='selected-letter'>H</span></span>
+      <span class='letter-nav'>I</span>
+      <span class='letter-nav'><a href="/offices/j">J</a></span>
+      <span class='letter-nav'><a href="/offices/k">K</a></span>
+      <span class='letter-nav'><a href="/offices/l">L</a></span>
+      <span class='letter-nav'><a href="/offices/m">M</a></span>
+      <span class='letter-nav'>N</span>
+      <span class='letter-nav'><a href="/offices/o">O</a></span>
+      <span class='letter-nav'><a href="/offices/p">P</a></span>
+      <span class='letter-nav'>Q</span>
+      <span class='letter-nav'>R</span>
+      <span class='letter-nav'><a href="/offices/s">S</a></span>
+      <span class='letter-nav'><a href="/offices/t">T</a></span>
+      <span class='letter-nav'><a href="/offices/u">U</a></span>
+      <span class='letter-nav'><a href="/offices/v">V</a></span>
+      <span class='letter-nav'><a href="/offices/w">W</a></span>
+      <span class='letter-nav'>X</span>
+      <span class='letter-nav'>Y</span>
+      <span class='letter-nav'>Z</span>
+      <hr/>
+      <ol>
+        <li class='office'>
+          <a href="/offices/home-secretary">Home Secretary</a>
+        </li>
+      </ol>
+      <p class='note'>213 offices in total</p>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
