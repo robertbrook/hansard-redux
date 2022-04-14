@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0095P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0095P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0095P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0095P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v9.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1934-11-28">[From Minute's of November 28.]</date></li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/11">houselords_1934_12_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/nov/20">houselords_1934_11_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/18">houselords_1934_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/06">houselords_1935_02_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/jan/30">houselords_1935_01_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1934/dec/19">houselords_1934_12_19_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/05">houselords_1935_02_05_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/19">houselords_1935_02_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/jan/31">houselords_1935_01_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/27">houselords_1935_02_27_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/nov/28">houselords_1934_11_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/19">houselords_1934_12_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/07">houselords_1935_02_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/17">houselords_1934_12_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/nov/21">houselords_1934_11_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/jan/29">houselords_1935_01_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/20">houselords_1935_02_20_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/07">houselords_1935_02_07_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/05">houselords_1934_12_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/12">houselords_1935_02_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/15">houselords_1935_02_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/06">houselords_1935_02_06_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/20">houselords_1935_02_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/27">houselords_1935_02_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/21">houselords_1934_12_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1934/nov/28">houselords_1934_11_28_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/jan/29">houselords_1935_01_29_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/26">houselords_1935_02_26_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/13">houselords_1934_12_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/nov/22">houselords_1934_11_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/14">houselords_1934_12_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1934/dec/13">houselords_1934_12_13_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1934/dec/05">houselords_1934_12_05_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/28">houselords_1935_02_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/19">houselords_1935_02_19_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/26">houselords_1935_02_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/21">houselords_1935_02_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/14">houselords_1935_02_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/jan/31">houselords_1935_01_31_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/13">houselords_1935_02_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1935/feb/12">houselords_1935_02_12_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/12">houselords_1934_12_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1935/feb/05">houselords_1935_02_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1934/nov/21">houselords_1934_11_21_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1934/dec/20">houselords_1934_12_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1934/nov/28">lords_writtenanswers_1934_11_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1934/dec/18">lords_writtenanswers_1934_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1935/feb/28">lords_writtenanswers_1935_02_28.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

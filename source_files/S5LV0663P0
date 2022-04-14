@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0663P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0663P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0663P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0663P0</h1>
+      <h4>Schema:</h4>
+      <div>Draft_Hansard_v3.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Missing column? Got: 125, expected 59 (last column 58)</li><li>Missing column? Got: 59, expected 655 (last column 654)</li><li>Missing column? Got: 655, expected 101 (last column 100)</li><li>Missing column? Got: 101, expected 789 (last column 788)</li><li>Missing column? Got: 789, expected 167 (last column 166)</li><li>Missing column? Got: 167, expected 1005 (last column 1004)</li><li>Missing column? Got: 1005, expected 237 (last column 236)</li><li>Missing column? Got: 237, expected 1239 (last column 1238)</li><li>Missing column? Got: 1239, expected 307 (last column 306)</li><li>Bad date format: date format="2004-06-15">Thursday, 15 July 2004.</date> Suggested date: 2004-07-15</li><li>Missing column? Got: 307, expected 1503 (last column 1502)</li><li>Missing column? Got: 1503, expected 363 (last column 362)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/13">houselords_2004_07_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/14">houselords_2004_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/05">houselords_2004_07_05.xml</a>
+          Unhandled element in member contribution    membercontribution    &lt;membercontribution&gt;The noble Baroness said: My Lords, following the drama, we return to matters which I suspect will seem far more mundane. However, to close followers of the...
+        </div>
+        <div>
+          <a href="/lords/2004/jul/02">houselords_2004_07_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/15">houselords_2004_07_15.xml</a>
+          Unhandled element in member contribution    image    &lt;image src=&quot;S5LV0663P0I0883&quot;&gt;&lt;/image&gt;<br />Unhandled element in member contribution    col    &lt;col&gt;1443&lt;/col&gt;<br />Unhandled text    Column 1497    In the Title...
+        </div>
+        <div>
+          <a href="/lords/2004/jul/12">houselords_2004_07_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/07">houselords_2004_07_07.xml</a>
+          Unhandled element in member contribution    membercontribution    &lt;membercontribution&gt;The noble Lord said: My Lords, the amendment returns to a discussion concerning proposed new paragraph 20 of Schedule 11 to the 1989 Act (as set out in Cla...
+        </div>
+        <div>
+          <a href="/lords/2004/jun/29">houselords_2004_06_29.xml</a>
+          Could not find beginning of division for: &lt;division&gt;<br />&lt;table&gt;<br />&lt;tr&gt;<br />&lt;th&gt;Division No. 1&lt;/th&gt;<br />&lt;th&gt;CONTENTS&lt;/th&gt;<br />&lt;/tr&gt;<br />&lt;tr&gt;<br />&lt;td&gt;Addington, L.&lt;/td&g...
+        </div>
+        <div>
+          <a href="/lords/2004/jul/16">houselords_2004_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jun/28">houselords_2004_06_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/01">houselords_2004_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jul/06">houselords_2004_07_06.xml</a>
+          Unhandled element in member contribution    membercontribution    &lt;membercontribution&gt;The noble Baroness said: My Lords, I have tabled Amendment No. 1 to give the Government the opportunity to put on the record their reconsidered response to...
+        </div>
+        <div>
+          <a href="/lords/2004/jul/08">houselords_2004_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2004/jun/30">houselords_2004_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jun/29">lords_writtenanswers_2004_06_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/07">lords_writtenanswers_2004_07_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/16">lords_writtenanswers_2004_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/01">lords_writtenanswers_2004_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/06">lords_writtenanswers_2004_07_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/08">lords_writtenanswers_2004_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jun/28">lords_writtenanswers_2004_06_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jun/30">lords_writtenanswers_2004_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/13">lords_writtenanswers_2004_07_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/14">lords_writtenanswers_2004_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/05">lords_writtenanswers_2004_07_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/02">lords_writtenanswers_2004_07_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/15">lords_writtenanswers_2004_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2004/jul/12">lords_writtenanswers_2004_07_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/grand_committee_report/2004/jul/15">grandcommitteereport_2004_07_15.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2004-07-15&quot;&gt;Thursday, 15 July 2004.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2004/jul/13">grandcommitteereport_2004_07_13.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2004-07-13&quot;&gt;Tuesday, 13 July 2004.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2004/jul/05">grandcommitteereport_2004_07_05.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2004-07-05&quot;&gt;Monday, 5 July 2004.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2004/jul/06">grandcommitteereport_2004_07_06.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2004-07-06&quot;&gt;Tuesday, 6 July 2004.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2004/jul/08">grandcommitteereport_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jun/29">lords_writtenstatements_2004_06_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/07">lords_writtenstatements_2004_07_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/16">lords_writtenstatements_2004_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/06">lords_writtenstatements_2004_07_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/01">lords_writtenstatements_2004_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/08">lords_writtenstatements_2004_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jun/28">lords_writtenstatements_2004_06_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jun/30">lords_writtenstatements_2004_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/14">lords_writtenstatements_2004_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/13">lords_writtenstatements_2004_07_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/02">lords_writtenstatements_2004_07_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/05">lords_writtenstatements_2004_07_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/12">lords_writtenstatements_2004_07_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2004/jul/15">lords_writtenstatements_2004_07_15.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

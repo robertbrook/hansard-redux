@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0668P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0668P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0668P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0668P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: 2004&#x2014;05</li><li>Missing column? Got: 247, expected 57 (last column 56)</li><li>Missing column? Got: 57, expected 469 (last column 468)</li><li>Missing column? Got: 469, expected 123 (last column 122)</li><li>Missing column? Got: 123, expected 639 (last column 638)</li><li>Missing column? Got: 639, expected 191 (last column 190)</li><li>Missing column? Got: 191, expected 771 (last column 770)</li><li>Missing column? Got: 771, expected 249 (last column 248)</li><li>Missing column? Got: 249, expected 873 (last column 872)</li><li>Missing column? Got: 873, expected 307 (last column 306)</li><li>Missing column? Got: 307, expected 995 (last column 994)</li><li>Missing column? Got: 995, expected 365 (last column 364)</li><li>Missing column? Got: 365, expected 1257 (last column 1256)</li><li>Missing column? Got: 1257, expected 423 (last column 422)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/24">houselords_2005_01_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/18">houselords_2005_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/11">houselords_2005_01_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/17">houselords_2005_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/10">houselords_2005_01_10.xml</a>
+          Unhandled element in member contribution    lb    &lt;lb&gt;&lt;/lb&gt;<br />
+        </div>
+        <div>
+          <a href="/lords/2005/jan/19">houselords_2005_01_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/25">houselords_2005_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/13">houselords_2005_01_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/14">houselords_2005_01_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/26">houselords_2005_01_26.xml</a>
+          Unhandled element in member contribution    lb    &lt;lb&gt;&lt;/lb&gt;<br />
+        </div>
+        <div>
+          <a href="/lords/2005/jan/27">houselords_2005_01_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/20">houselords_2005_01_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2005/jan/12">houselords_2005_01_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/12">lords_writtenanswers_2005_01_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/27">lords_writtenanswers_2005_01_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/20">lords_writtenanswers_2005_01_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/26">lords_writtenanswers_2005_01_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/13">lords_writtenanswers_2005_01_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/14">lords_writtenanswers_2005_01_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/25">lords_writtenanswers_2005_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/19">lords_writtenanswers_2005_01_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/17">lords_writtenanswers_2005_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/10">lords_writtenanswers_2005_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/11">lords_writtenanswers_2005_01_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/18">lords_writtenanswers_2005_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2005/jan/24">lords_writtenanswers_2005_01_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/11">grandcommitteereport_2005_01_11.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-11&quot;&gt;Tuesday, 11 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/18">grandcommitteereport_2005_01_18.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-18&quot;&gt;Tuesday, 18 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/19">grandcommitteereport_2005_01_19.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-19&quot;&gt;Wednesday, 19 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/17">grandcommitteereport_2005_01_17.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-17&quot;&gt;Monday, 17 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/25">grandcommitteereport_2005_01_25.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-25&quot;&gt;Tuesday, 25 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/13">grandcommitteereport_2005_01_13.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-13&quot;&gt;Thursday,13 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/grand_committee_report/2005/jan/20">grandcommitteereport_2005_01_20.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;2005-01-20&quot;&gt;Thursday, 20 January 2005.&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/12">lords_writtenstatements_2005_01_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/20">lords_writtenstatements_2005_01_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/27">lords_writtenstatements_2005_01_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/26">lords_writtenstatements_2005_01_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/25">lords_writtenstatements_2005_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/19">lords_writtenstatements_2005_01_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/10">lords_writtenstatements_2005_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/11">lords_writtenstatements_2005_01_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/18">lords_writtenstatements_2005_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2005/jan/24">lords_writtenstatements_2005_01_24.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

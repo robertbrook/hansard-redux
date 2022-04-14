@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0014P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0014P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0014P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0014P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v9.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: SESSION 1913.</li><li>Bad date format: date format="1913-06-02">Wednesday,2nd July, 1913.</date> Suggested date: 1913-07-02</li><li>Bad date format: date format="1931-07-18">Friday, 18th July, 1913.</date> Suggested date: 1913-07-18</li><li>Large gap between dates: 1013-06-24 and 1913-03-10</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/17">houselords_1913_07_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/05">houselords_1913_06_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/21">houselords_1913_04_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/02">houselords_1913_06_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/10">houselords_1913_07_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/28">houselords_1913_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/06">houselords_1913_08_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/mar/11">houselords_1913_03_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/01">houselords_1913_08_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/14">houselords_1913_04_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/08">houselords_1913_08_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/22">houselords_1913_07_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/may/01">houselords_1913_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/30">houselords_1913_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/26">houselords_1913_06_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/08">houselords_1913_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/13">houselords_1913_06_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/30">houselords_1913_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/01">houselords_1913_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/23">houselords_1913_07_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/15">houselords_1913_04_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/24">houselords_1913_07_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/mar/10">houselords_1913_03_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/07">houselords_1913_08_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/mar/17">houselords_1913_03_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/18">houselords_1913_07_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/29">houselords_1913_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/03">houselords_1913_06_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/16">houselords_1913_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/07">houselords_1913_07_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/12">houselords_1913_06_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/09">houselords_1913_07_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1913/apr/18">houselords_1913_04_18_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/11">houselords_1913_08_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/27">houselords_1913_06_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/03">houselords_1913_04_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/20">houselords_1913_06_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/11">houselords_1913_06_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/03">houselords_1913_07_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/04">houselords_1913_07_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/may/27">houselords_1913_05_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/16">houselords_1913_06_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/18">houselords_1913_06_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1913/jun/17">houselords_1913_06_17_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/12">houselords_1913_08_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/15">houselords_1913_08_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/31">houselords_1913_07_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/23">houselords_1913_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/16">houselords_1913_04_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/11">houselords_1913_04_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/18">houselords_1913_04_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/29">houselords_1913_07_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/09">houselords_1913_06_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/15">houselords_1913_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/24">houselords_1913_04_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/mar/28">houselords_1913_03_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/23">houselords_1913_04_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/25">houselords_1913_06_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/30">houselords_1913_07_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/01">houselords_1913_04_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/14">houselords_1913_08_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/08">houselords_1913_04_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/13">houselords_1913_08_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/may/28">houselords_1913_05_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/19">houselords_1913_06_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/17">houselords_1913_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jun/10">houselords_1913_06_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/02">houselords_1913_07_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/22">houselords_1913_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/14">houselords_1913_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/25">houselords_1913_04_25.xml</a>
+          
+        </div>
+        <div>
+          houselords_1013_06_24.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/28">houselords_1913_07_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/aug/05">houselords_1913_08_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/jul/21">houselords_1913_07_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/may/02">houselords_1913_05_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/10">houselords_1913_04_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/apr/17">houselords_1913_04_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1913/may/05">houselords_1913_05_05.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

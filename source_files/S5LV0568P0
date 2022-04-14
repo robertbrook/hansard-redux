@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0568P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0568P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0568P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0568P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: 1995&#x2014;96</li><li>Missing column? Got: 1027, expected 43 (last column 42)</li><li>Missing column? Got: 43, expected 1225 (last column 1224)</li><li>Missing column? Got: 1225, expected 99 (last column 98)</li><li>Missing column? Got: 99, expected 1445 (last column 1444)</li><li>Missing column? Got: 1445, expected 139 (last column 138)</li><li>Missing column? Got: 4, expected 49 (last column 48)</li><li>Missing column? Got: 50, expected 5 (last column 4)</li><li>Missing column? Got: 166, expected 116 (last column 115)</li><li>Missing column? Got: 117, expected 167 (last column 166)</li><li>Missing column? Got: 122, expected 121 (last column 120)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1996/feb/01">houselords_1996_02_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/30">houselords_1996_01_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/31">houselords_1996_01_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/29">houselords_1996_01_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/15">houselords_1996_01_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/24">houselords_1996_01_24.xml</a>
+          Unhandled text    Column 1036    .<br />
+        </div>
+        <div>
+          <a href="/lords/1996/jan/23">houselords_1996_01_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/16">houselords_1996_01_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/11">houselords_1996_01_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/18">houselords_1996_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/09">houselords_1996_01_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/10">houselords_1996_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/17">houselords_1996_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/22">houselords_1996_01_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1996/jan/25">houselords_1996_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/feb/01">lords_writtenanswers_1996_02_01_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/15">lords_writtenanswers_1996_01_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/29">lords_writtenanswers_1996_01_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/feb/01">lords_writtenanswers_1996_02_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/30">lords_writtenanswers_1996_01_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/22">lords_writtenanswers_1996_01_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/25">lords_writtenanswers_1996_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/10">lords_writtenanswers_1996_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/17">lords_writtenanswers_1996_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/09">lords_writtenanswers_1996_01_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/18">lords_writtenanswers_1996_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/16">lords_writtenanswers_1996_01_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/11">lords_writtenanswers_1996_01_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/24">lords_writtenanswers_1996_01_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1996/jan/23">lords_writtenanswers_1996_01_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/grand_committee_report/1996/jan/23">grandcommitteereport_1996_01_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/grand_committee_report/1996/jan/25">grandcommitteereport_1996_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/grand_committee_report/1996/jan/30">grandcommitteereport_1996_01_30.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S2V0013P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S2V0013P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S2V0013P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S2V0013P0</h1>
+      <h4>Schema:</h4>
+      <div>Draft_Hansard_v3.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1825-04-19">Tuesday, April 19.</date></li><li>Bad date format: date format="1825-04-19">Tuesday, April 19.</date></li><li>Bad date format: date format="1825-04-21">Thursday, April 21.</date></li><li>Bad date format: date format="1825-04-21">Thursday, April 21.</date></li><li>Bad date format: date format="1825-04-22">Friday, April 22.</date></li><li>Bad date format: date format="1825-04-22">Friday, April 22</date></li><li>Bad date format: date format="1825-04-25">Monday, April 25.</date></li><li>Bad date format: date format="1825-04-25">Monday, April 25.</date></li><li>Bad date format: date format="1825-04-26">Tuesday, April 26.</date></li><li>Bad date format: date format="1825-04-26">Tuesday, April 26.</date></li><li>Bad date format: date format="1825-04-28">Thursday, April 28.</date></li><li>Bad date format: date format="1825-04-28">Thursday, April 28.</date></li><li>Bad date format: date format="1825-04-29">Friday, April 29.</date></li><li>Bad date format: date format="1825-06-02">Monday, May 2.</date></li><li>Bad date format: date format="1925-05-03">Tuesday, May 3.</date></li><li>Bad date format: date format="1825-05-04">Wednesday, May 4.</date></li><li>Bad date format: date format="1825-05-05">Thursday, May 5th.</date></li><li>Bad date format: date format="1825-05-05">Thursday, May 5.</date></li><li>Bad date format: date format="1825-05-06">Friday, May 6.</date></li><li>Bad date format: date format="1825-05-09">Monday, May 9.</date></li><li>Bad date format: date format="1825-05-09">Monday, May 9.</date></li><li>Bad date format: date format="1825-05-10">Tuesday, May 10.</date></li><li>Bad date format: date format="1825-05-11">Wednesday, May 11.</date></li><li>Bad date format: date format="1825-05-11">Wednesday, May 11.</date></li><li>Bad date format: date format="1825-05-12">Thursday, May 12.</date></li><li>Bad date format: date format="1825-05-13">Friday, May 13.</date></li><li>Bad date format: date format="1825-05-13">Friday, May 13.</date></li><li>Bad date format: date format="1825-05-16"> Monday, May 16</date></li><li>Bad date format: date format="1825-05-17">Tuesday, May 17.</date></li><li>Bad date format: date format="1825-05-17">Tuesday, May 17.</date></li><li>Bad date format: date format="1825-05-19">Thursday, May 19.</date></li><li>Bad date format: date format="1825-05-20">Friday, May 20</date></li><li>Bad date format: date format="1825-05-26">Thursday, May 26.</date></li><li>Bad date format: date format="1825-05-26">Thursday, May 26.</date></li><li>Bad date format: date format="1825-05-31">Tuesday, May 31.</date></li><li>Bad date format: date format="1825-05-31">Tuesday, May 31.</date></li><li>Bad date format: date format="1825-06-02">Thursday June 2.</date></li><li>Bad date format: date format="1825-06-02">Thursday, June 2.</date></li><li>Bad date format: date format="1825-06-03">Friday, June 3.</date></li><li>Bad date format: date format="1825-06-03">Friday, June 3.</date></li><li>Bad date format: date format="1825-06-06">Monday, June 6.</date></li><li>Bad date format: date format="1825-06-07">Tuesday, June 7.</date></li><li>Bad date format: date format="1825-06-07">Tuesday, June 7.</date></li><li>Bad date format: date format="1825-06-09">Thursday, June 9.</date></li><li>Bad date format: date format="1825-06-10">Friday, June 10.</date></li><li>Bad date format: date format="1825-06-14">Tuesday, June 14.</date></li><li>Bad date format: date format="1825-06-14">Tuesday, June 14.</date></li><li>Bad date format: date format="1825-06-16">Thursday, June 16.</date></li><li>Bad date format: date format="1825-06-17">Friday, June 17.</date></li><li>Bad date format: date format="1825-06-17">Friday, June 17.</date></li><li>Bad date format: date format="1825-06-20">Monday, June 20.</date></li><li>Bad date format: date format="1825-06-21">Thursday, June 21.</date></li><li>Bad date format: date format="1825-06-22">Wednesday, June 22.</date></li><li>Bad date format: date format="1825-06-22">Wednesday, June 22.</date></li><li>Bad date format: date format="1825-06-23">Thursday, June 23.</date></li><li>Bad date format: date format="1825-06-23">Thursday, June 23.</date></li><li>Bad date format: date format="1825-06-24">Friday, June 24.</date></li><li>Bad date format: date format="1825-06-24">Friday, June 24.</date></li><li>Bad date format: date format="1825-06-27">Monday, June 27.</date></li><li>Bad date format: date format="1825-06-27">Monday, June 27.</date></li><li>Bad date format: date format="1825-06-28">Tuesday, June 28.</date></li><li>Bad date format: date format="1825-06-29">Wednesday, June 29.</date></li><li>Bad date format: date format="1825-06-30">Thursday, June 30.</date></li><li>Bad date format: date format="1825-06-30">Thursday, June 30.</date></li><li>Bad date format: date format="1825-07-01">Friday, July 1.</date></li><li>Bad date format: date format="1825-07-04">Monday, July 4.</date></li><li>Bad date format: date format="1825-07-05">Tuesday, July 5.</date></li><li>Bad date format: date format="1825-07-05">Tuesday, July 5.</date></li><li>Bad date format: date format="1825-07-06">Wednesday, July 6.</date></li><li>Missing frontmatter tag</li><li>Large gap between dates: 1825-07-06 and 1925-05-03</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/19">housecommons_1825_05_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/02">housecommons_1825_06_02_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/28">housecommons_1825_06_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/17">housecommons_1825_05_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/21">housecommons_1825_06_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/10">housecommons_1825_05_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/14">housecommons_1825_06_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jul/01">housecommons_1825_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/28">housecommons_1825_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/02">housecommons_1825_06_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/21">housecommons_1825_04_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/26">housecommons_1825_04_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/30">housecommons_1825_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/06">housecommons_1825_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/20">housecommons_1825_06_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/11">housecommons_1825_05_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/16">housecommons_1825_05_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/may/03">housecommons_1925_05_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/27">housecommons_1825_06_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/18">housecommons_1825_05_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/29">housecommons_1825_06_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/09">housecommons_1825_05_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/03">housecommons_1825_06_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/29">housecommons_1825_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/04">housecommons_1825_05_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/31">housecommons_1825_05_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/07">housecommons_1825_06_07.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1825/jun/09">housecommons_1825_06_09.xml</a>
+          Unhandled text    Column 1108    &quot;<br />parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/2009030...
+        </div>
+        <div>
+          <a href="/commons/1825/jun/16">housecommons_1825_06_16.xml</a>
+          Unhandled text    Column 1204    .<br />
+        </div>
+        <div>
+          <a href="/commons/1825/may/27">housecommons_1825_05_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/20">housecommons_1825_05_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/24">housecommons_1825_06_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/23">housecommons_1825_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/12">housecommons_1825_05_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/06">housecommons_1825_06_06.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1825/apr/25">housecommons_1825_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/30">housecommons_1825_05_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/22">housecommons_1825_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/05">housecommons_1825_05_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/apr/19">housecommons_1825_04_19.xml</a>
+          Unhandled text    Column 8    .<br />Unhandled text    Column 8    .<br />Unhandled text    Column 9    .<br />Unhandled text    Column 10    .<br />Unhandled text    Column 11    .<br />Unhandled text    Column 13    .<br />Unhandled text    Colu...
+        </div>
+        <div>
+          <a href="/commons/1825/jun/22">housecommons_1825_06_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/13">housecommons_1825_05_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/10">housecommons_1825_06_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jun/17">housecommons_1825_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/may/26">housecommons_1825_05_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1825/jul/05">housecommons_1825_07_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/07">houselords_1825_06_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/31">houselords_1825_05_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/27">houselords_1825_05_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jul/04">houselords_1825_07_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/23">houselords_1825_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/24">houselords_1825_06_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/22">houselords_1825_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/25">houselords_1825_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/19">houselords_1825_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/05">houselords_1825_05_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/22">houselords_1825_06_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/13">houselords_1825_05_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/17">houselords_1825_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/26">houselords_1825_05_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jul/05">houselords_1825_07_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/17">houselords_1825_05_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/14">houselords_1825_06_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jul/06">houselords_1825_07_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/26">houselords_1825_04_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/02">houselords_1825_06_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/21">houselords_1825_04_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/apr/28">houselords_1825_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/30">houselords_1825_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/27">houselords_1825_06_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/11">houselords_1825_05_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/may/09">houselords_1825_05_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1825/jun/03">houselords_1825_06_03.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

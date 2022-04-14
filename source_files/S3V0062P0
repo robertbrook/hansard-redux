@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S3V0062P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S3V0062P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S3V0062P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S3V0062P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v11.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1842-04-11">Monday, April 11,1842.</date></li><li>Bad date format: date format="1842-04-14">Thursday, April 14,1842.</date></li><li>Bad date format: date format="1842-04-15"> Friday, April 15,1842.</date></li><li>Bad date format: date format="1842-04-21">Thursday, April 21,1842.</date></li><li>Bad date format: date format="1842-04-22">Friday, April 22,1842.</date></li><li>Missing frontmatter tag</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1842/apr/14">housecommons_1842_04_14.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/13">housecommons_1842_04_13.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/28">housecommons_1842_04_28.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of theAYES&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing wi...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/26">housecommons_1842_04_26.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/21">housecommons_1842_04_21.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/30">housecommons_1842_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1842/apr/20">housecommons_1842_04_20.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/29">housecommons_1842_04_29.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/12">housecommons_1842_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1842/apr/15">housecommons_1842_04_15.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/07">housecommons_1842_04_07.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/18">housecommons_1842_04_18.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/11">housecommons_1842_04_11.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/08">housecommons_1842_04_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1842/may/02">housecommons_1842_05_02.xml</a>
+          Unhandled text    Column 1390    &gt;<br />parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/2009030217494...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/19">housecommons_1842_04_19.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/22">housecommons_1842_04_22.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/commons/1842/apr/25">housecommons_1842_04_25.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the AYES.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Parsing ...
+        </div>
+        <div>
+          <a href="/lords/1842/apr/22">houselords_1842_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/25">houselords_1842_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/may/02">houselords_1842_05_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/19">houselords_1842_04_19.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />List of the CONTENTS,<br /><br /><br />DUKES.<br />Somerset...<br />/data/releases/20090302174945/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/rele...
+        </div>
+        <div>
+          <a href="/lords/1842/apr/08">houselords_1842_04_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/18">houselords_1842_04_18.xml</a>
+          Could not find beginning of division for: &lt;division&gt;<br />&lt;table&gt;<br />&lt;tr&gt;<br />&lt;td align=&quot;center&quot; colspan=&quot;2&quot;&gt;&lt;i&gt;List of the Not-Contents on the first division.&lt;/i&gt;&lt;/td&gt;<br />&lt;...
+        </div>
+        <div>
+          <a href="/lords/1842/apr/11">houselords_1842_04_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/07">houselords_1842_04_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/12">houselords_1842_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/15">houselords_1842_04_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/29">houselords_1842_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/28">houselords_1842_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/26">houselords_1842_04_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/21">houselords_1842_04_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1842/apr/14">houselords_1842_04_14.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5CV0186P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5CV0186P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5CV0186P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5CV0186P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v9.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: SESSION, 1924&#x2013;25.</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Large gap between dates: 1920-07-21 and 1925-07-06</li><li>Date not in session years: 1920-07-21</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/20">housecommons_1925_07_20.xml</a>
+          unexpected text: Mr. CECIL WILSON) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-05757&quot;, member_name: &quot;Mr. T. WILLIAMS&quot;, member_suffix: nil, text: &quot;&quot;, colum...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/15">housecommons_1925_07_15.xml</a>
+          unexpected text: The FIRST COMMISSIONER of WORKS): in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-04011&quot;, member_name: &quot;Mr. G. LOCKER-LAMPSON&quot;, member_suffix: nil, tex...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/13">housecommons_1925_07_13.xml</a>
+          unexpected text: Captain GARRO-JONES) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-02489&quot;, member_name: &quot;Mr. MORRIS&quot;, member_suffix: nil, text: &quot;&quot;, column_...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/14">housecommons_1925_07_14.xml</a>
+          unexpected element in oral_question_section: body: &lt;body&gt;<br />&lt;p id=&quot;S5CV0186P0-03265&quot;&gt;29. &lt;member&gt;Mr. W. BAKER&lt;/member&gt;&lt;membercontribution&gt; asked the Secretary for Mines the quantities of coal, coke and b...
+        </div>
+        <div>
+          <a href="/commons/1920/jul/21">housecommons_1920_07_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/06">housecommons_1925_07_06.xml</a>
+          unexpected text: Lord EUSTACE PERCY) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-00439&quot;, member_name: &quot;Major HENNESSY&quot;, member_suffix: nil, text: &quot;&quot;, colu...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/08">housecommons_1925_07_08.xml</a>
+          unexpected text: Mr. BENNETT) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-01396&quot;, member_name: &quot;Mr. BROCKLEBANK&quot;, member_suffix: nil, text: &quot;&quot;, column_ran...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/17">housecommons_1925_07_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/10">housecommons_1925_07_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/22">housecommons_1925_07_22.xml</a>
+          unexpected text: Mr. STEPHEN) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-07021&quot;, member_name: &quot;Mr. MAXTON&quot;, member_suffix: nil, text: &quot;&quot;, column_range: &...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/09">housecommons_1925_07_09.xml</a>
+          unexpected text: Mr. EDWARD WOOD) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-02032&quot;, member_name: &quot;Major Sir HARRY BARNSTON&quot;, member_suffix: nil, text: &quot;&quot...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/07">housecommons_1925_07_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/23">housecommons_1925_07_23.xml</a>
+          unexpected text: Mr. DENNISON) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-07552&quot;, member_name: &quot;Mr. T. WILLIAMS&quot;, member_suffix: nil, text: &quot;&quot;, column_ra...
+        </div>
+        <div>
+          <a href="/commons/1925/jul/24">housecommons_1925_07_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/jul/16">housecommons_1925_07_16.xml</a>
+          unexpected text: Captain W. BENN) in contribution #&lt;MemberContribution id: nil, type: &quot;MemberContribution&quot;, xml_id: &quot;S5CV0186P0-05028&quot;, member_name: &quot;Mr. HARRIS&quot;, member_suffix: nil, text: &quot;&quot;, column_rang...
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/20">commons_writtenanswers_1925_07_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/15">commons_writtenanswers_1925_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1920/jul/21">commons_writtenanswers_1920_07_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/14">commons_writtenanswers_1925_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/13">commons_writtenanswers_1925_07_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/10">commons_writtenanswers_1925_07_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/17">commons_writtenanswers_1925_07_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/22">commons_writtenanswers_1925_07_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/06">commons_writtenanswers_1925_07_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/08">commons_writtenanswers_1925_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/24">commons_writtenanswers_1925_07_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/23">commons_writtenanswers_1925_07_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/16">commons_writtenanswers_1925_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/09">commons_writtenanswers_1925_07_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/jul/07">commons_writtenanswers_1925_07_07.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

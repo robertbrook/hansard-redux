@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S6CV0348P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S6CV0348P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S6CV0348P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S6CV0348P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v5.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="2000-10-04">Monday 10 April 2000</date> Suggested date: 2000-04-10</li><li>Bad date format: date format="2000-05-14">Monday 17 April 2000</date> Suggested date: 2000-04-17</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/12">housecommons_2000_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/20">housecommons_2000_04_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/13">housecommons_2000_04_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/14">housecommons_2000_04_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/17">housecommons_2000_04_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/10">housecommons_2000_04_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/19">housecommons_2000_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/18">housecommons_2000_04_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2000/apr/11">housecommons_2000_04_11.xml</a>
+          Unhandled text    Column 294    .<br />Unhandled text    Column 297    .<br />
+        </div>
+        <div>
+          <a href="/westminster_hall/2000/apr/19">westminsterhall_2000_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2000/apr/18">westminsterhall_2000_04_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2000/apr/11">westminsterhall_2000_04_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2000/apr/12">westminsterhall_2000_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2000/apr/13">westminsterhall_2000_04_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/19">commons_writtenanswers_2000_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/10">commons_writtenanswers_2000_04_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/17">commons_writtenanswers_2000_04_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/11">commons_writtenanswers_2000_04_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/18">commons_writtenanswers_2000_04_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/12">commons_writtenanswers_2000_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/20">commons_writtenanswers_2000_04_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/14">commons_writtenanswers_2000_04_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2000/apr/13">commons_writtenanswers_2000_04_13.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0062P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0062P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0062P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0062P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: 1924&#x2013;5</li><li>Bad date format: date format="1925-06-20">Monday, 20th July, 1925.</date> Suggested date: 1925-07-20</li><li>Bad date format: date format="1925-06-22">Wednesday, 22nd July, 1925.</date> Suggested date: 1925-07-22</li><li>Bad date format: date format="1925-07-28">[Form Minutes of July 28.]</date></li><li>Large gap between dates: 1925-08-07 and 1925-11-16</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/aug/05">houselords_1925_08_05_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/14">houselords_1925_07_14_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/dec/08">houselords_1925_12_08_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/02">houselords_1925_12_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/22">houselords_1925_07_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/14">houselords_1925_12_14.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />De La Warr, E. [Teller.]<br />Yo...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/rele...
+        </div>
+        <div>
+          <a href="/lords/1925/nov/25">houselords_1925_11_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/aug/06">houselords_1925_08_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/nov/16">houselords_1925_11_16_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/21">houselords_1925_12_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/19">houselords_1925_11_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/29">houselords_1925_07_29_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jun/20">houselords_1925_06_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/16">houselords_1925_07_16_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/04">houselords_1925_12_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/03">houselords_1925_12_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/nov/18">houselords_1925_11_18_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/dec/01">houselords_1925_12_01_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/dec/17">houselords_1925_12_17_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/27">houselords_1925_07_27_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/16">houselords_1925_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/18">houselords_1925_11_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/16">houselords_1925_11_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/23">houselords_1925_11_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/aug/07">houselords_1925_08_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/15">houselords_1925_12_15.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />Argyll, D.<br />Ullswater, V.<br />Ha...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/lords/1925/nov/24">houselords_1925_11_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/23">houselords_1925_07_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/15">houselords_1925_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/21">houselords_1925_07_21_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/nov/24">houselords_1925_11_24_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/16">houselords_1925_12_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/27">houselords_1925_11_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/29">houselords_1925_07_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/aug/03">houselords_1925_08_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/20">houselords_1925_11_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/aug/04">houselords_1925_08_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/20">houselords_1925_07_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/18">houselords_1925_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/27">houselords_1925_07_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/09">houselords_1925_12_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/aug/06">houselords_1925_08_06_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/31">houselords_1925_07_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/30">houselords_1925_07_30_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/21">houselords_1925_07_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/aug/05">houselords_1925_08_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/10">houselords_1925_12_10.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />Salisbury, M. (L. Privy Sea...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/releases/...
+        </div>
+        <div>
+          <a href="/lords/1925/dec/17">houselords_1925_12_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/nov/26">houselords_1925_11_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/28">houselords_1925_07_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/28">houselords_1925_07_28_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/22">houselords_1925_12_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/14">houselords_1925_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/aug/03">houselords_1925_08_03_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/13">houselords_1925_07_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/jul/15">houselords_1925_07_15_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1925/aug/04">houselords_1925_08_04_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/01">houselords_1925_12_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jul/30">houselords_1925_07_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/jun/22">houselords_1925_06_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1925/dec/08">houselords_1925_12_08.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

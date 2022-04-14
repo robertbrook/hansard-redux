@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S4V0048P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S4V0048P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S4V0048P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S4V0048P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v9.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1987-04-28">Wednesday, 28th April 1897.</date> Suggested date: 1897-04-28</li><li>Missing frontmatter tag</li><li>Large gap between dates: 1807-04-05 and 1897-03-30</li><li>Date not in session years: 1807-04-05</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1897/may/06">housecommons_1897_05_06.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />AYES.<br /><br /><br />Acland-Hood, Capt, Sir A. F<br />Bro...<br />/data/releases/20090302174945/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/rele...
+        </div>
+        <div>
+          <a href="/commons/1897/apr/26">housecommons_1897_04_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/28">housecommons_1897_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/30">housecommons_1897_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/02">housecommons_1897_04_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/29">housecommons_1897_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/27">housecommons_1897_04_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/12">housecommons_1897_04_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1807/apr/05">housecommons_1807_04_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/09">housecommons_1897_04_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/07">housecommons_1897_04_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/mar/30">housecommons_1897_03_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/may/04">housecommons_1897_05_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/may/03">housecommons_1897_05_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/mar/31">housecommons_1897_03_31.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/06">housecommons_1897_04_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/01">housecommons_1897_04_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/apr/08">housecommons_1897_04_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1897/may/05">housecommons_1897_05_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/mar/30">houselords_1897_03_30.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />Canterbury, L. Abp.<br />Bristol...<br />/data/releases/20090302174945/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/rele...
+        </div>
+        <div>
+          <a href="/lords/1897/may/03">houselords_1897_05_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/may/04">houselords_1897_05_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/apr/01">houselords_1897_04_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/apr/06">houselords_1897_04_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/apr/08">houselords_1897_04_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/may/06">houselords_1897_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/apr/05">houselords_1897_04_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1897/apr/02">houselords_1897_04_02.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />Ripon, M.<br />Coleridge, L.<br /><br /><br /><br />...<br />/data/releases/20090302174945/lib/hansard/division_handler.rb:50:in `populate_last_...
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

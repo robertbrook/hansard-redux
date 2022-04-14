@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S2V0019P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S2V0019P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S2V0019P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S2V0019P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v12.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1828-04-24">Thursday, April 24.</date></li><li>Bad date format: date format="1828-04-24">Thursday, April 24.</date></li><li>Bad date format: date format="1828-04-25">Friday, April 25.</date></li><li>Bad date format: date format="1828-04-25">Friday, April 25.</date></li><li>Bad date format: date format="1828-04-28">Friday, April 28.</date></li><li>Bad date format: date format="1828-04-28">Monday, April 28.</date></li><li>Bad date format: date format="1828-04-29">Tuesday, April 29.</date></li><li>Bad date format: date format="1828-04-29">Tuesday, April 29.</date></li><li>Bad date format: date format="1828-05-01">Thursday, May 1.</date></li><li>Bad date format: date format="1828-05-01">Thursday, May 1.</date></li><li>Bad date format: date format="1828-05-02">Friday, May 2.</date></li><li>Bad date format: date format="1828-05-02">Friday, May 2.</date></li><li>Bad date format: date format="1828-05-13">Tuesday, May 13.</date></li><li>Bad date format: date format="1828-05-14">Wednesday, May 14.</date></li><li>Bad date format: date format="1828-05-15">Thursday, May 15.</date></li><li>Bad date format: date format="1828-05-16">Friday, May 16.</date></li><li>Bad date format: date format="1828-05-16">Friday, May 16.</date></li><li>Bad date format: date format="1828-05-19">Monday, May 19.</date></li><li>Bad date format: date format="1828-05-19">Monday, May 19.</date></li><li>Bad date format: date format="1828-05-20">Tuesday, May 20,1828.</date></li><li>Bad date format: date format="1828-06-03">Tuesday, June 3.</date></li><li>Bad date format: date format="1828-05-06">Thursday, June 5.</date></li><li>Bad date format: date format="1828-06-09">Monday, June 9.</date></li><li>Bad date format: date format="1828-06-13">Friday, June 13,1828.</date></li><li>Bad date format: date format="1828-06-16">Monday, June 16.</date></li><li>Bad date format: date format="1828-06-16">Monday, June 16.</date></li><li>Bad date format: date format="1828-06-17">Tuesday, June 17,1828.</date></li><li>Bad date format: date format="1828-06-19">Thursday, June 19 th,1828.</date></li><li>Bad date format: date format="1828-06-20">Friday, June 20.</date></li><li>Bad date format: date format="1828-06-23">Monday, June 23.</date></li><li>Bad date format: date format="1828-06-24">Tuesday, June 24.</date></li><li>Bad date format: date format="1828-06-26">Thursday, June 26.</date></li><li>Bad date format: date format="1828-06-26">Thursday, June 26.</date></li><li>Bad date format: date format="1828-06-27">Friday, June 27.</date></li><li>Bad date format: date format="1828-06-30">Monday, June 30.</date></li><li>Bad date format: date format="1828-07-01">Tuesday, July 1.</date></li><li>Bad date format: date format="1828-07-08">Tuesday, July 8.</date></li><li>Bad date format: date format="1828-07-10">Tuesday, July 10.</date></li><li>Bad date format: date format="1828-07-11">Friday, July 11.</date></li><li>Bad date format: date format="1828-07-16">Wednesday, July 16,1828.</date></li><li>Bad date format: date format="1828-07-17">Thursday, July 17,1828.</date></li><li>Bad date format: date format="1828-07-17">Thursday, July 17.</date></li><li>Bad date format: date format="1828-07-21">Monday, July 21.</date></li><li>Bad date format: date format="1828-07-24">Thursday, July 24.</date></li><li>Bad date format: date format="1828-07-25">Friday, July 25.</date></li><li>Bad date format: date format="1828-07-28">Monday, July 28.</date></li><li>Missing frontmatter tag</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/16">housecommons_1828_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/03">housecommons_1828_06_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/11">housecommons_1828_07_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/18">housecommons_1828_07_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/apr/29">housecommons_1828_04_29.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1828/may/09">housecommons_1828_05_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/20">housecommons_1828_06_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/27">housecommons_1828_06_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/16">housecommons_1828_05_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/12">housecommons_1828_06_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/23">housecommons_1828_05_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/07">housecommons_1828_07_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/01">housecommons_1828_05_01.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1828/jun/30">housecommons_1828_06_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/25">housecommons_1828_07_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/06">housecommons_1828_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/08">housecommons_1828_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/apr/28">housecommons_1828_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/02">housecommons_1828_06_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/10">housecommons_1828_07_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/17">housecommons_1828_07_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/05">housecommons_1828_06_05.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1828/jun/13">housecommons_1828_06_13.xml</a>
+          unexpected element in member_name: image: &lt;image src=&quot;S2V0019P0I0685&quot;&gt;&lt;/image&gt;<br />
+        </div>
+        <div>
+          <a href="/commons/1828/jul/01">housecommons_1828_07_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/22">housecommons_1828_05_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/08">housecommons_1828_07_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/19">housecommons_1828_05_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/26">housecommons_1828_06_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/10">housecommons_1828_06_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/21">housecommons_1828_05_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/17">housecommons_1828_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/19">housecommons_1828_06_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/13">housecommons_1828_05_13.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1828/may/14">housecommons_1828_05_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/05">housecommons_1828_05_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/21">housecommons_1828_07_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/02">housecommons_1828_05_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/14">housecommons_1828_07_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/apr/25">housecommons_1828_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/06">housecommons_1828_06_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/apr/22">housecommons_1828_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/30">housecommons_1828_05_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/24">housecommons_1828_06_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/15">housecommons_1828_05_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/12">housecommons_1828_05_12.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Majority, and also of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard...
+        </div>
+        <div>
+          <a href="/commons/1828/jun/23">housecommons_1828_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/04">housecommons_1828_07_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jun/16">housecommons_1828_06_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/jul/03">housecommons_1828_07_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/may/20">housecommons_1828_05_20.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house_parser.rb<br />Pars...
+        </div>
+        <div>
+          <a href="/commons/1828/jul/15">housecommons_1828_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1828/apr/24">housecommons_1828_04_24.xml</a>
+          parsing FAILED	Unexpected table in division: [&quot;List of the Majority and of the Minority.&quot;]<br />/data/releases/20090302174945/lib/hansard/commons_division_handler.rb:38:in `obtain_division' /data/releases/20090302174945/lib/hansard/house...
+        </div>
+        <div>
+          <a href="/commons/1828/jun/09">housecommons_1828_06_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1828/may/06">houselords_1828_05_06_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/16">houselords_1828_07_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/apr/29">houselords_1828_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/24">houselords_1828_07_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/16">houselords_1828_05_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/20">houselords_1828_06_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/23">houselords_1828_05_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/12">houselords_1828_06_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/06">houselords_1828_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/01">houselords_1828_05_01.xml</a>
+          parsing FAILED	Unexpected table in Division: &lt;division&gt;<br />&lt;table&gt;<br />&lt;tr&gt;<br />&lt;td align=&quot;center&quot; colspan=&quot;2&quot;&gt;&lt;b&gt;MAJORITY.&lt;/b&gt;&lt;/td&gt;<br />&lt;/tr&gt;<br />&lt;tr&gt;<br />&lt;...
+        </div>
+        <div>
+          <a href="/lords/1828/apr/28">houselords_1828_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/17">houselords_1828_07_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/13">houselords_1828_06_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/19">houselords_1828_05_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/26">houselords_1828_06_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/17">houselords_1828_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/10">houselords_1828_06_10.xml</a>
+          parsing FAILED	Unexpected table in Division: &lt;division&gt;<br />&lt;table&gt;<br />&lt;tr&gt;<br />&lt;td align=&quot;center&quot; colspan=&quot;2&quot;&gt;&lt;b&gt;&lt;i&gt;List of the Majority, and also of the Minority.&lt;/i&gt;&lt;/b&gt;...
+        </div>
+        <div>
+          <a href="/lords/1828/may/02">houselords_1828_05_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/05">houselords_1828_05_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/28">houselords_1828_07_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/06">houselords_1828_06_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/apr/25">houselords_1828_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/23">houselords_1828_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/12">houselords_1828_05_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/may/20">houselords_1828_05_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/03">houselords_1828_07_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/16">houselords_1828_06_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/apr/24">houselords_1828_04_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jul/15">houselords_1828_07_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1828/jun/09">houselords_1828_06_09.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

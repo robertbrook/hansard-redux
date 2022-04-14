@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0063P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0063P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0063P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0063P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1936-04-21">Wednesday, 21st April, 1926.</date> Suggested date: 1926-04-21</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/29">houselords_1926_03_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/22">houselords_1926_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/feb/11">houselords_1926_02_11_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/19">houselords_1926_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/11">houselords_1926_02_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/03">houselords_1926_03_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/04">houselords_1926_03_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/28">houselords_1926_04_28_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/16">houselords_1926_02_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/18">houselords_1926_02_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/23">houselords_1926_02_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/24">houselords_1926_02_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/17">houselords_1926_03_17_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/19">houselords_1926_04_19_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/26">houselords_1926_03_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/23">houselords_1926_03_23_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/25">houselords_1926_02_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/24">houselords_1926_03_24_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/21">houselords_1926_04_21_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/17">houselords_1926_02_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/10">houselords_1926_02_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/09">houselords_1926_04_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/02">houselords_1926_03_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/25">houselords_1926_03_25_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/feb/03">houselords_1926_02_03_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/04">houselords_1926_04_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/02">houselords_1926_03_02_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/20">houselords_1926_04_20_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/17">houselords_1926_03_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/02">houselords_1926_02_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/10">houselords_1926_03_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/27">houselords_1926_04_27_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/29">houselords_1926_03_29_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/feb/23">houselords_1926_02_23_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/27">houselords_1926_04_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/20">houselords_1926_04_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/25">houselords_1926_03_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/29">houselords_1926_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/29">houselords_1926_04_29_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/09">houselords_1926_03_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/16">houselords_1926_03_16_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/apr/22">houselords_1926_04_22_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/23">houselords_1926_03_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/28">houselords_1926_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/mar/11">houselords_1926_03_11_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/24">houselords_1926_03_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/apr/21">houselords_1926_04_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/18">houselords_1926_03_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/feb/03">houselords_1926_02_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/11">houselords_1926_03_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1926/feb/10">houselords_1926_02_10_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1926/mar/16">houselords_1926_03_16.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

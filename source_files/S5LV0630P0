@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0630P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0630P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0630P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0630P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: SESSION 2001&#x2013;02</li><li>Bad date format: date format="2002-12-20">Thursday, 20th December 2001.</date> Suggested date: 2001-12-20</li><li>Bad date format: date format="2000-01-09">Wednesday, 9th January 2002.</date> Suggested date: 2002-01-09</li><li>Large gap between dates: 2001-01-14 and 2001-12-17</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/15">houselords_2002_01_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2001/dec/19">houselords_2001_12_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2001/dec/17">houselords_2001_12_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/21">houselords_2002_01_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2001/jan/14">houselords_2001_01_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2001/dec/18">houselords_2001_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/08">houselords_2002_01_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2001/dec/20">houselords_2001_12_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/25">houselords_2002_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/22">houselords_2002_01_22.xml</a>
+          Could not find beginning of division for: &lt;division&gt;<br />&lt;col&gt;1442&lt;/col&gt;<br />&lt;table&gt;<br />&lt;tr&gt;<br />&lt;td&gt;Shaw of Northstead, L.&lt;/td&gt;<br />&lt;td&gt;Tebbit, L.&lt;/td&gt;<br />&lt;/tr&gt;<br />&lt;t...
+        </div>
+        <div>
+          <a href="/lords/2002/jan/17">houselords_2002_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/10">houselords_2002_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/09">houselords_2002_01_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/16">houselords_2002_01_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/18">houselords_2002_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/23">houselords_2002_01_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/2002/jan/24">houselords_2002_01_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/15">lords_writtenanswers_2002_01_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2001/dec/19">lords_writtenanswers_2001_12_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2001/dec/17">lords_writtenanswers_2001_12_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/21">lords_writtenanswers_2002_01_21.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/14">lords_writtenanswers_2002_01_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2001/dec/18">lords_writtenanswers_2001_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/08">lords_writtenanswers_2002_01_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2001/dec/20">lords_writtenanswers_2001_12_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/25">lords_writtenanswers_2002_01_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/22">lords_writtenanswers_2002_01_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/17">lords_writtenanswers_2002_01_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/10">lords_writtenanswers_2002_01_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/09">lords_writtenanswers_2002_01_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/16">lords_writtenanswers_2002_01_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/18">lords_writtenanswers_2002_01_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/23">lords_writtenanswers_2002_01_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2002/jan/24">lords_writtenanswers_2002_01_24.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

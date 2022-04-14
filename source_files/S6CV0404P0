@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S6CV0404P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S6CV0404P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S6CV0404P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S6CV0404P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v5.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="2003-05-30">Wednesday 30 April 2003</date> Suggested date: 2003-04-30</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/2003/apr/29">housecommons_2003_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/may/07">housecommons_2003_05_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/may/08">housecommons_2003_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/may/01">housecommons_2003_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/may/06">housecommons_2003_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/apr/28">housecommons_2003_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/2003/apr/30">housecommons_2003_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/apr/30">westminsterhall_2003_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/may/08">westminsterhall_2003_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/may/01">westminsterhall_2003_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/may/06">westminsterhall_2003_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/apr/29">westminsterhall_2003_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/westminster_hall/2003/may/07">westminsterhall_2003_05_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/apr/28">commons_writtenanswers_2003_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/may/08">commons_writtenanswers_2003_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/may/01">commons_writtenanswers_2003_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/may/06">commons_writtenanswers_2003_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/apr/30">commons_writtenanswers_2003_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/apr/15">commons_writtenanswers_2003_04_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/may/07">commons_writtenanswers_2003_05_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/2003/apr/29">commons_writtenanswers_2003_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/may/08">commons_writtenstatements_2003_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/may/01">commons_writtenstatements_2003_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/may/06">commons_writtenstatements_2003_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/apr/28">commons_writtenstatements_2003_04_28.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/apr/30">commons_writtenstatements_2003_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/apr/29">commons_writtenstatements_2003_04_29.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_statements/2003/may/07">commons_writtenstatements_2003_05_07.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0103P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0103P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0103P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0103P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1936/dec/15">houselords_1936_12_15_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/01">houselords_1936_12_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/08">houselords_1936_12_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/10">houselords_1936_12_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/26">houselords_1936_11_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/09">houselords_1936_12_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/07">houselords_1936_12_07.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1936/dec/01">houselords_1936_12_01_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/03">houselords_1936_11_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/04">houselords_1936_11_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/15">houselords_1936_12_15_part_3.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;1936-12-15&quot;&gt;[From Minutes of December 15.]&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/lords/1936/dec/16">houselords_1936_12_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/11">houselords_1936_12_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1936/dec/10">houselords_1936_12_10_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/18">houselords_1936_12_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/18">houselords_1936_11_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords_reports/1936/nov/03">houselords_1936_11_03_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/11">houselords_1936_11_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/12">houselords_1936_12_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/24">houselords_1936_11_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/15">houselords_1936_12_15.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />CONTENTS.<br /><br /><br />Halifax, V. (L. Privy Seal....<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data/releases/...
+        </div>
+        <div>
+          <a href="/lords_reports/1936/nov/24">houselords_1936_11_24_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/04">houselords_1936_12_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/03">houselords_1936_12_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/25">houselords_1936_11_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/dec/14">houselords_1936_12_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/17">houselords_1936_11_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/10">houselords_1936_11_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1936/nov/19">houselords_1936_11_19.xml</a>
+          unexpected element in section: date: &lt;date format=&quot;1936-11-19&quot;&gt;[From Minutes of November 19.]&lt;/date&gt;<br />
+        </div>
+        <div>
+          <a href="/lords/1936/dec/02">houselords_1936_12_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1936/dec/03">lords_writtenanswers_1936_12_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1936/nov/24">lords_writtenanswers_1936_11_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1936/dec/09">lords_writtenanswers_1936_12_09.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

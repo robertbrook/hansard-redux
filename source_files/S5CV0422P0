@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5CV0422P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5CV0422P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5CV0422P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5CV0422P0</h1>
+      <h4>Schema:</h4>
+      <div>Draft_Hansard_v3.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/16">housecommons_1946_05_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/09">housecommons_1946_05_09.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />Division No. 151.<br />AYES.<br />8.05 p.m<br /><br /><br />Agne...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/commons/1946/apr/30">housecommons_1946_04_30.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/10">housecommons_1946_05_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/17">housecommons_1946_05_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/06">housecommons_1946_05_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/01">housecommons_1946_05_01.xml</a>
+          Unhandled text    Column 159    ]<br />
+        </div>
+        <div>
+          <a href="/commons/1946/may/08">housecommons_1946_05_08.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/02">housecommons_1946_05_02.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />Division No. 136.]<br />AYES<br />6.37 p.m.<br /><br /><br />Ada...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/commons/1946/may/14">housecommons_1946_05_14.xml</a>
+          Unhandled element in member contribution    membercontribution    &lt;membercontribution&gt;I want to be satisfied that giving a subscription to a church, for example, which is the case on which we started, is not limited to the congregation being...
+        </div>
+        <div>
+          <a href="/commons/1946/may/13">housecommons_1946_05_13.xml</a>
+          Unhandled text    Column 1457    ]<br />
+        </div>
+        <div>
+          <a href="/commons/1946/may/03">housecommons_1946_05_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1946/may/15">housecommons_1946_05_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/07">commons_writtenanswers_1946_05_07.xml</a>
+          unexpected element in group: table: &lt;table&gt;<br />&lt;tr&gt;<br />&lt;td&gt;12 months to&lt;/td&gt;<br />&lt;td&gt;&lt;/td&gt;<br />&lt;td&gt;&lt;/td&gt;<br />&lt;td&gt;&amp;#x00A3;&lt;/td&gt;<br />&lt;/tr&gt;<br />&lt;tr&gt;<br />&lt...
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/09">commons_writtenanswers_1946_05_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/16">commons_writtenanswers_1946_05_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/08">commons_writtenanswers_1946_05_08.xml</a>
+          unexpected element in group: table: &lt;table&gt;<br />&lt;tr&gt;<br />&lt;th&gt;Name&lt;/th&gt;<br />&lt;th&gt;Maker&lt;/th&gt;<br />&lt;th&gt;Engines&lt;/th&gt;<br />&lt;th&gt; Description&lt;/th&gt;<br />&lt;th&gt;Gross Weight lb.&lt;/th&...
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/06">commons_writtenanswers_1946_05_06.xml</a>
+          unexpected element in group: table: &lt;table&gt;<br />&lt;tr&gt;<br />&lt;th&gt;&lt;/th&gt;<br />&lt;th&gt;&lt;i&gt;&amp;#x00A3;&lt;/i&gt;&lt;/th&gt;<br />&lt;/tr&gt;<br />&lt;tr&gt;<br />&lt;td align=&quot;left&quot;&gt;Terminal building, ...
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/01">commons_writtenanswers_1946_05_01.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/10">commons_writtenanswers_1946_05_10.xml</a>
+          unexpected element in group: table: &lt;table&gt;<br />&lt;tr&gt;<br />&lt;td rowspan=&quot;2&quot;&gt;Undertaking&lt;/td&gt;<br />&lt;td colspan=&quot;2&quot;&gt;Number of Consumers&lt;/td&gt;<br />&lt;td&gt;1926&lt;/td&gt;<br />&lt;td&gt;Ma...
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/17">commons_writtenanswers_1946_05_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/apr/30">commons_writtenanswers_1946_04_30.xml</a>
+          unexpected element in group: table: &lt;table&gt;<br />&lt;tr&gt;<br />&lt;td rowspan=&quot;2&quot;&gt;Year&lt;/td&gt;<br />&lt;td colspan=&quot;2&quot;&gt;Number of Convictions&lt;/td&gt;<br />&lt;td colspan=&quot;2&quot;&gt;Qualified Medical...
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/14">commons_writtenanswers_1946_05_14.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/13">commons_writtenanswers_1946_05_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/02">commons_writtenanswers_1946_05_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/15">commons_writtenanswers_1946_05_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1946/may/03">commons_writtenanswers_1946_05_03.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

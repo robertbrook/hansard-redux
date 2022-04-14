@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S6CV0307P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S6CV0307P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S6CV0307P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S6CV0307P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v7.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Missing image? Got: 357, expected 356 (last image 355)</li><li>Missing image? Got: 509, expected 508 (last image 507)</li><li>Bad date format: date format="1998-04-23">Monday 23 February 1998</date> Suggested date: 1998-02-23</li><li>Missing image? Got: 1003, expected 1001 (last image 1000)</li><li>Missing image? Got: 1065, expected 1062 (last image 1061)</li><li>Missing image? Got: 1130, expected 1129 (last image 1128)</li><li>Missing image? Got: 1135, expected 1134 (last image 1133)</li><li>Missing image? Got: 1148, expected 1147 (last image 1146)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1998/feb/23">housecommons_1998_02_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/feb/24">housecommons_1998_02_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/mar/03">housecommons_1998_03_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/mar/04">housecommons_1998_03_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/mar/05">housecommons_1998_03_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/mar/02">housecommons_1998_03_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/feb/25">housecommons_1998_02_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/mar/06">housecommons_1998_03_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/feb/26">housecommons_1998_02_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1998/feb/27">housecommons_1998_02_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/feb/23">commons_writtenanswers_1998_02_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/feb/24">commons_writtenanswers_1998_02_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/mar/03">commons_writtenanswers_1998_03_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/mar/04">commons_writtenanswers_1998_03_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/mar/05">commons_writtenanswers_1998_03_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/mar/02">commons_writtenanswers_1998_03_02.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/feb/25">commons_writtenanswers_1998_02_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/mar/06">commons_writtenanswers_1998_03_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/feb/26">commons_writtenanswers_1998_02_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1998/feb/27">commons_writtenanswers_1998_02_27.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

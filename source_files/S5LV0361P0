@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5LV0361P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5LV0361P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5LV0361P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5LV0361P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v8.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Bad date format: date format="1975-05-24">Tuesday, 24th June, 1975.</date> Suggested date: 1975-06-24</li><li>Bad date format: date format="1975-07-25">Wednesday, 25th June, 1975.</date> Suggested date: 1975-06-25</li><li>Missing column? Got: 1557, expected 1555 (last column 1554)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/25">houselords_1975_06_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/19">houselords_1975_06_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/17">houselords_1975_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/10">houselords_1975_06_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/11">houselords_1975_06_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/16">houselords_1975_06_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/18">houselords_1975_06_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/23">houselords_1975_06_23.xml</a>
+          Could not find beginning of division for: &lt;division&gt;<br />&lt;table type=&quot;span&quot;&gt;<br />&lt;tr&gt;<br />&lt;td&gt;Ward of Whitley, V.&lt;/td&gt;<br />&lt;td&gt;Windlesham, L.&lt;/td&gt;<br />&lt;td&gt;Young, B.&lt;/td&gt;<br...
+        </div>
+        <div>
+          <a href="/lords/1975/jun/24">houselords_1975_06_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/09">houselords_1975_06_09.xml</a>
+          Could not find beginning of division for: &lt;division&gt;<br />&lt;table type=&quot;span&quot;&gt;<br />&lt;tr&gt;<br />&lt;td align=&quot;center&quot; colspan=&quot;3&quot;&gt;Their Lordships divided: Contents, 53; Not-Contents, 37.&lt;/td&gt...
+        </div>
+        <div>
+          <a href="/lords/1975/jun/12">houselords_1975_06_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/27">houselords_1975_06_27.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/20">houselords_1975_06_20.xml</a>
+          Unhandled text    Column 1079    &gt;<br />
+        </div>
+        <div>
+          <a href="/lords/1975/jun/26">houselords_1975_06_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/lords/1975/jun/13">houselords_1975_06_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/23">lords_writtenanswers_1975_06_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/24">lords_writtenanswers_1975_06_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/18">lords_writtenanswers_1975_06_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/11">lords_writtenanswers_1975_06_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/16">lords_writtenanswers_1975_06_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/09">lords_writtenanswers_1975_06_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/17">lords_writtenanswers_1975_06_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/10">lords_writtenanswers_1975_06_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/19">lords_writtenanswers_1975_06_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/13">lords_writtenanswers_1975_06_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/26">lords_writtenanswers_1975_06_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1975/jun/20">lords_writtenanswers_1975_06_20.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

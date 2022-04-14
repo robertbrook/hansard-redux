@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S5CV0181P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S5CV0181P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S5CV0181P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S5CV0181P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v9.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Badly formatted session tag: 1924&#x2013;5.</li><li>Bad date format: date format="1933-03-02">Monday, 2nd March, 1925.</date> Suggested date: 1925-03-02</li><li>Business of the House title in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li><li>Division element in oralquestions</li><li>Business of the House title in oralquestions</li><li>Division element in oralquestions</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/02">housecommons_1925_03_02.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />Division No. 25.]<br />AYES.<br />[10.56 p.m.<br /><br /><br />A...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/commons/1925/mar/05">housecommons_1925_03_05.xml</a>
+          unexpected element in oral_question_section: ol: &lt;ol&gt;<br />&lt;li&gt;D. Davison, Esq., O.B.E., J.P.&lt;/li&gt;<br />&lt;li&gt;H. Donnachie, Esq.&lt;/li&gt;<br />&lt;li&gt;W. E. Hincks, Esq., O.B.E., J P.&lt;/li&gt;<br />&lt;li&gt;T. W. H...
+        </div>
+        <div>
+          <a href="/commons/1925/mar/13">housecommons_1925_03_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/04">housecommons_1925_03_04.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />Division No. 28.]<br />AYES.<br />[5:50 p.m.<br /><br /><br />Ad...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/commons/1925/mar/03">housecommons_1925_03_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/12">housecommons_1925_03_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/20">housecommons_1925_03_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/18">housecommons_1925_03_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/16">housecommons_1925_03_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/11">housecommons_1925_03_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/09">housecommons_1925_03_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/10">housecommons_1925_03_10.xml</a>
+          unexpected element in oral_question_section: ol: &lt;ol&gt;<br />&lt;li&gt;(&lt;i&gt;a&lt;/i&gt;) &lt;i&gt;Australia&lt;/i&gt;.&amp;#x2014;Assistance in the form of a free grant of one-third and, if necessary, a loan up to the remaining two-third...
+        </div>
+        <div>
+          <a href="/commons/1925/mar/17">housecommons_1925_03_17.xml</a>
+          parsing FAILED	Don't know where to place division, division is: <br /><br />Division No. 43.]<br />AYES.<br />[4.0 p.m.<br /><br /><br />Acl...<br />/data/releases/20090303102610/lib/hansard/division_handler.rb:50:in `populate_last_division' /data...
+        </div>
+        <div>
+          <a href="/commons/1925/mar/19">housecommons_1925_03_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1925/mar/06">housecommons_1925_03_06.xml</a>
+          unexpected element in oral_questions_section: quote: &lt;quote&gt;&quot;to prolong the duration of the Increase of Rent and Mortgage Interest (Restrictions) Act, 1920, as amended by any subsequent enactment, and of Part II of the Rent and Mortgage...
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/06">commons_writtenanswers_1925_03_06.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/17">commons_writtenanswers_1925_03_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/10">commons_writtenanswers_1925_03_10.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/19">commons_writtenanswers_1925_03_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/09">commons_writtenanswers_1925_03_09.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/18">commons_writtenanswers_1925_03_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/11">commons_writtenanswers_1925_03_11.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/16">commons_writtenanswers_1925_03_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/12">commons_writtenanswers_1925_03_12.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/20">commons_writtenanswers_1925_03_20.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/03">commons_writtenanswers_1925_03_03.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/04">commons_writtenanswers_1925_03_04.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/13">commons_writtenanswers_1925_03_13.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/05">commons_writtenanswers_1925_03_05.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1925/mar/02">commons_writtenanswers_1925_03_02.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

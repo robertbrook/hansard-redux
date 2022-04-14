@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Source file: S6CV0077P0 (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='Source file: S6CV0077P0 (Hansard)' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+      </div>
+      <h1 class='title'>Source file: S6CV0077P0</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <h1>S6CV0077P0</h1>
+      <h4>Schema:</h4>
+      <div>hansard_v7.xsd (validation not yet performed)</div>
+      <h4>Problems:</h4>
+      <div><ul><li>Missing image? Got: 102, expected 100 (last image 99)</li><li>Missing column? Got: 1337, expected 337 (last column 336)</li><li>Missing column? Got: 338, expected 1338 (last column 1337)</li><li>Bad date format: date format="1985-04-18">Friday 19 April 1985</date> Suggested date: 1985-04-19</li><li>Missing column? Got: 447, expected 449 (last column 448)</li><li>Missing column? Got: 450, expected 448 (last column 447)</li><li>Missing column? Got: 464, expected 462 (last column 461)</li><li>Missing image? Got: 242, expected 241 (last image 240)</li><li>Missing image? Got: 408, expected 409 (last image 408)</li><li>Missing image? Got: 410, expected 409 (last image 408)</li><li>Missing image? Got: 470, expected 469 (last image 468)</li><li>Missing image? Got: 562, expected 563 (last image 562)</li><li>Missing image? Got: 564, expected 563 (last image 562)</li><li>Missing image? Got: 651, expected 650 (last image 649)</li><li>Missing column? Got: 181, expected 182 (last column 181)</li><li>Missing column? Got: 183, expected 182 (last column 181)</li><li>Missing column? Got: 362, expected 363 (last column 362)</li><li>Missing column? Got: 364, expected 363 (last column 362)</li></ul></div>
+      <h4>Files created:</h4>
+      <div>
+        <div>
+          header.xml
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/15">housecommons_1985_04_15.xml</a>
+          Unhandled element in member contribution    lb    &lt;lb&gt;&lt;/lb&gt;<br />
+        </div>
+        <div>
+          <a href="/commons/1985/apr/26">housecommons_1985_04_26.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/19">housecommons_1985_04_19_part_2.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/17">housecommons_1985_04_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/19">housecommons_1985_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/22">housecommons_1985_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/25">housecommons_1985_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/24">housecommons_1985_04_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/23">housecommons_1985_04_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/commons/1985/apr/16">housecommons_1985_04_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/17">commons_writtenanswers_1985_04_17.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/19">commons_writtenanswers_1985_04_19.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/22">commons_writtenanswers_1985_04_22.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/25">commons_writtenanswers_1985_04_25.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/24">commons_writtenanswers_1985_04_24.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/23">commons_writtenanswers_1985_04_23.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/18">commons_writtenanswers_1985_04_18.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/16">commons_writtenanswers_1985_04_16.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/15">commons_writtenanswers_1985_04_15.xml</a>
+          
+        </div>
+        <div>
+          <a href="/written_answers/1985/apr/26">commons_writtenanswers_1985_04_26.xml</a>
+          
+        </div>
+      </div>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
