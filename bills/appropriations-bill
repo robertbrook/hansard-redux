@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Appropriations Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Appropriations Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='a'>
+          Bills (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Appropriations Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1957/jul/09/parliamentary-remuneration-and-expenses#S5CV0573P0_19570709_HOC_329">PARLIAMENTARY REMUNERATION AND EXPENSES</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1957-07-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1958/apr/01/malta#S5CV0585P0_19580401_HOC_266">MALTA</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1958-04-01</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1961/mar/16/business-of-the-house#S5CV0636P0_19610316_HOC_236">BUSINESS OF THE HOUSE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1961-03-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1961/may/02/clause-1-continuance-of-army-act-1955#S5CV0639P0_19610502_HOC_236">Clause 1.&#x2014;(CONTINUANCE OF ARMY ACT, 1955, AND AIR FORCE ACT, 1955.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1961-05-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1963/feb/07/congo#S5CV0671P0_19630207_HOC_272">Congo</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1963-02-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1965/mar/25/higher-education#S5CV0709P0_19650325_HOC_258">HIGHER EDUCATION</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1965-03-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1970/nov/03/ministers-of-the-crown#S5CV0805P0_19701103_HOC_426">MINISTERS OF THE CROWN</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1970-11-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1975/mar/11/appropriation-northern-ireland-order-1975#S5LV0358P0_19750311_HOL_365">APPROPRIATION (NORTHERN IRELAND) ORDER 1975</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1975-03-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1996/oct/15/oil-and-gas-installation-decommissioning#S5LV0574P0_19961015_HOL_180">Oil and Gas Installation Decommissioning: Select Committee Report</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1996-10-15</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

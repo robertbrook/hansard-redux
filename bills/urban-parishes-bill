@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Urban Parishes Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Urban Parishes Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='u'>
+          Bills (U)
+        </a>
+
+      </div>
+      <h1 class='title'>Urban Parishes Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1978/jan/27/urban-parishes-bill">URBAN PARISHES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-01-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1978/apr/21/urban-parishes-bill">URBAN PARISHES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-04-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1978/may/05/urban-parishes-bill">URBAN PARISHES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-05-05</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1987/apr/29/directly-elected-neighbourhood-councils#S6CV0115P0_19870429_HOC_173">Directly Elected Neighbourhood Councils</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1987-04-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1990/mar/14/london-local-government#S6CV0169P0_19900314_HOC_199">London Local Government</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1990-03-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1991/dec/05/local-government-bill-hl-2#S5LV0533P0_19911205_HOL_438">Local Government Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1991-12-05</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

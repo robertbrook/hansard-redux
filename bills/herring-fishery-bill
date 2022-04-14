@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Herring Fishery Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Herring Fishery Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='h'>
+          Bills (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Herring Fishery Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1861/apr/15/herring-trawling-question#S3V0162P0_18610415_HOC_5">HERRING TRAWLING.&#x2014;QUESTION.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1861-04-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1888/mar/06/resolution-adjourned-debate-fourth-night#S3V0323P0_18880306_HOC_191">RESOLUTION. [ADJOURNED DEBATE.] [FOURTH NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1888-03-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1889/apr/02/trawling-in-the-clyde#S3V0334P0_18890402_HOC_8">TRAWLING IN THE CLYDE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1889-04-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1908/nov/11/trawling-in-the-moray-firth#S4V0196P0_19081111_HOL_10">TRAWLING IN THE MORAY FIRTH.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1908-11-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1918/may/14/clause-6-inspection-of-stallions#S5CV0106P0_19180514_HOC_307">CLAUSE 6.&#x2014;(Inspection of Stallions.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1918-05-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1934/dec/20/business-of-the-house#S5CV0296P0_19341220_HOC_325">BUSINESS OF THE HOUSE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1934-12-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1935/feb/25/approved-schools-etc-scotland#S5CV0298P0_19350225_HOC_527">APPROVED SCHOOLS, ETC., SCOTLAND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1935-02-25</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

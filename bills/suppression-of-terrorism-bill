@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Suppression of Terrorism Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Suppression of Terrorism Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='s'>
+          Bills (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Suppression of Terrorism Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1978/feb/02/judicature-northern-ireland-bill-hl-1#S5LV0388P0_19780202_HOL_188">JUDICATURE (NORTHERN IRELAND) BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-02-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1978/feb/07/suppression-of-terrorism-bill-hl#S5LV0388P0_19780207_HOL_50">SUPPRESSION OF TERRORISM BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-02-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1978/feb/23/theft-bill-hl#S5LV0389P0_19780223_HOL_59">THEFT BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-02-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1978/may/02/suppression-of-terrorism-bill-lords">SUPPRESSION OF TERRORISM BILL [LORDS]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-05-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1978/jun/06/wales-bill-2#S5LV0392P0_19780606_HOL_451">WALES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1978-06-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1978/jun/28/european-community-criminal-law#S5CV0952P0_19780628_HOC_320">EUROPEAN COMMUNITY (CRIMINAL LAW)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1978-06-28</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

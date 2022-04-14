@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Glasgow Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Glasgow Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='g'>
+          Bills (G)
+        </a>
+
+      </div>
+      <h1 class='title'>Glasgow Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1875/jun/15/third-reading#S3V0224P0_18750615_HOC_13">THIRD READING.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1875-06-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1892/may/17/consideration#S4V0004P0_18920517_HOC_3">CONSIDERATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-05-17</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1892/may/19/consideration#S4V0004P0_18920519_HOC_6">CONSIDERATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-05-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1906/mar/23/land-values-taxation-scotland-bill#S4V0154P0_19060323_HOC_27">LAND VALUES TAXATION (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1906-03-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1907/jul/10/land-values-scotland-bill#S4V0177P0_19070710_HOC_207">LAND VALUES (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1907-07-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1907/aug/26/land-values-scotland-bill#S4V0182P0_19070826_HOL_80">LAND VALUES (SCOTLAND) BILL.</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1907-08-26</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1908/feb/19/land-values-scotland-bill-1#S4V0184P0_19080219_HOC_263">LAND VALUES (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1908-02-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1908/mar/25/land-values-scotland-bill-1#S4V0186P0_19080325_HOL_59">LAND VALUES (SCOTLAND) BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1908-03-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1908/mar/26/land-values-scotland-bill-1#S4V0186P0_19080326_HOL_16">LAND VALUES (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1908-03-26</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1911/feb/13/burdens-on-local-rates#S5CV0021P0_19110213_HOC_285">BURDENS ON LOCAL RATES.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1911-02-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1914/feb/19/local-and-imperial-taxation#S5CV0058P0_19140219_HOC_373">LOCAL AND IMPERIAL TAXATION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1914-02-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1915/jul/05/private-business#S5CV0073P0_19150705_HOC_21">PRIVATE BUSINESS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1915-07-05</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1928/apr/19/edinburgh-corporation-bill#S5CV0216P0_19280419_HOC_396">EDINBURGH CORPORATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1928-04-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1933/may/11/private-legislation-procedure-scotland#S5CV0277P0_19330511_HOC_292">PRIVATE LEGISLATION PROCEDURE (SCOTLAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1933-05-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1936/mar/04/perth-corporation-order-confirmation#S5CV0309P0_19360304_HOC_391">PERTH CORPORATION ORDER CONFIRMATION BILL (Lords) [By Order].</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1936-03-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1937/apr/27/poole-corporation-bill-hl#S5LV0105P0_19370427_HOL_24">POOLE CORPORATION BILL. [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1937-04-27</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

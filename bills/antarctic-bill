@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Antarctic Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Antarctic Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='a'>
+          Bills (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Antarctic Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1994/feb/25/antarctic-bill#S6CV0238P0_19940225_HOC_5">Antarctic Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1994-02-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1994/feb/25/antarctic-bill-1">Antarctic Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1994-02-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1994/apr/15/antarctic-bill">Antarctic Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1994-04-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1994/apr/18/antarctic-bill">Antarctic Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-04-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1994/may/25/antarctic-bill#S5LV0555P0_19940525_HOL_189">Antarctic Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-05-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1994/jun/08/antarctic-bill">Antarctic Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-06-08</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/1994/jun/14/private-members-bills-1#S6CV0244P0_19940614_CWA_358">Private Members' Bills</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1994-06-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1994/jun/16/antarctic-bill#S5LV0555P0_19940616_HOL_255">Antarctic Bill</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-06-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1994/jul/21/antarctic-treaty#S6CV0247P0_19940721_HOC_39">Antarctic Treaty</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1994-07-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1996/apr/03/antarctica#S6CV0275P0_19960403_HOC_492">Antarctica</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1996-04-03</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

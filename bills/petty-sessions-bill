@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Petty Sessions Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Petty Sessions Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='p'>
+          Bills (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Petty Sessions Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1841/feb/25/petty-sessions#S3V0056P0_18410225_HOL_2">PETTY SESSIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1841-02-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1849/mar/02/petty-sessions-bill">PETTY SESSIONS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1849-03-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1849/mar/27/petty-sessions-bill">PETTY SESSIONS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1849-03-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1850/jun/10/lord-lieutenancy-abolition-ireland-bill#S3V0111P0_18500610_HOC_49">LORD LIEUTENANCY ABOLITION (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-06-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1852/feb/18/county-rates-and-expenditure-bill#S3V0119P0_18520218_HOC_56">COUNTY RATES AND EXPENDITURE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1852-02-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1853/jul/15/petty-sessions-ireland-bill-sum-mary#S3V0129P0_18530715_HOL_33">PETTY SESSIONS (IRELAND) BILL&#x2014;SUM- MARY JURISDICTION (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1853-07-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1866/may/09/adjourned-debate#S3V0183P0_18660509_HOC_44">ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1866-05-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1868/apr/29/second-reading-1#S3V0191P0_18680429_HOC_24">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1868-04-29</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

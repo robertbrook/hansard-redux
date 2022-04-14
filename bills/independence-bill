@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Independence Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Independence Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='i'>
+          Bills (I)
+        </a>
+
+      </div>
+      <h1 class='title'>Independence Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/1956/nov/20/ghana-independence-bill#S5CV0560P0_19561120_CWA_65">GHANA (INDEPENDENCE BILL)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1956-11-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1961/feb/23/draft-constitution#S5CV0635P0_19610223_HOC_162">Draft Constitution</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1961-02-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1961/nov/02/business-of-the-house#S5CV0648P0_19611102_HOC_5">BUSINESS OF THE HOUSE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1961-11-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1962/jul/16/uganda-independence-bill#S5CV0663P0_19620716_HOC_209">UGANDA INDEPENDENCE BILL</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1962-07-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1964/jun/04/malawi-independence-bill#S5LV0258P0_19640604_HOL_247">MALAWI INDEPENDENCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1964-06-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1964/jul/07/zambia-independence-bill#S5CV0698P0_19640707_HOC_253">ZAMBIA INDEPENDENCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1964-07-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1964/jul/23/malta-independence-bill#S5CV0699P0_19640723_HOC_282">MALTA INDEPENDENCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1964-07-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1964/jul/28/malta-independence-bill-1#S5LV0260P0_19640728_HOL_173">MALTA INDEPENDENCE BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1964-07-28</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1968/feb/29/commonwealth-immigrants-bill-1#S5LV0289P0_19680229_HOL_186">COMMONWEALTH IMMIGRANTS BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1968-02-29</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

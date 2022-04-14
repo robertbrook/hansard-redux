@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Subject Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Subject Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='s'>
+          Bills (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Subject Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1951/jul/26/mineral-workings-bill#S5LV0172P0_19510726_HOL_42">MINERAL WORKINGS BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1951-07-26</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1952/jul/16/liberties-of-the-subject#S5LV0177P0_19520716_HOL_41">LIBERTIES OF THE SUBJECT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1952-07-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1952/nov/20/supplies-and-services-transitional-powers#S5LV0179P0_19521120_HOL_17">SUPPLIES AND SERVICES (TRANSITIONAL POWERS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1952-11-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1953/may/12/enemy-property-bill-hl#S5LV0182P0_19530512_HOL_45">ENEMY PROPERTY BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1953-05-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1957/nov/27/administrative-tribunals#S5LV0206P0_19571127_HOL_38">ADMINISTRATIVE TRIBUNALS</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1957-11-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1969/jun/18/human-rights-the-state-and-the-individual#S5LV0302P0_19690618_HOL_58">HUMAN RIGHTS: THE STATE AND THE INDIVIDUAL</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1969-06-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1976/mar/25/bill-of-rights-bill-hl#S5LV0369P0_19760325_HOL_57">BILL OF RIGHTS BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1976-03-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1985/dec/10/human-rights-and-fundamental-freedoms#S5LV0469P0_19851210_HOL_311">Human Rights and Fundamental Freedoms Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1985-12-10</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

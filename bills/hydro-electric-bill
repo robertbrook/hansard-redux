@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Hydro-Electric Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Hydro-Electric Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='h'>
+          Bills (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Hydro-Electric Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1924/aug/04/clyde-valley-electrical-power-bill-lords#S5CV0176P0_19240804_HOC_408">CLYDE VALLEY ELECTRICAL POWER BILL [Lords.]</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1924-08-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1943/jul/21/town-and-country-planning-interim#S5CV0391P0_19430721_HOC_391">TOWN AND COUNTRY PLANNING (INTERIM DEVELOPMENT) (SCOTLAND) BILL</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1943-07-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1944/jan/27/clause-18-provisions-as-to-offences#S5CV0396P0_19440127_HOC_725">CLAUSE 18.&#x2014;(Provisions as to offences.)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1944-01-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1945/mar/15/air-services-supplementary-estimate-1944#S5CV0409P0_19450315_HOC_536">AIR SERVICES SUPPLEMENTARY ESTIMATE, 1944</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1945-03-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1945/nov/01/business-of-the-house#S5CV0415P0_19451101_HOC_294">BUSINESS OF THE HOUSE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1945-11-01</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1945/nov/14/hydro-electric-development-scotland#S5CV0415P0_19451114_HOC_401">HYDRO-ELECTRIC DEVELOPMENT (SCOTLAND)</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1945-11-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1952/mar/19/clause-1-increase-of-limit-of-borrowing#S5CV0497P0_19520319_HOC_602">Clause 1.&#x2014;(INCREASE OF LIMIT OF BORROWING POWERS OF NORTH OF SCOTLAND HYDRO-ELECTRIC BOARD.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1952-03-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1957/apr/30/electricity-bill#S5LV0203P0_19570430_HOL_22">ELECTRICITY BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1957-04-30</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1958/jan/27/north-of-scotland-hydroelectric-board#S5CV0581P0_19580127_HOC_308">NORTH OF SCOTLAND HYDROELECTRIC BOARD (REPORT AND ACCOUNTS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1958-01-27</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

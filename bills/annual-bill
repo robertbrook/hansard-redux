@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Annual Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Annual Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='a'>
+          Bills (A)
+        </a>
+
+      </div>
+      <h1 class='title'>Annual Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1852/jun/22/militia-pay-bill#S3V0122P0_18520622_HOC_7">MILITIA PAY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1852-06-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1879/jul/15/committee-progress-14th-july#S3V0248P0_18790715_HOC_233">COMMITTEE. [Progress 14th July.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1879-07-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1883/jun/12/second-reading#S3V0280P0_18830612_HOC_40">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1883-06-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1885/aug/03/committee-2#S3V0300P0_18850803_HOC_469">COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1885-08-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1893/mar/27/third-reading#S4V0010P0_18930327_HOC_328">THIRD READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-03-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1936/apr/07/clause-5-amendment-of-army-act-s-146#S5CV0310P0_19360407_HOC_561">CLAUSE 5.&#x2014;(Amendment of Army Act, s. 146.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1936-04-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1948/apr/20/court-martial-procedure-committees-report#S5CV0449P0_19480420_HOC_221">Court Martial Procedure (Committee's Report)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1948-04-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1949/apr/12/army-and-air-force-annual-bill#S5LV0161P0_19490412_HOL_379">ARMY AND AIR FORCE (ANNUAL) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1949-04-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1953/jul/09/army-and-air-force-annual-bill#S5LV0183P0_19530709_HOL_119">ARMY AND AIR FORCE (ANNUAL) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1953-07-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1953/jul/10/adjournment-motion-army-and-air-force#S5LV0183P0_19530710_HOL_7">ADJOURNMENT MOTION: ARMY AND AIR FORCE (ANNUAL) BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1953-07-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1961/may/02/clause-1-continuance-of-army-act-1955#S5CV0639P0_19610502_HOC_378">Clause 1.&#x2014;(CONTINUANCE OF ARMY ACT, 1955, AND AIR FORCE ACT, 1955.)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1961-05-02</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

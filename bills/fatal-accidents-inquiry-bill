@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Fatal Accidents Inquiry Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Fatal Accidents Inquiry Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='f'>
+          Bills (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Fatal Accidents Inquiry Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1893/sep/04/resolution#S4V0016P0_18930904_HOC_135">RESOLUTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-09-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1893/sep/13/class-ii#S4V0017P0_18930913_HOC_43">CLASS II.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-09-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1894/apr/02/resolution#S4V0022P0_18940402_HOC_128">RESOLUTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1894-04-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1895/mar/11/fatal-accidents-inquiry-scotland-bill#S4V0031P0_18950311_HOC_222">FATAL ACCIDENTS INQUIRY SCOTLAND BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1895-03-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1895/mar/29/local-legislative-assemblies#S4V0032P0_18950329_HOC_130">LOCAL LEGISLATIVE ASSEMBLIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1895-03-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1895/may/09/standing-committee-for-scotland#S4V0033P0_18950509_HOC_242">STANDING COMMITTEE FOR SCOTLAND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1895-05-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1895/may/23/the-scotch-grand-committee#S4V0034P0_18950523_HOC_261">THE SCOTCH GRAND COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1895-05-23</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

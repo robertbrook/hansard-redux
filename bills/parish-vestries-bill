@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Parish Vestries Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Parish Vestries Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='p'>
+          Bills (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Parish Vestries Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <a class='bills' href='p#Parish Vestries Bill'>
+        Other Bills by this name
+      </a>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1830/may/27/minutes#S2V0024P0_18300527_HOC_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1830-05-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1830/jun/03/minutes#S2V0024P0_18300603_HOC_4">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1830-06-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1834/may/05/minutes#S3V0023P0_18340505_HOC_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1834-05-05</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1836/jun/22/business-of-the-house#S3V0034P0_18360622_HOC_39">BUSINESS OF THE HOUSE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1836-06-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1836/jun/22/parish-vestries-bill#S3V0034P0_18360622_HOC_64">PARISH VESTRIES BILL</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1836-06-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1842/apr/15/minutes#S3V0062P0_18420415_HOC_2">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1842-04-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1889/feb/22/parish-vestries-bill">PARISH VESTRIES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1889-02-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1893/nov/02/second-reading#S4V0018P0_18931102_HOC_32">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1893-11-02</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

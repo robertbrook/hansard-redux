@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Corrie Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Corrie Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='c'>
+          Bills (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Corrie Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1980/feb/15/clause-1#S5CV0978P0_19800215_HOC_237">Clause 1</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1980-02-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1980/feb/29/amendment-of-section-1-of-principal-act#S5CV0979P0_19800229_HOC_29">AMENDMENT OF SECTION 1 OF PRINCIPAL ACT</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1980-02-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1980/apr/22/abortion-amendment#S5CV0983P0_19800422_HOC_179">ABORTION (AMENDMENT)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1980-04-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1985/feb/11/abortion#S6CV0073P0_19850211_HOC_335">Abortion</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1985-02-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1988/may/06/appeals-tribunals#S6CV0132P0_19880506_HOC_220">APPEALS TRIBUNALS</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1988-05-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1988/may/06/time-limit-for-termination-of-pregnancy#S6CV0132P0_19880506_HOC_235">TIME-LIMIT FOR TERMINATION OF PREGNANCY</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1988-05-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1990/jun/21/abortion-act-1967#S6CV0174P0_19900621_HOC_315">ABORTION ACT 1967</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1990-06-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1990/jun/21/amendment-of-law-relating-to-termination-1#S6CV0174P0_19900621_HOC_462">AMENDMENT OF LAW RELATING TO TERMINATION OF PREGNANCY</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1990-06-21</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

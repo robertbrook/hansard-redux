@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Brighton Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Brighton Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='b'>
+          Bills (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Brighton Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1892/mar/10/second-reading#S4V0002P0_18920310_HOC_2">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-03-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1906/jun/14/great-north-of-scotland-railway-order#S4V0158P0_19060614_HOL_30">GREAT NORTH OF SCOTLAND RAILWAY ORDER CONFIRMATION BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1906-06-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1920/jul/27/health-resorts-and-watering-places-bill#S5LV0041P0_19200727_HOL_19">HEALTH RESORTS AND WATERING PLACES BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1920-07-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1931/feb/25/liverpool-university-bill-hl#S5LV0080P0_19310225_HOL_6">LIVERPOOL UNIVERSITY BILL. [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1931-02-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1973/dec/11/north-wales-hydro-electric-power-bill#S5LV0347P0_19731211_HOL_64">NORTH WALES HYDRO ELECTRIC POWER BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1973-12-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1980/aug/06/eastbourne-harbour-bill-lords#S5CV0990P0_19800806_HOC_985">EASTBOURNE HARBOUR BILL [Lords]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1980-08-06</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

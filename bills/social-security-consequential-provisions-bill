@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Social Security (Consequential Provisions) Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Social Security (Consequential Provisions) Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='s'>
+          Bills (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Social Security (Consequential Provisions) Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1975/mar/13/social-security-bill-hl-industrial#S5LV0358P0_19750313_HOL_146">SOCIAL SECURITY BILL [H.L.] INDUSTRIAL INJURIES AND DISEASES (OLD CASES) BILL [H.L.] SOCIAL SECURITY (NORTHERN IRELAND) BILL [H.L.] INDUSTRIAL INJURIES AND DISEASES (NORTHERN IRELAND OLD CASES) BILL [H.L.] SOCIAL SECURITY (CONSEQUEN-TIAL PROVISIONS) BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1975-03-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1991/nov/19/social-security-administration-bill-hl#S5LV0532P0_19911119_HOL_81">Social Security Administration Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1991-11-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1991/nov/21/social-security-consequential-provisions-2#S5LV0532P0_19911121_HOL_88">Social Security (Consequential Provisions) (Northern Ireland) Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1991-11-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/1991/dec/10/destination-tables#S6CV0200P0_19911210_CWA_121">Destination Tables</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1991-12-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1992/feb/12/social-security-administration-bill-lords#S6CV0203P0_19920212_HOC_320">Social Security Administration Bill [Lords]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1992-02-12</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

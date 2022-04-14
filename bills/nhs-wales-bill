@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>NHS (Wales) Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the NHS (Wales) Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='n'>
+          Bills (N)
+        </a>
+
+      </div>
+      <h1 class='title'>NHS (Wales) Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/2001/jun/27/address-in-reply-to-her-majestys-most#S5LV0626P0_20010627_HOL_81">Address in Reply to Her Majesty's Most Gracious Speech</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2001-06-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/2001/oct/17/health-service#S6CV0372P2_20011017_CWA_137">Health Service</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2001-10-17</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/2001/nov/06/nhs-wales-bill#S6CV0374P0_20011106_CWA_254">NHS (Wales) Bill</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2001-11-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/2002/jul/24/public-consultations-3#S6CV0389P2_20020724_CWA_1406">Public Consultations</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2002-07-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/2002/nov/27/health-wales-bill#S6CV0395P1_20021127_HOC_305">Health (Wales) Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>2002-11-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/2003/jan/09/functions-of-the-centre#S6CV0397P0_20030109_HOC_265">FUNCTIONS OF THE CENTRE</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>2003-01-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/2004/jan/19/wales-only-legislation#S6CV0416P2_20040119_CWA_60">Wales-only Legislation</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>2004-01-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/2004/jun/16/local-government-and-regional-assemblies#S5LV0662P0_20040616_HOL_266">Local Government and Regional Assemblies</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2004-06-16</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

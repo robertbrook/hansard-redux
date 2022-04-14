@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Oxford Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Oxford Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='o'>
+          Bills (O)
+        </a>
+
+      </div>
+      <h1 class='title'>Oxford Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1855/apr/24/cambridge-university-bill#S3V0137P0_18550424_HOL_7">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>14</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1855-04-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1855/jun/07/cambridge-university-bill#S3V0138P0_18550607_HOL_23">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1855-06-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1856/may/30/cambridge-university-bill#S3V0142P0_18560530_HOC_22">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>8</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1856-05-30</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1856/jun/09/cambridge-university-bill#S3V0142P0_18560609_HOC_31">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1856-06-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1856/jun/20/cambridge-university-bill#S3V0142P0_18560620_HOC_24">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1856-06-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1856/jul/04/cambridge-university-bill#S3V0143P0_18560704_HOL_23">CAMBRIDGE UNIVERSITY BILL.</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1856-07-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1867/apr/10/bill-16-committee#S3V0186P0_18670410_HOC_39">[BILL 16.] COMMITTEE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-04-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1873/mar/03/second-reading#S3V0214P0_18730303_HOC_28">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1873-03-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1873/mar/11/second-reading-adjourned-debate#S3V0214P0_18730311_HOC_36">SECOND READING. ADJOURNED DEBATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1873-03-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1876/feb/24/bill-presented-first-reading#S3V0227P0_18760224_HOL_11">BILL PRESENTED. FIRST READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1876-02-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1876/mar/23/university-of-cambridge-legislation#S3V0228P0_18760323_HOL_9">UNIVERSITY OF CAMBRIDGE&#x2014;LEGISLATION. &#x2014;QUESTION.</a></td>
+          <td class='count'>6</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1876-03-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1876/may/16/leave-first-reading-1#S3V0229P0_18760516_HOC_42">LEAVE. FIRST READING.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-05-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1876/jun/12/bill-146-second-reading#S3V0229P0_18760612_HOC_84">[BILL 146.] SECOND READING.</a></td>
+          <td class='count'>5</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-06-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1876/jun/20/parliament-arrangement-of-public#S3V0230P0_18760620_HOC_16">PARLIAMENT&#x2014;ARRANGEMENT OF PUBLIC BUSINESS.&#x2014;QUESTIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-06-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1876/jul/06/bill-151-second-reading#S3V0230P0_18760706_HOC_47">[BILL 151.] SECOND READING.</a></td>
+          <td class='count'>8</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1876-07-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1877/feb/19/universities-of-oxford-and-cambridge#S3V0232P0_18770219_HOC_52">UNIVERSITIES OF OXFORD AND CAMBRIDGE BILL&#x2014; [BILL 2.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1877-02-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1928/jul/03/nottinghamshire-and-derbyshire-tramways#S5CV0219P0_19280703_HOC_541">NOTTINGHAMSHIRE AND DERBYSHIRE TRAMWAYS (TROLLEY VEHICLES, Etc.) BILL [Lords] (By Order).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1928-07-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1931/feb/13/liquor-traffic-prohibition-bill#S5CV0248P0_19310213_HOC_103">LIQUOR TRAFFIC PROHIBITION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1931-02-13</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

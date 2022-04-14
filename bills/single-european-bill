@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Single European Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Single European Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='s'>
+          Bills (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Single European Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1986/jun/16/european-communities-amendment-bill#S6CV0099P0_19860616_HOC_313">European Communities (Amendment) Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1986-06-16</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1989/jun/29/business-of-the-house#S6CV0155P0_19890629_HOC_263">Business of the House</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1989-06-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1991/dec/18/maastricht-1#S6CV0201P0_19911218_HOC_444">Maastricht</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1991-12-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1992/jul/02/ec-uk-presidency#S5LV0538P0_19920702_HOL_202">EC: UK Presidency</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1992-07-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1993/apr/21/considered-in-committee-progress-19-april#S6CV0223P0_19930421_HOC_377">Considered in Committee [Progress, 19 April]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1993-04-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1993/jul/14/european-communities-amendment-bill#S5LV0548P0_19930714_HOL_154">European Communities (Amendment) Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1993-07-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1994/jan/25/single-european-act#S5LV0551P0_19940125_HOL_29">Single European Act</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1994-01-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1999/jun/18/european-tax-harmonisation-veto-bill-hl#S5LV0602P0_19990618_HOL_82">European Tax Harmonisation (Veto) Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1999-06-18</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Succession Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Succession Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='s'>
+          Bills (S)
+        </a>
+
+      </div>
+      <h1 class='title'>Succession Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1837/jun/29/succession-to-the-crown#S3V0038P0_18370629_HOL_16">SUCCESSION TO THE CROWN.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1837-06-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1837/jul/03/succession-to-the-throne#S3V0038P0_18370703_HOL_12">SUCCESSION TO THE THRONE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1837-07-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1853/jun/13/succession-duty-bill#S3V0128P0_18530613_HOC_21">SUCCESSION DUTY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1853-06-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1853/jun/20/succession-duty-bill#S3V0128P0_18530620_HOC_67">SUCCESSION DUTY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1853-06-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1853/jul/04/succession-duty-bill#S3V0128P0_18530704_HOC_122">SUCCESSION DUTY BILL.</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1853-07-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1853/aug/01/south-sea-annuities-suitors-in-chancery#S3V0129P0_18530801_HOL_5">SOUTH SEA ANNUITIES&#x2014;SUITORS IN CHANCERY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1853-08-01</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Personal Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Personal Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='p'>
+          Bills (P)
+        </a>
+
+      </div>
+      <h1 class='title'>Personal Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1949/jul/14/married-women-restraint-upon#S5LV0163P0_19490714_HOL_115">MARRIED WOMEN (RESTRAINT UPON ANTICIPATION) BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1949-07-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1949/nov/07/married-women-restraint-upon#S5CV0469P0_19491107_HOC_380">MARRIED WOMEN (RESTRAINT UPON ANTICIPATION) BILL [Lords]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1949-11-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1980/may/22/edward-berry-and-doris-eilleen-ward#S5LV0409P0_19800522_HOL_84">EDWARD BERRY AND DORIS EILLEEN WARD (MARRIAGE ENABLING) BILL [H.L.]</a></td>
+          <td class='count'>8</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1980-05-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1982/feb/22/marriage-step-parents-and-step-children#S5LV0427P0_19820222_HOL_122">Marriage (Step-parents and Step-children) Bill [H.L.]</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1982-02-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1982/mar/04/john-francis-dare-and-gillian-loder-dare#S5LV0427P0_19820304_HOL_69">John Francis Dare and Gillian Loder Dare (Marriage Enabling) Bill [H.L.]</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1982-03-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1986/feb/03/marriage-bill-hl#S5LV0470P0_19860203_HOL_344">Marriage Bill [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1986-02-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1986/feb/24/marriage-bill-hl#S5LV0471P0_19860224_HOL_310">Marriage Bill [H.L.]</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1986-02-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/2002/nov/20/personal-bill-committee">Personal Bill Committee</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>2002-11-20</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

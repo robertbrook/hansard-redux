@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Light Railway Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Light Railway Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='l'>
+          Bills (L)
+        </a>
+
+      </div>
+      <h1 class='title'>Light Railway Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1888/dec/18/question-observations-2#S3V0332P0_18881218_HOL_21">QUESTION. OBSERVATIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1888-12-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1889/jun/21/the-light-railway-bill#S3V0337P0_18890621_HOC_39">THE LIGHT RAILWAY BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1889-06-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1890/dec/04/supplementary-estimate#S3V0349P0_18901204_HOC_181">SUPPLEMENTARY ESTIMATE.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1890-12-04</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1891/mar/12/class-i#S3V0351P0_18910312_HOC_260">CLASS I.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1891-03-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1892/may/19/second-reading#S4V0004P0_18920519_HOC_213">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1892-05-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1896/apr/14/piers-and-harbours-wales#S4V0039P0_18960414_HOC_277">PIERS AND HARBOURS (WALES).</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1896-04-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1902/aug/07/light-railway-bill-1896">LIGHT RAILWAY BILL, 1896.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1902-08-07</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1907/jul/29/light-railway-bill#S4V0179P0_19070729_HOC_260">Light Railway Bill.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1907-07-29</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Home Office Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Home Office Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='h'>
+          Bills (H)
+        </a>
+
+      </div>
+      <h1 class='title'>Home Office Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1894/may/01/committee-1#S4V0024P0_18940501_HOL_8">COMMITTEE.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1894-05-01</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1917/apr/23/venereal-disease-bill-lords#S5CV0092P0_19170423_HOC_325">VENEREAL DISEASE BILL [Lords.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1917-04-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1919/apr/15/aliens-restriction-bill#S5CV0114P0_19190415_HOC_318">ALIENS RESTRICTION BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1919-04-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1920/jun/10/dangerous-drugs-bill#S5CV0130P0_19200610_HOC_542">DANGEROUS DRUGS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1920-06-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1932/may/12/children-and-young-persons-bill#S5CV0265P0_19320512_HOC_314">CHILDREN AND YOUNG PERSONS BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1932-05-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1937/feb/18/corporal-punishment-children#S5CV0320P0_19370218_HOC_122">CORPORAL PUNISHMENT (CHILDREN).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1937-02-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1966/nov/29/highways-straying-animals#S5CV0737P0_19661129_HOC_236">HIGHWAYS (STRAYING ANIMALS)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1966-11-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1975/jan/31/local-lotteries-bill#S5CV0885P0_19750131_HOC_158">LOCAL LOTTERIES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1975-01-31</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/written_answers/1986/jan/21/drug-trafficking#S6CV0090P0_19860121_CWA_12">Drug Trafficking</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Written Answers</td>
+          <td class='date'>1986-01-21</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1986/dec/09/criminal-justice-scotland-bill-hl#S5LV0482P0_19861209_HOL_84">Criminal Justice (Scotland) Bill [H.L.]</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1986-12-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1997/may/19/home-affairs#S6CV0294P0_19970519_HOC_165">Home Affairs</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1997-05-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1999/nov/29/electronic-communications-bill#S6CV0340P0_19991129_HOC_217">Electronic Communications Bill</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1999-11-29</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/2000/jun/15/e-commerce#S6CV0351P0_20000615_HOC_39">E-commerce</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>2000-06-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/2000/jul/07/hunting-with-dogs#S6CV0353P0_20000707_HOC_287">Hunting with Dogs</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>2000-07-07</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

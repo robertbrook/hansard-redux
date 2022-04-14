@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Tenants' Improvement Compensation Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content="List of mentions of the Tenants' Improvement Compensation Bill in Parliament in the period 1803 to 2005" name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='t'>
+          Bills (T)
+        </a>
+
+      </div>
+      <h1 class='title'>Tenants' Improvement Compensation Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1854/feb/28/leasing-powers-ireland-bill-landlord-and#S3V0131P0_18540228_HOL_5">LEASING POWERS (IRELAND) BILL&#x2014;LANDLORD AND TENANT (IRELAND) BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1854-02-28</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1854/jul/11/landlord-and-tenant-ireland-bill-and#S3V0135P0_18540711_HOC_5">LANDLORD AND TENANT (IRELAND) BILL, AND LEASING POWERS (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1854-07-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1854/jul/13/landlord-and-tenant-ireland-bill-and#S3V0135P0_18540713_HOC_11">LANDLORD AND TENANT (IRELAND) BILL, AND LEASING POWERS (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1854-07-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1855/feb/20/tenants-improvements-compensa-tion#S3V0136P0_18550220_HOC_20">TENANTS' IMPROVEMENTS COMPENSA TION (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1855-02-20</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1855/jul/24/partnership-amendment-bill#S3V0139P0_18550724_HOC_29">PARTNERSHIP AMENDMENT BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1855-07-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1887/apr/12/adjourned-debate-third-night#S3V0313P0_18870412_HOC_65">ADJOURNED DEBATE. [THIRD NIGHT.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1887-04-12</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

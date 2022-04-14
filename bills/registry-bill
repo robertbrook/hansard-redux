@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Registry Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Registry Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='r'>
+          Bills (R)
+        </a>
+
+      </div>
+      <h1 class='title'>Registry Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1831/mar/15/minutes#S3V0003P0_18310315_HOC_3">MINUTES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-03-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1831/apr/14/amendments-in-real-property-laws#S3V0003P0_18310414_HOC_62">AMENDMENTS IN REAL PROPERTY LAWS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1831-04-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1832/jan/17/general-registry-bill#S3V0009P0_18320117_HOC_20">GENERAL REGISTRY BILL.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-01-17</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1832/jan/19/general-registry-of-deeds#S3V0009P0_18320119_HOC_4">GENERAL REGISTRY OF DEEDS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-01-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1832/feb/03/general-registry-bill#S3V0009P0_18320203_HOC_9">GENERAL REGISTRY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-02-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1832/mar/06/general-registry-bill#S3V0010P0_18320306_HOC_37">GENERAL REGISTRY BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-03-06</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1832/mar/22/parliamentary-reform-bill-for-england#S3V0011P0_18320322_HOC_18">PARLIAMENTARY REFORM&#x2014;BILL FOR ENGLAND&#x2014;THIRD READING&#x2014; ADJOURNED DEBATE&#x2014;THIRD DAY.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1832-03-22</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1834/may/13/registry-of-births-deaths-and-marriages#S3V0023P0_18340513_HOC_49">REGISTRY OF BIRTHS, DEATHS, AND MARRIAGES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1834-05-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1835/sep/01/dublin-police-bill#S3V0030P0_18350901_HOL_5">DUBLIN POLICE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1835-09-01</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1836/mar/02/registration-of-electors#S3V0031P0_18360302_HOC_2">REGISTRATION OF ELECTORS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1836-03-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1837/nov/28/grand-juries#S3V0039P0_18371128_HOC_20">GRAND JURIES.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1837-11-28</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1840/jul/02/registration-of-voters-ireland#S3V0055P0_18400702_HOC_20">REGISTRATION OF VOTERS (IRELAND).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1840-07-02</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1851/jul/14/court-of-chancery-and-judicial-committee#S3V0118P0_18510714_HOL_14">COURT OF CHANCERY AND JUDICIAL COMMITTEE BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1851-07-14</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1858/mar/23/the-transfer-of-land-bill-and-tenants#S3V0149P0_18580323_HOL_13">THE TRANSFER OF LAND BILL, AND TENANTS FOR LIFE, TRUSTEES, &c., BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1858-03-23</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1866/feb/12/railway-companies-borrowing-powers#S3V0181P0_18660212_HOL_2">RAILWAY COMPANIES' BORROWING POWERS.&#x2014;QUESTION.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1866-02-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1874/mar/26/transfer-and-title-of-land#S3V0218P0_18740326_HOL_5">TRANSFER AND TITLE OF LAND.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1874-03-26</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Bradford Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Bradford Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='b'>
+          Bills (B)
+        </a>
+
+      </div>
+      <h1 class='title'>Bradford Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1885/mar/03/second-reading#S3V0294P0_18850303_HOC_16">SECOND READING.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1885-03-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1900/may/08/police-sanitary-regulation-bills#S4V0082P0_19000508_HOC_24">POLICE SANITARY REGULATION BILLS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1900-05-08</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1900/may/10/bradford-corporation-bill-by-order#S4V0082P0_19000510_HOC_6">BRADFORD CORPORATION BILL (BY ORDER).</a></td>
+          <td class='count'>4</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1900-05-10</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1924/jul/30/st-helens-corporation-trolley-vehicles#S5LV0059P0_19240730_HOL_11">ST. HELEN'S CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORD&#x0112;R BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1924-07-30</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1927/mar/09/newcastle-upon-tyne-corporation-bill-by#S5CV0203P0_19270309_HOC_406">NEWCASTLE-UPON-TYNE CORPORATION BILL. (By Order.)</a></td>
+          <td class='count'>3</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1927-03-09</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1928/apr/19/edinburgh-corporation-bill#S5CV0216P0_19280419_HOC_390">EDINBURGH CORPORATION BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1928-04-19</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1935/jul/03/halifax-extension-bill-lords-by-order#S5CV0303P0_19350703_HOC_346">HALIFAX EXTENSION BILL [Lords] (By Order).</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1935-07-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1949/nov/09/statutory-orders-special-procedure#S5CV0469P0_19491109_HOC_629">STATUTORY ORDERS (SPECIAL PROCEDURE)</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1949-11-09</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

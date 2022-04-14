@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Chancery Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Chancery Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='c'>
+          Bills (C)
+        </a>
+
+      </div>
+      <h1 class='title'>Chancery Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1842/aug/11/improvements-in-the-law#S3V0065P0_18420811_HOL_11">IMPROVEMENTS IN THE LAW.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1842-08-11</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1850/feb/25/parliamentary-voters-etc-ireland-bill#S3V0108P0_18500225_HOC_27">PARLIAMENTARY VOTERS, ETC. (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1850-02-25</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1851/jun/03/county-courts-extension-no-2-bill#S3V0117P0_18510603_HOL_9">COUNTY COURTS EXTENSION (No. 2) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1851-06-03</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1852/feb/12/reform-of-the-courts-of-law-and-equity#S3V0119P0_18520212_HOL_5">REFORM OF THE COURTS OF LAW AND EQUITY.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1852-02-12</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1852/mar/15/free-trade-the-ministerial-policy#S3V0119P0_18520315_HOC_37">FREE TRADE&#x2014;THE MINISTERIAL POLICY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1852-03-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1852/apr/05/ministerial-policy#S3V0120P0_18520405_HOC_11">MINISTERIAL POLICY.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1852-04-05</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1856/feb/18/court-of-chancery-ireland-bill#S3V0140P0_18560218_HOC_21">COURT OF CHANCERY (IRELAND) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1856-02-18</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1866/jul/27/landed-estates-court-c-ireland-re#S3V0184P0_18660727_HOC_173">LANDED ESTATES COURT, &c., (IRELAND) (re-committed) BILL.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1866-07-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1867/jul/26/observations#S3V0189P0_18670726_HOC_40">OBSERVATIONS.</a></td>
+          <td class='count'>2</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1867-07-26</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1871/jul/17/observations#S3V0207P0_18710717_HOC_65">OBSERVATIONS.</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1871-07-17</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>

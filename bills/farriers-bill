@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang='en-GB'>
+  <head>
+    <meta charset='utf-8' />
+    <title>Farriers Bill (Hansard)</title>
+    <meta author='UK Parliament' />
+    <meta content='51ff727eff55314a' name='y_key' />
+    <link href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' />
+    <meta content='Hansard, House of Commons, House of Lords, Parliament, UK' name='keywords' />
+    <meta content='List of mentions of the Farriers Bill in Parliament in the period 1803 to 2005' name='description' />
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" title="Default" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+  </head>
+  <body id='hansard-millbanksytems-com'>
+    <div id='header'>
+      <div class='search-help'><a href="/search">Search Help</a></div>
+            <form action='http://hansard.millbanksystems.com/search' id='search' method='post' rel='search'>
+        <input size='24' title='Access key: S' accesskey='s' name='query' id='search-query' type='search' placeholder='Search Hansard' autosave='hansard.millbanksystems.com' results='10' value='' >
+        <input type='submit' value='Search' >
+      </form>
+
+      <div id='nav'>
+        <a href="/" id="home" rel="home">HANSARD 1803&ndash;2005</a>
+        &rarr;
+                <a class='bills' href='f'>
+          Bills (F)
+        </a>
+
+      </div>
+      <h1 class='title'>Farriers Bill</h1>
+    </div>
+    <div class='page' id='content'>
+      
+      <table class='bill-mentions'>
+        <theader>
+          <th>Section title</th>
+          <th>Mentions</th>
+          <th>House</th>
+          <th>Date</th>
+        </theader>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1974/may/13/farriers-registration-bill-hl-1#S5LV0351P0_19740513_HOL_82">FARRIERS (REGISTRATION) BILL [H.L.]</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1974-05-13</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1974/may/15/political-parties-state-financing#S5LV0351P0_19740515_HOL_103">POLITICAL PARTIES: STATE FINANCING</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1974-05-15</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1974/jun/24/ministers-of-the-crown-bill#S5LV0352P0_19740624_HOL_267">MINISTERS OF THE CROWN BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1974-06-24</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1975/jan/31/local-lotteries-bill#S5CV0885P0_19750131_HOC_258">LOCAL LOTTERIES BILL</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1975-01-31</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/commons/1975/oct/27/short-title-extent-and-commencement#S5CV0898P0_19751027_HOC_582">SHORT TITLE, EXTENT AND COMMENCEMENT</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Commons</td>
+          <td class='date'>1975-10-27</td>
+        </tr>
+        <tr class='bill-mention'>
+          <td class='section'><a href="/lords/1993/feb/08/procedure-of-the-house-select-committee#S5LV0542P0_19930208_HOL_106">Procedure of the House: Select Committee Report</a></td>
+          <td class='count'>1</td>
+          <td class='house'>Lords</td>
+          <td class='date'>1993-02-08</td>
+        </tr>
+      </table>
+      
+      <div id='section-navigation'></div>
+    </div>
+    <div id='footer'>
+      <p><a href="/typos">Noticed a typo?</a> | <a href='https://spreadsheets.google.com/viewform?key=p_zCPmAX1qx1llDkHKzRlNQ' target='_BLANK' title='Opens a new page'>Report other issues</a> | <a href='http://www.parliament.uk/site_information/parliamentary_copyright.cfm' rel='copyright' id='copyright'>&copy UK Parliament</a></p>
+      <script type='text/javascript'>
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type='text/javascript'>
+        var pageTracker = _gat._getTracker("UA-3110135-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      </script>
+    </div>
+  </body>
+</html>
