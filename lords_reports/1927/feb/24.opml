@@ -1,0 +1,32 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 24 February 1927</title>
+    <dateCreated>Thu, 24 Feb 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2248210' text='The Lord Hothfield&amp;#x2014;Sat first in Parliament after the death of his father.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/preamble'></outline>
+    <outline id='2248211' text='COVENTRY CORPORATION BILL. [H.L.]'>
+      <outline id='2248212' text='COVENTRY CORPORATION (BOUNDARY EXTENSION) BILL. [H.L.]'>
+        <outline id='2248213' text="&lt;b&gt;CROYDON CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;DERBY CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LIVERPOOL CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;ROYAL ALBERT HALL BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SUNDERLAND CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;WALLASEY CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='BRIGHTON CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/brighton-corporation-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2248216' text='BRIGHTON CORPORATION BILL. [H.L.]'>
+      <outline id='2248218' text='Committed: The Committees to be proposed by the Committee of Selection.' title='CROYDON CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/croydon-corporation-bill-hl'></outline>
+    </outline>
+    <outline id='2248219' text='COMMERCIAL GAS BILL. [H.L.]'>
+      <outline id='2248220' text='HASTINGS TRAMWAYS COMPANY (TRAMWAYS VEHICLES) BILL [H.L.]'>
+        <outline id='2248221' text='&lt;b&gt;SCARBOROUGH GAS COMPANY (CONSOLIDATION) BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Committed: The Committees to be proposed by the Committee of Selection.' title='ISLE OF WIGHT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/isle-of-wight-water-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2248223' text='YEADON WATERWORKS BILL. [H.L.]'>
+      <outline id='2248224' text='Committed for Tuesday next.' title='NORTH METROPOLITAN ELECTRIC POWER SUPPLY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/north-metropolitan-electric-power-supply'></outline>
+    </outline>
+    <outline id='2248227' text='Committed: The Committee to be proposed by the Committee of Selection.' title='BIRKENHEAD EXTENSION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/birkenhead-extension-bill-hl'></outline>
+    <outline id='2248228' text='Special Order in respect of the urban district of East Dereham, in the County of Norfolk:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Order Committee.' title='EAST DEREHAM ELECTRICITY SPECIAL ORDER, 1927.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/feb/24/east-dereham-electricity-special-order'></outline>
+  </body>
+</opml>

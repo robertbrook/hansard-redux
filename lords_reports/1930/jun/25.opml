@@ -1,0 +1,26 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 June 1930</title>
+    <dateCreated>Wed, 25 Jun 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2256687' text='Brought from the Commons; read 1&amp;#x00AA;; to be printed, and referred to the Examiners.' title='INVERGORDON WATER SUPPLY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/25/invergordon-water-supply-bill'></outline>
+    <outline id='2256689' text='HARTLEPOOL GAS AND WATER BILL. [H.L.]'>
+      <outline id='2256690' text='RIVER LEE (FLOOD RELIEF, &amp;c.) BILL. [H.L.]'>
+        <outline id='2256691' text="&lt;b&gt;STOCKTON-ON-TEES CORPORATION (No. 2) BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;BOURNEMOUTH CORPORATION BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;ROTHERHAM CORPORATION BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;BRISTOL CORPORATION (No. 2) BILL.&lt;/b&gt;&lt;br/&gt;Report from the Committee of Selection, That the following Lords be proposed to the House to form the Select Committee for the consideration of the said Bills; namely:&amp;#x2014;&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;E. Fitzwilliam,&lt;/li&gt;&#x000A;&lt;li&gt;E. Effingham,&lt;/li&gt;&#x000A;&lt;li&gt;V. Bertie of Thame,&lt;/li&gt;&#x000A;&lt;li&gt;L. Mountgarret (&lt;i&gt;V. Mountgarret&lt;/i&gt;),&lt;/li&gt;&#x000A;&lt;li&gt;L. Meston (Chairman):&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;Agreed to; and the said Lords appointed acordingly: The Committee to meet on Thursday, the 3rd of July next,&#x000A;&lt;col&gt;176&lt;/col&gt;&#x000A;at eleven o'clock; and all Petitions referred to the Committee, with leave to the Petitioners praying to be heard by Counsel against the Bills to be heard as desired, as also Counsel for the Bills." title='NEWCASTLE-UPON-TYNE CORPORATION (QUAY EXTENSION, &amp;c.) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/25/newcastle-upon-tyne-corporation-quay'></outline>
+      </outline>
+    </outline>
+    <outline id='2256692' text='Committed for Wednesday next.' title='BRISTOL CATTLE MARKET BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/25/bristol-cattle-market-bill'></outline>
+    <outline id='2256698' text='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (ESSEX) BILL. [H.L.]'>
+      
+    </outline>
+    <outline id='2256700' text='MINISTRY OF HEALTH PROVISIONAL ORDERS (BOGNOR REGIS AND CHEPPING WYCOMBE) BILL.'>
+      
+    </outline>
+  </body>
+</opml>

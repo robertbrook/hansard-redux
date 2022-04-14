@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 26 April 1932</title>
+    <dateCreated>Tue, 26 Apr 1932 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2291012' text="The King's Consent signified; and Bill reported, with Amendments." title='HOVE PIER BILL [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/26/hove-pier-bill-hl'></outline>
+    <outline id='2291013' text='Reported, with Amendments.' title='WELWYN GARDEN CITY URBAN DISTRICT COUNCIL BILL [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/26/welwyn-garden-city-urban-district'></outline>
+    <outline id='2291014' text='Special Order in respect of parts of the Counties of Radnor and Brecknock:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='RADNORSHIRE AND BRECKNOCK- SHIRE ELECTRICITY ORDER, 1932.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/26/radnorshire-and-brecknock-shire'></outline>
+    <outline id='2291015' text='Reported, without amendment, and re-committed to a Committee of the Whole House to-morrow.' title='MINISTRY OF HEALTH PRO- VISIONAL ORDERS (MARGATE AND YEOVIL) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/26/ministry-of-health-pro-visional-orders'></outline>
+  </body>
+</opml>

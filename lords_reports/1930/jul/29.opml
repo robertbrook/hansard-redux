@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 29 July 1930</title>
+    <dateCreated>Tue, 29 Jul 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2260770' text='DARTFORD AND PURFLEET (THAMES) TUNNEL BILL.'>
+      <outline id='2260771' text='GLASGOW CORPORATION BILL.'>
+        <outline id='2260772' text='&lt;b&gt;ROTHERHAM CORPORATION BILL.&lt;/b&gt;&lt;br/&gt;Returned from the Commons, with the Amendments, agreed to.' title='KINGSTON UPON HULL CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/29/kingston-upon-hull-corporation-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2260773' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered, and agreed to.' title='BOOTLE CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/29/bootle-corporation-bill-hl'></outline>
+    <outline id='2260774' text='Returned from the Commons, agreed to, with Amendments.' title='LEICESTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/29/leicester-corporation-bill-hl'></outline>
+    <outline id='2260775' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered, and agreed to.' title='REDCROSS STREET BURIAL GROUND (BRISTOL) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/29/redcross-street-burial-ground-bristol'></outline>
+    <outline id='2260776' text='Sixth Report by the Select Committee made; to be printed; and to be considered to-morrow.' title='HOUSE OF LORDS OFFICES.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/29/house-of-lords-offices'></outline>
+  </body>
+</opml>

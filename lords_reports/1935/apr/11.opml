@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 April 1935</title>
+    <dateCreated>Thu, 11 Apr 1935 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2264710' text='Petition for further Additional Provision; of the company of proprietors of the Stourbridge Navigation under their Common Seal; together with proposed Amendments annexed thereto: Read, and referred to the Examiners.' title='STOURBRIDGE NAVIGATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/11/stourbridge-navigation-bill-hl'></outline>
+    <outline id='2264711' text="The King's consent signified: and Bill reported from the Select Committee with Amendments." title='GLOUCESTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/11/gloucester-corporation-bill-hl'></outline>
+    <outline id='2264713' text='Special Order proposed to be made on the application of the Salisbury Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='SALISBURY GAS ORDER, 1935.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/11/salisbury-gas-order-1935'></outline>
+    <outline id='2264715' text='HALIFAX EXTENSION BILL. [H.L.]'>
+      <outline id='2264717' text='Leave given to the Select Committee not to sit again till Tuesday the 28th of May next.' title='GILLIGAER URBAN DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/11/gilligaer-urban-district-council-bill-hl'></outline>
+    </outline>
+  </body>
+</opml>

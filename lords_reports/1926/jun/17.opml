@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 June 1926</title>
+    <dateCreated>Thu, 17 Jun 1926 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2282587' text='LONDON COUNTY COUNCIL (MONEY) BILL.'>
+      <outline id='2282588' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='GUILDFORD CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/guildford-corporation-bill'></outline>
+    </outline>
+    <outline id='2282589' text='Committed: The Committee to be proposed by the Committee of Selection.' title='WOLVERHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/wolverhampton-corporation-bill'></outline>
+    <outline id='2282590' text='Committee to meet on Tuesday next.' title='MEDWAY CONSERVANCY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/medway-conservancy-bill'></outline>
+    <outline id='2282591' text='Reported, with Amendments.' title='SHROPSHIRE, WORCESTERSHIRE, AND STAFFORDSHIRE ELECTRIC POWER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/shropshire-worcestershire-and'></outline>
+    <outline id='2282592' text='Reported from the Select Committee, with Amendments.' title='EASTBOURNE CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/eastbourne-corporation-bill-hl'></outline>
+    <outline id='2282593' text='Reported from the Select Committee, with Amendments.' title="SCOTTISH WIDOWS' FUND AND LIFE ASSURANCE SOCIETY BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/scottish-widows-fund-and-life-assurance'></outline>
+    <outline id='2282594' text='Committee: The Committees to be proposed by the Committee of Selection.' title='RHYMNEY VALLEY WATER BILL. PAIGNTON URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/rhymney-valley-water-bill-paignton-urban'></outline>
+    <outline id='2282596' text='Reported, without amendment, and re-committed to a Committee of the. Whole House on Tuesday next.' title='IMPERIAL WAR GRAVES ENDOWMENT FUND BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jun/17/imperial-war-graves-endowment-fund-bill'></outline>
+  </body>
+</opml>

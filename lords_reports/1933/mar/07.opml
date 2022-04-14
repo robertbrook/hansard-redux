@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 7 March 1933</title>
+    <dateCreated>Tue, 07 Mar 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2261748' text='Returned from the Commons, agreed to.&lt;br/&gt;The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders have not been complied with in respect of the petition for additional provision in the following Bill:&lt;br/&gt;Salford Corporation [H.L.].&lt;br/&gt;The same was ordered to lie on the Table.' title='EVIDENCE (FOREIGN, DOMINION AND COLONIAL DOCUMENTS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/mar/07/evidence-foreign-dominion-and-colonial'></outline>
+    <outline id='2261750' text='SALFORD CORPORATION BILL. [H.L.]'>
+      <outline id='2261751' text="Examiner's Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='PETITION FOR ADDITIONAL PROVISION.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/mar/07/petition-for-additional-provision'></outline>
+    </outline>
+    <outline id='2261753' text='BARKING CORPORATION BILL. [H.L.]'>
+      <outline id='2261754' text='OXFORD CORPORATION BILL. [H.L.]'>
+        <outline id='2261755' text="Reports from His Majesty's Attorney-General received and ordered to lie on the Table." title='ST. HELENS CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/mar/07/st-helens-corporation-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2261756' text='Draft scheme for the regulation of the marketing of Scottish raspberries, submitted to the Minister, under the Agricultural Marketing Act, 1931:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution, and referred to the Special Orders Committee.' title='SCOTTISH RASPBERRIES MARKETING SCHEME, 1932.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/mar/07/scottish-raspberries-marketing-scheme'></outline>
+  </body>
+</opml>

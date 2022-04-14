@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 December 1928</title>
+    <dateCreated>Thu, 06 Dec 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2285976' text="The King's Consent signified, and Bill reported with Amendments." title='BOGNOR URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/dec/06/bognor-urban-district-council-bill'></outline>
+    <outline id='2285978' text='Special Order in respect of the parish of Telscombe, in the rural district of Newhaven, in the Administrative County of East Sussex:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='BRIGHTON ELECTRICITY (EXTENSION) ORDER, 1928.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/dec/06/brighton-electricity-extension-order-1928'></outline>
+    <outline id='2285980' text='BURNHAM-ON-SEA ELECTRICITY (EXTENSION) ORDER, 1928.'>
+      <outline id='2285982' text='DRONFIELD ELECTRICITY ORDER, 1928.'>
+        <outline id='2285983' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='LOTHIANS ELECTRICITY (EXTENSION) ORDER, 1928.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/dec/06/lothians-electricity-extension-order-1928'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

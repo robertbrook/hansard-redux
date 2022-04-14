@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 22 July 1935</title>
+    <dateCreated>Mon, 22 Jul 1935 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2252271' text="The King's consent signified; and Bill reported from the Select Committee, with Amendments." title='SUNDERLAND CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/22/sunderland-corporation-bill'></outline>
+    <outline id='2252274' text='Returned from the Commons, agreed to, with Amendments. The said amendments considered, and agreed to.' title='CHICHESTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/22/chichester-corporation-bill-hl'></outline>
+    <outline id='2252275' text='&lt;b&gt;MILFORD DOCKS BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;STOURBRIDGE NAVIGATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Returned from the Commons, agreed to, with Amendments. The said amendments considered, and agreed to.' title='LONDON BUILDING ACT (AMEND MENT) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/22/london-building-act-amend-ment-bill-hl'></outline>
+    <outline id='2252276' text='&lt;b&gt;BECKENHAM URBAN DISTRICT COUNCIL BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LONDON MIDLAND AND SCOTTISH RAILWAY BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SOUTH SHIELDS CORPORATION BILL.&lt;/b&gt;&lt;br/&gt;Returned from the Commons, with the Amendments, agreed to.' title='ASCOT DISTRICT GAS AND ELECTRICITY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/22/ascot-district-gas-and-electricity-bill'></outline>
+  </body>
+</opml>

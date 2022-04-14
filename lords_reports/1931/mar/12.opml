@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 12 March 1931</title>
+    <dateCreated>Thu, 12 Mar 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2290068' text='Referred to the Examiners.' title='CITY OF LONDON (VARIOUS POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/city-of-london-various-powers-bill'></outline>
+    <outline id='2290070' text='Report from the Select Committee, That it is not expedient to proceed further with the Bill: Read, and ordered to lie on the Table.' title='OLDHAM EXTENSION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/oldham-extension-bill-hl'></outline>
+    <outline id='2290071' text='Reported, without, amendment.' title='WALTHAMSTOW CORPORATION BILL. CARNEGIE HERO FUND TRUST BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/walthamstow-corporation-bill-carnegie'></outline>
+    <outline id='2290072' text='Reported, with Amendments.' title='LONDON ASSURANCE BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/london-assurance-bill-hl'></outline>
+    <outline id='2290074' text='Special Order in respect of part of the rural district of Lancaster in the County Palatine of Lancaster:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='MORECAMBE AND HEYSHAM ELEC TRICITY (EXTENSION) ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/morecambe-and-heysham-elec-tricity'></outline>
+    <outline id='2290075' text='CHERTSEY GAS ORDER, 1931.'>
+      <outline id='2290076' text='SHREWSBURY GAS ORDER, 1931.'>
+        <outline id='2290077' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='ST. THOMAS RURAL ELECTRICITY ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/12/st-thomas-rural-electricity-order-1930'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

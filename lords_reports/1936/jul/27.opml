@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 27 July 1936</title>
+    <dateCreated>Mon, 27 Jul 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2254459' text='Returned from the Commons, agreed to, with Amendments: the said Amendments to be printed, and to be considered tomorrow.' title='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (ST. HELENS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/ministry-of-health-provisional-order'></outline>
+    <outline id='2254461' text='Returned from the Commons, agreed to, with Amendments: the said Amendments considered, and agreed to.' title='MANCHESTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/manchester-corporation-bill-hl'></outline>
+    <outline id='2254463' text='Special Order in respect of part of the rural district of Burnley in the County Palatine of Lancaster:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='NELSON ELECTRICITY (EXTENSION) ORDER, 1936.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/nelson-electricity-extension-order-1936'></outline>
+    <outline id='2254464' text='Order, made by the Secretary of State for the Home Department, extending Section 1 of the Act to the Urban District of Slough:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and ordered to lie on the Table.' title='SUNDAY ENTERTAINMENTS ACT, 1932 (URBAN DISTRICT OF SLOUGH ORDER).' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/sunday-entertainments-act-1932-urban'></outline>
+    <outline id='2254467' text='LAND DRAINAGE PROVISIONAL ORDER (No. 1) BILL.'>
+      <outline id='2254469' text='Reported, without amendment, and recommitted to a Committee of the Whole House to-morrow.' title='LAND DRAINAGE PROVISIONAL ORDER (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/land-drainage-provisional-order-no-2-bill'></outline>
+    </outline>
+    <outline id='2254470' text='Reported, without amendment, and recommitted to a Committee of the Whole House to-morrow.' title='CROWN LANDS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/27/crown-lands-bill'></outline>
+  </body>
+</opml>

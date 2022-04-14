@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 April 1929</title>
+    <dateCreated>Thu, 25 Apr 1929 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2253591' text='Reported from the Select Committee, with Amendments.' title='SUTTON DISTRICT WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/apr/25/sutton-district-waterworks-bill-hl'></outline>
+    <outline id='2253593' text='Committed for Tuesday next.' title='SALFORD CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/apr/25/salford-corporation-bill'></outline>
+    <outline id='2253596' text='Special Order in respect of the parishes of Gretna and Dornock in the County of Dumfries.&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='DUMFRIESSHIRE (GRETNA AND DORNOCK) ELECTRICITY ORDER, 1929.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/apr/25/dumfriesshire-gretna-and-dornock'></outline>
+    <outline id='2253598' text='Special Order in respect of parts of the rural districts of Chapel-en-le-Frith and Bakewell in the County of Derby:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='HOPE (DERBYSHIRE) AND DISTRICT ELECTRICITY ORDER, 1929.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/apr/25/hope-derbyshire-and-district-electricity'></outline>
+    <outline id='2253599' text='Committed for Tuesday next.' title='MARRIAGES PROVISIONAL ORDERS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/apr/25/marriages-provisional-orders-bill'></outline>
+  </body>
+</opml>

@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 30 January 1940</title>
+    <dateCreated>Tue, 30 Jan 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2298372' text='COVENTRY CORPORATION BILL. [H.L.]'>
+      <outline id='2298374' text='LIPTON TRUST BILL. [H.L.]'>
+        <outline id='2298376' text='&lt;b&gt;NORTHALLERTON URBAN DISTRICT COUNCIL BILL.[H.L.]&lt;/b&gt;&lt;br/&gt;Presented, and read 1&lt;sup&gt;a&lt;/sup&gt;.' title='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jan/30/london-county-council-general-powers'></outline>
+      </outline>
+    </outline>
+    <outline id='2298377' text='BRIGHTON MARINE PALACE AND PIER BILL. [H.L.]'>
+      <outline id='2298378' text='COMMERCIAL GAS BILL. [H.L.]'>
+        <outline id='2298379' text='&lt;b&gt;GOSPORT WATER BILL.[H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;KING EDWARD THE SEVENTH WELSH NATIONAL MEMORIAL ASSOCIATION BILL.[H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;ROYAL SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS BILL.[H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SOUTH-EASTERN GAS CORPORATION LIMITED (ASSOCIATED COMPANIES) BILL.[H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SOUTH SUBURBAN GAS BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Presented, read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='FARNHAM GAS AND ELECTRICITY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jan/30/farnham-gas-and-electricity-bill-hl'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

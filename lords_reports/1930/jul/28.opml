@@ -1,0 +1,27 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 28 July 1930</title>
+    <dateCreated>Mon, 28 Jul 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2255913' text='Returned from the Commons, agreed to.' title='BRITISH MUSEUM BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/british-museum-bill-hl'></outline>
+    <outline id='2255914' text='MINISTRY OF HEALTH PROVISIONAL ORDER (FOLKESTONE WATER) BILL.'>
+      <outline id='2255915' text='Returned from the Commons, with the Amendments, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (UXBRIDGE JOINT HOSPITAL DISTRICT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/ministry-of-health-provisional-order-1'></outline>
+    </outline>
+    <outline id='2255916' text='MANCHESTER EXTENSION BILL.'>
+      <outline id='2255917' text='Returned from the Commons, with the Amendments, agreed to.' title='STOCKTON-ON-TEES CORPORATION (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/stockton-on-tees-corporation-no-2-bill'></outline>
+    </outline>
+    <outline id='2255921' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered, and agreed to.' title='HARTLEPOOL GAS AND WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/hartlepool-gas-and-water-bill-hl'></outline>
+    <outline id='2255923' text='NEWCASTLE-UPON-TYNE CORPORATION (QUAY EXTENSION, &amp;c.) BILL. [H.L.]'>
+      <outline id='2255925' text='Returned from the Commons, agreed to, with Amendments.' title='RIVER LEE (FLOOD RELIEF, &amp;c.) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/river-lee-flood-relief-c-bill'></outline>
+    </outline>
+    <outline id='2255926' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered, and agreed to.' title='SHROPSHIRE, WORCESTERSHIRE, AND STAFFORDSHIRE ELECTRIC POWER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/shropshire-worcestershire-and'></outline>
+    <outline id='2255927' text='Returned from the Commons, agreed to, with Amendments.' title='WEST HAM CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/west-ham-corporation-bill-hl'></outline>
+    <outline id='2255928' text='Reported from the Select Committee, with Amendments, and re-committed to a Committee of the Whole House tomorrow.' title='BRADFORD CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/28/bradford-corporation-trolley-vehicles'></outline>
+  </body>
+</opml>

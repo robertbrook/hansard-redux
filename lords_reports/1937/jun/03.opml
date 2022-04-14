@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 3 June 1937</title>
+    <dateCreated>Thu, 03 Jun 1937 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2269972' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn. The Order made on the 26th of May last discharged, and Bill committed.' title='DUNSTABLE GAS AND WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/03/dunstable-gas-and-water-bill'></outline>
+    <outline id='2269973' text='Reported from the Select Committee, with Amendments.' title='CANVEY ISLAND URBAN DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/03/canvey-island-urban-district-council'></outline>
+    <outline id='2269974' text='NEWQUAY AND DISTRICT WATER BILL.'>
+      <outline id='2269975' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='WADEBRIDGE RURAL DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/03/wadebridge-rural-district-council-bill'></outline>
+    </outline>
+    <outline id='2269976' text='The LORD CHANCELLOR acquainted the House, That the Bill had been endorsed with a Certificate from the Speaker that it is a Money Bill within the meaning of the Parliament Act, 1911.&lt;br/&gt;[&lt;i&gt;From Minutes of Judicial Sitting, June 4.&lt;/i&gt;]' title='STATUTORY SALARIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/03/statutory-salaries-bill'></outline>
+    <outline id='2269977' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and to be printed.' title='MINISTERS OF THE CROWN BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/03/ministers-of-the-crown-bill'></outline>
+  </body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 15 July 1936</title>
+    <dateCreated>Wed, 15 Jul 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2269190' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='TRING GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/15/tring-gas-bill-hl'></outline>
+    <outline id='2269191' text='Reported, with Amendments.' title='DALTON-IN-FURNESS URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/15/dalton-in-furness-urban-district-council'></outline>
+    <outline id='2269192' text='Order made by the Minister of Labour under Section 1 (5) to terminate the operation of the Act:&lt;br/&gt;Presented (by command) for affirmative Resolution and referred to the Special Orders Committee.' title='UNEMPLOYMENT ASSISTANCE (TEMPORARY PROVISIONS) ACT, 1935.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/15/unemployment-assistance-temporary'></outline>
+  </body>
+</opml>

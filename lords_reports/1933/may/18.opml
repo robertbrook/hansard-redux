@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 18 May 1933</title>
+    <dateCreated>Thu, 18 May 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2244341' text='DEWSBURY CORPORATION BILL.'>
+      <outline id='2244342' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='ST. HELENS CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/st-helens-corporation-bill'></outline>
+      <outline id='2244344' text='Reported, with Amendments.' title='BARKING CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/barking-corporation-bill-hl'></outline>
+      <outline id='2244346' text='Reported, with Amendments.' title='CITY OF LONDON (VARIOUS POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/city-of-london-various-powers-bill'></outline>
+      <outline id='2244347' text='Reported from the Select Committee, with Amendments,' title='BOOTLE CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/bootle-corporation-bill-hl'></outline>
+      <outline id='2244351' text='The evidence taken before the Select Committee from time to time to be printed, but no copies to be delivered out, except to members of the Committee and to such other persons as the Committee shall think fit, until further order.' title='ELECTRICITY (SUPPLY) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/electricity-supply-bill-hl'></outline>
+      <outline id='2244352' text='Reported, without amendment, and recommitted to a Committee of the Whole House on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (HEREFORD AND WEST KENT MAIN SEWERAGE DISTRICT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/ministry-of-health-provisional-orders'></outline>
+      <outline id='2244354' text='Reported, without amendment, and recommitted to a Committee of the Whole House on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDEAS (TEES VALLEY WATER BOARD AND WEST MON MOUTHSHIRE OMNIBUS BOARD) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/18/ministry-of-health-provisional-ordeas'></outline>
+    </outline>
+  </body>
+</opml>

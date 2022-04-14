@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 March 1934</title>
+    <dateCreated>Wed, 21 Mar 1934 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2300369' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders have not been complied with in respect of the Petition for the following Bill:&lt;br/&gt;South Downs Preservation.&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/21/preamble'></outline>
+    <outline id='2300370' text='Petition for additional provision; of the Durham County Water Board, together with proposed amendments and clause annexed thereto: Read, and referred to the Examiners.' title='DURHAM COUNTY WATER BOARD BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/21/durham-county-water-board-bill-hl'></outline>
+    <outline id='2300371' text='Special Order proposed to be made on the application of the Barnstaple Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='BARNSTAPLE GAS ORDER, 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/21/barnstaple-gas-order-1934'></outline>
+  </body>
+</opml>

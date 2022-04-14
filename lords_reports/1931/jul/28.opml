@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 28 July 1931</title>
+    <dateCreated>Tue, 28 Jul 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297413' text='The LORD CHANCELLOR acquainted the House, that the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Ministry of Health Provisional Order (Great Marlow Water).&lt;br/&gt;Also the Certificate that no Standing Orders are applicable to the following Bill:&lt;br/&gt;Ministry of Health Provisional Order (Chepping Wycombe).&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/28/preamble'></outline>
+    <outline id='2297414' text='Committed: the Committee to be proposed by the Committee of Selection.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (CHEPPING WYCOMBE) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/28/ministry-of-health-provisional-order'></outline>
+    <outline id='2297415' text='Committed for to-morrow.' title='MINISTRY OF HEALTH PROVISIONAL ORDER(GREAT MARLOW WATER) BILL. MINISTRY OF HEALTH PROVISIONAL ORDER (YEADON WATER) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/28/ministry-of-health-provisional'></outline>
+  </body>
+</opml>

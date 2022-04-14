@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 March 1934</title>
+    <dateCreated>Tue, 06 Mar 1934 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2300041' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt; and referred to the Examiners.' title='AIRE AND CALDER NAVIGATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/aire-and-calder-navigation-bill'></outline>
+    <outline id='2300042' text='BIRMINGHAM UNITED HOSPITAL BILL. [H.L.]'>
+      <outline id='2300043' text="Reports from His Majesty's Attorney-General received and ordered to lie on the Table." title='CHURCH HOUSE (WESTMINSTER) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/church-house-westminster-bill'></outline>
+    </outline>
+    <outline id='2300044' text='NEWPORT CORPORATION (GENERAL POWERS) BILL. [H.L.]'>
+      <outline id='2300045' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bills was withdrawn: The Orders made on the 14th of February and Tuesday last discharged, and Bills committed.' title='LOWESTOFT CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/lowestoft-corporation-bill-hl'></outline>
+    </outline>
+    <outline id='2300046' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn: The Orders made on the 22nd of February and Tuesday last discharged, and Bill committed.' title='WEST GLOUCESTERSHIRE WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/west-gloucestershire-water-bill-hl'></outline>
+    <outline id='2300047' text='Committed: The Committee to be proposed by the Committee of Selection.' title='SHEFFIELD GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/sheffield-gas-bill-hl'></outline>
+    <outline id='2300048' text='Special Order proposed to be made on the application of the Weston-super-Mare Gaslight Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='WESTON-SUPER-MARE GAS ORDER, 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/mar/06/weston-super-mare-gas-order-1934'></outline>
+  </body>
+</opml>

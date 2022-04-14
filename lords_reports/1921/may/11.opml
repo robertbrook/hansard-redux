@@ -1,0 +1,30 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 May 1921</title>
+    <dateCreated>Wed, 11 May 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2231047' text='Petition praying for leave to bring in a Bill to provide for the transfer to the Mayor, Aldermen, and Burgesses of the City of Londonderry of the undertaking of the Londonderry Bridge Commissioners, and to authorise the said Mayor, Aldermen, and Burgesses to maintain, improve, and work the same, and for other purposes; presented, together with a copy of the proposed Bill annexed thereto, and read, and referred to the Examiners.' title='LONDONDERRY CORPORATION (BRIDGE) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/londonderry-corporation-bridge-bill'></outline>
+    <outline id='2231048' text='SOUTH EAST ESSEX WATER BILL. [H.L.]'>
+      <outline id='2231049' text='SOUTHEND WATER BILL. [H.L.]'>
+        <outline id='2231050' text='Leave given to the Select Committee to adjourn over to-morrow and not to sit again until Wednesday the 25th instant.' title='SOUTH ESSEX WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/south-essex-waterworks-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2231053' text='Committed: The Committee to be proposed by the Committee of Selection' title='ST. HELENS CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/st-helens-corporation-bill'></outline>
+    <outline id='2231054' text='Presented (pursuant to leave given yesterday), and read 1&amp;#x00AA;.' title='WEST HAM CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/west-ham-corporation-bill-hl'></outline>
+    <outline id='2231055' text='MINISTRY OF HEALTH PROVISIONAL ORDER (DOVER EXTENSION) BILL. [H.L.]'>
+      <outline id='2231056' text='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.'>
+        <outline id='2231057' text='MIDDLESEX COUNTY COUNCIL (GENERAL POWERS) BILL.'>
+          <outline id='2231058' text='Brought from the Commons; read;1&amp;#x00AA; and referred to the Examiners' title='SUNDERLAND AND SOUTH SHIELDS WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/sunderland-and-south-shields-water-bill'></outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline id='2231059' text='Returned from the Commons, with the Amendment, agreed to' title='NORTH BRITISH RAILWAY ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/north-british-railway-order-confirmation'></outline>
+    <outline id='2231060' text='Motion to resolve "That a Committee of five Lords be appointed to join with a Committee of the House of Commons to consider all Consolidation Bills in the present session"&amp;#x2014; having been agreed to: Ordered that a Message be sent to the House of Commons to acquaint them therewith, and to request them to appoint five members of that House to join with the said Committee to which have been referred all Consolidation Bills' title='CONSOLEDAMN BILL PROCEDURE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/11/consoledamn-bill-procedure'></outline>
+  </body>
+</opml>

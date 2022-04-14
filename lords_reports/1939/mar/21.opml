@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 March 1939</title>
+    <dateCreated>Tue, 21 Mar 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2306724' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&amp;#x2014;&lt;br/&gt;Exeter Extension.&lt;br/&gt;And also the Certificate that the Standing Orders have not been complied with in respect of the Petition for the following Bill:&amp;#x2014;&lt;br/&gt;Southampton Harbour.&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/21/preamble'></outline>
+    <outline id='2306725' text="Examiners' Certificates of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='SOUTHAMPTON HARBOUR: PETITION FOR BILL. CROYDON CORPORATION: PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/21/southampton-harbour-petition-for-bill'></outline>
+    <outline id='2306726' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn. The Orders made on the 23rd of February last and the 2nd instant discharged and Bill committed.' title='LONDON GAS UNDERTAKINGS (REGULATIONS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/21/london-gas-undertakings-regulations-bill'></outline>
+  </body>
+</opml>

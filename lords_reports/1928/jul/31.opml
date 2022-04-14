@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 31 July 1928</title>
+    <dateCreated>Tue, 31 Jul 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2231290' text='Returned from the Commons, with the Amendment, agreed to.' title='EASTER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/easter-bill'></outline>
+    <outline id='2231291' text='Returned from the Commons, with the Amendment, agreed to.' title='REORGANISATION OF OFFICES (SCOTLAND) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/reorganisation-of-offices-scotland-bill'></outline>
+    <outline id='2231292' text='Returned from the Commons, with the Amendments, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (GODALMING EXTENSION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/ministry-of-health-provisional-order'></outline>
+    <outline id='2231293' text='COVENTRY CORPORATION BILL.'>
+      <outline id='2231294' text='ROTHERHAM CORPORATION BILL.'>
+        <outline id='2231295' text='Returned from the Commons, with the Amendments, agreed to.' title='WOLVERHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/wolverhampton-corporation-bill'></outline>
+        <outline id='2231296' text='&lt;b&gt;BRADFORD CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;CLEVELAND AND DURHAM COUNTY ELECTRIC POWER BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;DAGENHAM URBAN DISTRICT COUNCIL BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;MORECAMBE CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;NORTH METROPOLITAN ELECTRIC POWER SUPPLY (CONSOLIDATION) BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;POOLE CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;WEALD ELECTRICITY SUPPLY BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='BLACKPOOL IMPROVEMENT BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/blackpool-improvement-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2231299' text='Reported without amendment, and re-committed to a Committee of the Whole House to-morrow.' title='LINCOLNSHIRE RIVER FISHERIES PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/lincolnshire-river-fisheries-provisional'></outline>
+    <outline id='2231301' text='Committee for to-morrow.' title='BRIDLINGTON HARBOUR PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/31/bridlington-harbour-provisional-order'></outline>
+  </body>
+</opml>

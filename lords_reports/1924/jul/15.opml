@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 15 July 1924</title>
+    <dateCreated>Tue, 15 Jul 1924 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2242175' text="The King's consent signified, and Bill reported from the Select Committee with Amendments.&lt;br/&gt;The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Tynemouth Corporation.&lt;br/&gt;The same was ordered to lie on the Table." title='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/london-county-council-general-powers-bill'></outline>
+    <outline id='2242177' text='Reported without amendment.' title='LONDON MIDLAND AND SCOTTISH RAILWAY (SUPERANNUATION FUND) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/london-midland-and-scottish-railway'></outline>
+    <outline id='2242179' text='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 6) BILL.'>
+      <outline id='2242180' text='Reported, without amendment, and recommitted to a Committee of the Whole House to-morrow.' title='PIER AND HARBOUR PROVISIONAL ORDERS (No. 1) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/pier-and-harbour-provisional-orders-no-1'></outline>
+    </outline>
+    <outline id='2242181' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Monday next.' title='LAW OF PROPERTY ACT (POSTPONEMENT) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/law-of-property-act-postponement-bill-hl'></outline>
+    <outline id='2242182' text='Read 3&lt;sup&gt;a&lt;/sup&gt;, with the Amendments, and passed, and returned to the Commons.' title='MORECAMBE CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/morecambe-corporation-bill'></outline>
+    <outline id='2242183' text='Committee of the Whole House (which stands appointed for to-morrow) put off to Monday next.' title='BRITISH MUSEUM (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/british-museum-no-2-bill'></outline>
+    <outline id='2242185' text='Returned from the Commons, with the Amendment, agreed to.' title='GREAT WESTERN RAILWAY (ADDITIONAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/15/great-western-railway-additional-powers'></outline>
+  </body>
+</opml>

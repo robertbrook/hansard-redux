@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 9 July 1931</title>
+    <dateCreated>Thu, 09 Jul 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2296886' text='SEATON URBAN DISTRICT COUNCIL BILL.'>
+      <outline id='2296887' text='Reported, with Amendments.' title='SHEFFIELD GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/09/sheffield-gas-bill'></outline>
+    </outline>
+    <outline id='2296888' text='Special Order proposed to be made on the application of the Cheltenham Gaslight and Coke Company:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='CHELTENHAM AND DISTRICT GAS ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/09/cheltenham-and-district-gas-order-1931'></outline>
+    <outline id='2296889' text='Report from the Committee of Selection, That the Lords following be proposed to the House as members of the panel of Lords to act as Commissioners under the Act, namely&amp;#x2014;&#x000A;&lt;ul&gt;&lt;li&gt;L. Belhaven and Stenton,&lt;/li&gt;&#x000A;&lt;li&gt;L. Rathcreedan:&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;Agreed to; and the said Lords appointed accordingly.' title='PRIVATE LEGISLATION PRO CEDURE (SCOTLAND) ACT, 1899.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/09/private-legislation-pro-cedure-scotland'></outline>
+    <outline id='2296890' text='Reported, without amendment, and recommitted to a Committee of the Whole House on Monday next.' title='DARLINGTON CORPORATION TROL LEY VEHICLES (ADDITIONAL ROUTES) PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/09/darlington-corporation-trol-ley-vehicles'></outline>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 April 1932</title>
+    <dateCreated>Mon, 25 Apr 1932 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2291663' text='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.'>
+      <outline id='2291664' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='SCARBOROUGH GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/25/scarborough-gas-bill'></outline>
+    </outline>
+    <outline id='2291665' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been withdrawn: Read, and ordered to lie on the Table: The Orders made on the 17th of February and the 16th of March last discharged, and Bill committed.' title='NORTH METROPOLITAN ELECTRIC POWER SUPPLY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/25/north-metropolitan-electric-power-supply'></outline>
+    <outline id='2291666' text='Special Order proposed to be made on the application of the Shanklin Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act), and referred to the Special Orders Committee.' title='SHANKLIN AND VENTNOR GAS ORDER, 1932.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/apr/25/shanklin-and-ventnor-gas-order-1932'></outline>
+  </body>
+</opml>

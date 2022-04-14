@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 3 July 1940</title>
+    <dateCreated>Wed, 03 Jul 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2307477' text='Returned from the Commons, agreed to, with Amendments: the said Amendments considered and agreed to.' title='GOSPORT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jul/03/gosport-water-bill-hl'></outline>
+    <outline id='2307478' text='Returned from the Commons, agreed to, with Amendments: the said Amendments considered and agreed to.' title="MONMOUTHSHIRE AND SOUTH WALES EMPLOYERS' MUTUAL INDEMNITY SOCIETY, LIMITED BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jul/03/monmouthshire-and-south-wales-employers'></outline>
+    <outline id='2307479' text='Commons consequential Amendment to Lords Amendments considered and agreed to.' title='CHRISTCHURCH CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jul/03/christchurch-corporation-bill'></outline>
+    <outline id='2307483' text='Fourth Report by the Select Committee made, and to be printed.' title='HOUSE OF LORDS OFFICES.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jul/03/house-of-lords-offices'></outline>
+  </body>
+</opml>

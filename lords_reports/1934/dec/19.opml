@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 19 December 1934</title>
+    <dateCreated>Wed, 19 Dec 1934 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2301425' text='TAMWORTH ELECTRICITY ORDER, 1934.'>
+      <outline id='2301426' text='SWINDON GAS ORDER, 1934.'>
+        <outline id='2301427' text='MANSFIELD GAS ORDER, 1934.'>
+          <outline id='2301428' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='LIVERPOOL GAS ORDER., 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/dec/19/liverpool-gas-order-1934'></outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline id='2301429' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Order, that there is nothing in this Order to which they think it necessary to call the attention of the House, and that they have considered a modification proposed by the Board of Trade and recommend its adoption to the House: Read, and ordered to lie on the Table.' title='SITTINGBOURNE AND MILTON URBAN DISTRICT GAS ORDER, 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/dec/19/sittingbourne-and-milton-urban-district'></outline>
+    <outline id='2301430' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the special Order, that the Order contains departures from precedent which have been satisfactorily explained to the Committee, that they have received and considered a Report from the Board of Trade upon the Order, and that they have considered a modification proposed by the Board of trade and recommend its adoption to the House: Read, and ordered to lie on the Table.' title='WESTON-SUPER-MARE GAS (No. 2) ORDER, 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/dec/19/weston-super-mare-gas-no-2-order-1934'></outline>
+    <outline id='2301432' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Order, that they have received and considered a Report from the Board of Trade upon the Order; that the Committee have doubts whether the Order is &lt;i&gt;intra vires&lt;/i&gt; in its present form, but that modifications have been proposed by the Board of Trade to remove these doubts and that the Committee have considered the proposed modifications and recommend their adoption to the House, an undertaking having been given to the Committee by the Bournemouth Gas and Water Company that they will apply forthwith for a new Order or Bill to extend their limits of supply to include certain areas which have been excluded by the proposed modifications: Read, and ordered to lie on the Table.' title='BOURNEMOUTH GAS ORDER, 1934.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1934/dec/19/bournemouth-gas-order-1934'></outline>
+  </body>
+</opml>

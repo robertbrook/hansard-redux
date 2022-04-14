@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 June 1928</title>
+    <dateCreated>Mon, 25 Jun 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230442' text='Returned from the Commons, agreed to.' title='ABERDEEN CORPORATION ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/aberdeen-corporation-order-confirmation'></outline>
+    <outline id='2230443' text='Returned from the Commons, with the Amendments, agreed to.' title='LONDON, MIDLAND AND SCOTTISH RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/london-midland-and-scottish-railway-bill'></outline>
+    <outline id='2230444' text='Returned from the Commons, agreed to, with Amendments.' title='LEWES WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/lewes-water-bill-hl'></outline>
+    <outline id='2230446' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='PLYMPTON ST. MARY RURAL DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/plympton-st-mary-rural-district-council'></outline>
+    <outline id='2230448' text='The Committees to be proposed by the Committee of Selection.' title='WOLVERHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/wolverhampton-corporation-bill'></outline>
+    <outline id='2230449' text='Special Order proposed to be made on the application of the Urban District Council of Bollington:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='BOLLINGTON GAS ORDER, 1928.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/bollington-gas-order-1928'></outline>
+    <outline id='2230450' text='Special Order proposed to be made on the application of the Urban District Council of Maryport:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='MARYPORT GAS ORDER, 1928.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jun/25/maryport-gas-order-1928'></outline>
+  </body>
+</opml>

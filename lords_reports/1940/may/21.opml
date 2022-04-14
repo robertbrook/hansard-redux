@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 May 1940</title>
+    <dateCreated>Tue, 21 May 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2307425' text='The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Mid-Wessex Water [H.L.].&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/may/21/preamble'></outline>
+    <outline id='2307432' text='CHRISTCHURCH CORPORATION BILL.'>
+      <outline id='2307434' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='NEWCASTLE-UPON-TYNE AND GATESHEAD GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/may/21/newcastle-upon-tyne-and-gateshead-gas'></outline>
+    </outline>
+    <outline id='2307436' text='Returned from the Commons, agreed to, with Amendments: the said Amendments considered, and agreed to.' title='NORTHALLERTON URBAN DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/may/21/northallerton-urban-district-council'></outline>
+    <outline id='2307437' text='Regulations, dated 4th March, 1940, made by the Minister of Transport under the Road Traffic Act, 1930, and laid before the House on the 13th instant, referred to the Special Orders Committee.' title='MOTOR VEHICLES (GAS-PROPELLED VEHICLES) (VARIATION OF SPEED LIMIT) REGULATIONS, 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/may/21/motor-vehicles-gas-propelled-vehicles'></outline>
+  </body>
+</opml>

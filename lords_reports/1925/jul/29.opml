@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 29 July 1925</title>
+    <dateCreated>Wed, 29 Jul 1925 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2243567' text='Reported from the Select Committee, with Amendments.' title='MANCHESTER SHIP CANAL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/manchester-ship-canal-bill'></outline>
+    <outline id='2243568' text='Reported from the Select Committee, with Amendments.' title='BURNLEY CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/burnley-corporation-bill'></outline>
+    <outline id='2243570' text='Returned from the Commons, agreed to.' title='KIRKCUDBRIGHT BURGH ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/kirkcudbright-burgh-order-confirmation'></outline>
+    <outline id='2243571' text='Returned from the Commons, with the Amendments, agreed to.' title='LEEDS CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/leeds-corporation-bill'></outline>
+    <outline id='2243572' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='POOLE HARBOUR BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/poole-harbour-bill-hl'></outline>
+    <outline id='2243574' text='LONDON ELECTRICITY SUPPLY (No. 1) BILL. [H.L.]'>
+      <outline id='2243575' text='Commons Amendments considered, and agreed to.' title='LONDON ELECTRICITY SUPPLY (No. 2) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/london-electricity-supply-no-2-bill-hl'></outline>
+    </outline>
+    <outline id='2243576' text='MONEYLENDERS BILL. [H.L.]'>
+      <outline id='2243577' text='Report from the Joint Committee made, and to be printed. The Moneylenders Bill [H.L.] reported with Amendments, and re-committed to a Committee of the Whole House, and to be printed as amended.' title='MONEYLENDERS (AMENDMENT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/29/moneylenders-amendment-bill'></outline>
+    </outline>
+  </body>
+</opml>

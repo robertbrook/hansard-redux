@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 July 1931</title>
+    <dateCreated>Tue, 21 Jul 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297785' text='METROPOLITAN WATER BOARD BILL.'>
+      <outline id='2297787' text='Returned from the Commons with the Amendments, agreed to.' title='SOUTHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/21/southampton-corporation-bill'></outline>
+    </outline>
+    <outline id='2297788' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered and agreed to.' title='ASHTON-UNDER-LYNE, STALYBRIDGE AND DUKINFIELD (DISTRICT) WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/21/ashton-under-lyne-stalybridge-and'></outline>
+    <outline id='2297789' text='Reported, without amendment, and re-committed to a Committee of the Whole House to-morrow.' title='NORTH KILLINGHOLME (ADMIR ALTY PIER) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/21/north-killingholme-admir-alty-pier-bill'></outline>
+  </body>
+</opml>

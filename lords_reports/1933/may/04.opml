@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 4 May 1933</title>
+    <dateCreated>Thu, 04 May 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2243840' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the Petition for the&lt;br/&gt;Knutsford Light and Water Bill&lt;br/&gt;have not been complied with:&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/preamble'></outline>
+    <outline id='2243841' text='Report from the Committee of Selection, That the Lord Tweeddale (&lt;i&gt;M. Tweeddale&lt;/i&gt;) be proposed to the House as a member of the Select Committee on the said Bill in the place of the Lord Auckland: Read, and agreed to.' title='MIDDLESBROUGH CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/middlesbrough-corporation-bill-hl'></outline>
+    <outline id='2243842' text='Report from, That the Standing Orders not complied with in respect of the Petition for a Bill by the Maldens and Coombe Urban District Council&lt;br/&gt;ought to be dispensed with, and leave given to introduce the Bill:&lt;br/&gt;And that the Standing Orders not corn-plied with in respect of the Petition for Additional Provision in the&lt;br/&gt;Kingston-upon-Hull Corporation Bill ought to be dispensed with:&lt;br/&gt;Read, and agreed to.' title='STANDING ORDERS COMMITTEE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/standing-orders-committee'></outline>
+    <outline id='2243843' text='Presented (pursuant to leave given this day), and read l&lt;sup&gt;a&lt;/sup&gt;.' title='MALDENS AND COOMBE URBAN DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/maldens-and-coombe-urban-district'></outline>
+    <outline id='2243844' text='KNUTSFORD URBAN DISTRICT COUNCIL.'>
+      <outline id='2243845' text='PETITION FOR BILL.'>
+        <outline id='2243846' text="&lt;b&gt;PETITION FOR BILL.&lt;/b&gt;&lt;br/&gt;Examiners' Certificates of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='KNUTSFORD LIGHT AND WATER.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/knutsford-light-and-water'></outline>
+      </outline>
+    </outline>
+    <outline id='2243847' text='Reported, with Amendments.' title='DURHAM CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/durham-corporation-bill'></outline>
+    <outline id='2243851' text='Committed.&lt;br/&gt;The Committee to be proposed by the Committee of Selection.' title='SOUTHERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/southern-railway-bill'></outline>
+    <outline id='2243853' text="Reported, without amendment, and recommitted' to a Committee of the Whole House on Tuesday next." title='MINISTRY OF HEALTH PROVISIONAL ORDER (TORQUAY) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/04/ministry-of-health-provisional-order'></outline>
+  </body>
+</opml>

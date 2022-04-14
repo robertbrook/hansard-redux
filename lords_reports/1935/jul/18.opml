@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 18 July 1935</title>
+    <dateCreated>Thu, 18 Jul 1935 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2252237' text='Returned from the Commons, with the Amendments, agreed to.&lt;br/&gt;The Lord Chancellor acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that no Standing Orders are applicable to the following Bill:&lt;br/&gt;Pier and Harbour Provisional Order (Scarborough).&lt;br/&gt;The same was ordered to lie on the Table.' title='READING CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/18/reading-corporation-bill'></outline>
+    <outline id='2252237' text='READING CORPORATION BILL.'>
+      <outline id='2252238' text='Reported, with Amendments.' title='CROYDON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/18/croydon-corporation-bill'></outline>
+      <outline id='2252239' text='Commons Amendments considered, and agreed to.' title='GLOUCESTER CORPORATION BILL. [H.L.] URMSTON URBAN DISTRICT COUNCIL BILL. [H.L.] SWANSEA TRAMWAYS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/18/gloucester-corporation-bill-hl-urmston'></outline>
+      <outline id='2252240' text='Report from the Select Committee (with the Proceedings of the Committee) made, and to be printed; Minutes of Evidence, together with an Appendix, laid upon the Table and to be delivered out.' title="AUCTIONEERS, HOUSE AGENTS' AND VALUERS' LICENCES." type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/jul/18/auctioneers-house-agents-and-valuers'></outline>
+    </outline>
+  </body>
+</opml>

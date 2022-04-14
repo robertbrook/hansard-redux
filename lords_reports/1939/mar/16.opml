@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 March 1939</title>
+    <dateCreated>Thu, 16 Mar 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2306878' text='Reported, with Amendments.' title='METHODIST CHURCH BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/methodist-church-bill-hl'></outline>
+    <outline id='2306879' text='Reported, without amendment.' title='MARYPORT HARBOUR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/maryport-harbour-bill'></outline>
+    <outline id='2306880' text='Reported, without amendment, and recommitted to a Committee of the Whole House.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (SOUTH STAFFORDSHIRE JOINT HOSPITAL DISTRICT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/ministry-of-health-provisional-order'></outline>
+    <outline id='2306881' text='Reported, without amendment, and recommitted to a Committee of the Whole House.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (BLACKBURN) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/ministry-of-health-provisional-order-1'></outline>
+    <outline id='2306882' text='Reported, without amendment, and recommitted to a Committee of the Whole House.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (HASTINGS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/ministry-of-health-provisional-order-2'></outline>
+    <outline id='2306883' text='Reported, without amendment, and recommitted to a Committee of the Whole House.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (LEYTON) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/ministry-of-health-provisional-order-3'></outline>
+    <outline id='2306884' text='Reported, without amendment, and recommitted to a Committee of the Whole House.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (LUTON EXTENSION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/16/ministry-of-health-provisional-order-4'></outline>
+  </body>
+</opml>

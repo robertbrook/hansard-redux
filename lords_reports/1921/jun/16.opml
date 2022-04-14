@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 June 1921</title>
+    <dateCreated>Thu, 16 Jun 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230082' text='Committed: The Committee to be proposed by the Committee of Selection.' title='NORTH STAFFORDSHIRE RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/16/north-staffordshire-railway-bill'></outline>
+    <outline id='2230083' text='The Committee to be proposed by the Committee of Selection.' title='SLOUGH TRADING COMPANY, LIMITED (CANAL) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/16/slough-trading-company-limited-canal'></outline>
+    <outline id='2230084' text='MIDDLESEX COUNTY COUNCIL (GENERAL POWERS) BILL.'>
+      <outline id='2230086' text='BRITISH DYESTUFFS CORPORATION (RAILWAYS TRANSFER) BILL.'>
+        <outline id='2230088' text='Committees to meet on Tuesday next.' title='RADCLIFFE AND LITTLE LEVER JOINT GAS BOARD BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/16/radcliffe-and-little-lever-joint-gas'></outline>
+      </outline>
+    </outline>
+    <outline id='2230090' text='Bill, having been road 2&amp;#x00AA;, was committed, and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899) deemed to have been reported from the Committee, and to be read 3tv on Tuesday next.' title='HAMILTON WATER AND GAS PRO- VISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/16/hamilton-water-and-gas-pro-visional'></outline>
+    <outline id='2230091' text='MINISTRY OF HEALTH PROVISIONAL ORDER (NEWCASTLE.UNDER-LYME EX- TENSION) BILL. [H.L.]'>
+      <outline id='2230092' text='Committees to meet on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (OSSETT AND WAKEFIELD EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/16/ministry-of-health-provisional-orders'></outline>
+    </outline>
+  </body>
+</opml>

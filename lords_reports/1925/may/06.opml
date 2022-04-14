@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 May 1925</title>
+    <dateCreated>Wed, 06 May 1925 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2289003' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn: The Orders made on the 10th and the 25th of March last and yesterday discharged, and Bill committed for Wednesday next.' title='SOUTHERN RAILWAY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/may/06/southern-railway-bill-hl'></outline>
+    <outline id='2289004' text='MERSEY TUNNEL'>
+      <outline id='2289005' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/may/06/petition-for-bill'></outline>
+    </outline>
+    <outline id='2289006' text='Message from the Commons, That they have come to the following Resolution to which they desire the concurrence of this House, viz.: That, it is expedient that the Moneylenders (Amendment) Bill be committed to a Joint Committee of both Houses of Parliament: The said Message to be taken into consideration to-morrow.' title='MONEYLENDERS (AMENDMENT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/may/06/moneylenders-amendment-bill'></outline>
+    <outline id='2289007' text='Committee of the Whole House (which stands appointed for to-morrow) put off to Thursday the 14th instant.' title='PERFORMING ANIMALS (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/may/06/performing-animals-no-2-bill'></outline>
+    <outline id='2289008' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday next (&lt;i&gt;The Earl of Clarendon&lt;/i&gt;).' title='CHINA INDEMNITY (APPLICATION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/may/06/china-indemnity-application-bill'></outline>
+  </body>
+</opml>

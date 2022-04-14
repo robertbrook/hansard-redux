@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 2 April 1930</title>
+    <dateCreated>Wed, 02 Apr 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2286965' text='Commons Amendments considered, and agreed to.' title='PORTSMOUTH CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/apr/02/portsmouth-corporation-bill-hl'></outline>
+    <outline id='2286966' text='Reported from the Select Committee, with Amendments.' title='MID KENT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/apr/02/mid-kent-water-bill-hl'></outline>
+    <outline id='2286967' text='Reported, with Amendments.' title='GUILDFORD RURAL DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/apr/02/guildford-rural-district-council-bill-hl'></outline>
+    <outline id='2286968' text="The King's Consent signified, and Bill reported with Amendments." title='EPSOM RURAL DISTRICT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/apr/02/epsom-rural-district-council-bill-hl'></outline>
+    <outline id='2286970' text='LEEDS CORPORATION BILL.'>
+      <outline id='2286971' text='Committed: The Committees to be proposed by the Committee of Selection.' title='METROPOLITAN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/apr/02/metropolitan-railway-bill'></outline>
+    </outline>
+  </body>
+</opml>

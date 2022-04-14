@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 26 July 1928</title>
+    <dateCreated>Thu, 26 Jul 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2229372' text='The Earl of Abingdon&amp;#x2014;Sat first in Parliament after the death of his grandfather.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/26/preamble'></outline>
+    <outline id='2229374' text='Returned from the Commons, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS CONFIRMATION (NO. 11) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/26/ministry-of-health-provisional-orders-1'></outline>
+    <outline id='2229375' text='Returned from the Commons, with the Amendments, agreed to.' title='DUDLEY CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/26/dudley-corporation-bill'></outline>
+    <outline id='2229376' text='Returned from the Commons, agreed to, with Amendments.&lt;br/&gt;The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, that the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Ministry of Health Provisional Orders (No. 6).&lt;br/&gt;The same was ordered to lie on the Table.' title='SOUTHAMPTON CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/26/southampton-corporation-bill-hl'></outline>
+  </body>
+</opml>

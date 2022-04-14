@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 March 1930</title>
+    <dateCreated>Thu, 06 Mar 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2288112' text="LONDON COUNTY COUNCIL (CHARING CROSS BRIDGE) BILL.&lt;br/&gt;WEDNESBURY CORPORATION BILL. [H.L.]&lt;br/&gt;WEST BROMWICH CORPORATION BILL. [H.L.]&lt;br/&gt;Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/06/preamble'></outline>
+    <outline id='2288113' text='The CHAIRMAN OF COMMITTEES&lt;member&gt;The CHAIRMAN OF COMMITTEES&lt;/member&gt; informed the. House that the opposition to the Bill was withdrawn: The Orders made on the 19th and 26th of February last discharged, and Bill committed.' title='EAST KENT DISTRICT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/06/east-kent-district-water-bill-hl'></outline>
+    <outline id='2288118' text='SHAKESPEARE BIRTHPLACE, &amp;o., TRUST (AMENDMENT) BILL. [H.L.]'>
+      <outline id='2288119' text='Reported, with Amendments.' title='FALMOUTH WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/06/falmouth-water-bill-hl'></outline>
+    </outline>
+    <outline id='2288120' text='Special Order proposed to be made on the application of the Stone Gas and Electricity Company, Limited:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='STONE GAS ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/06/stone-gas-order-1930'></outline>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 2 April 1935</title>
+    <dateCreated>Tue, 02 Apr 1935 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2265539' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bills have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Sheffield and South Yorkshire Navigation,&lt;/li&gt;&#x000A;&lt;li&gt;Great Western Railway,&lt;/li&gt;&#x000A;&lt;li&gt;Reading Corporation.&lt;/li&gt;&lt;/ul&gt;&#x000A;And also the Certificate that the Standing Orders have not been complied with in respect of the Petition for the following Bill:&lt;br/&gt;London Building Act (Amendment).&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/02/preamble'></outline>
+    <outline id='2265541' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='NEWCASTLE AND GATESHEAD WATERWORKS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/02/newcastle-and-gateshead-waterworks-bill'></outline>
+    <outline id='2265543' text='Reported from the Select Committee, with Amendments.' title="CITY OF LONDON (ST. PAUL'S CATHEDRAL PRESERVATION) BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/02/city-of-london-st-pauls-cathedral'></outline>
+    <outline id='2265545' text='Reported from the Select Committee, with Amendments.' title='BURY AND DISTRICT JOINT WATER BOARD BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/apr/02/bury-and-district-joint-water-board-bill'></outline>
+  </body>
+</opml>

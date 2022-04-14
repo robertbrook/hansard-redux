@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 13 June 1939</title>
+    <dateCreated>Tue, 13 Jun 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2273407' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificates from the Examiners that the further Standing Orders applicable to the following Bills have been complied with:&lt;br/&gt;Falmouth Docks [H.L.],&lt;br/&gt;Jarrow Corporation,&lt;br/&gt;Stalybridge Hyde Mossley and Dukinfield Transport and Electricity Board.&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/jun/13/preamble'></outline>
+    <outline id='2273408' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='LONDON PASSENGER TRANSPORT BOARD BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/jun/13/london-passenger-transport-board-bill'></outline>
+    <outline id='2273409' text='Special Order proposed to be made on the application of the Mayor, aldermen and burgesses of the Borough of Mansfield:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='MANSFIELD GAS ORDER, 1939.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/jun/13/mansfield-gas-order-1939'></outline>
+  </body>
+</opml>

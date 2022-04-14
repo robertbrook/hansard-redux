@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 4 May 1927</title>
+    <dateCreated>Wed, 04 May 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2225163' text='The Viscount Elibank&amp;#x2014;Sat first in Parliament after the death of his father.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/04/preamble'></outline>
+    <outline id='2225165' text='BIRMINGHAM EXTENSION BILL.'>
+      <outline id='2225168' text='CHEPPING WYCOMBE CORPORATION BILL.'>
+        <outline id='2225169' text='&lt;b&gt;WEST BROMWICH CORPORATION&lt;lb/&gt; BILL.&lt;/b&gt;&lt;br/&gt;Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='LONDON, MIDLAND AND SCOTTISH RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/04/london-midland-and-scottish-railway-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2225170' text='Committed for Tuesday next.' title='SOUTHERN RAILWAY (SUPERANNUATION FUND) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/04/southern-railway-superannuation-fund-bill'></outline>
+    <outline id='2225171' text='The evidence taken before the Committee from time to time to be printed, but no copies to be delivered out, except to members of the Committee and such other persons as the Committee shall think fit, until further order.' title='ROYAL ALBERT HALL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/04/royal-albert-hall-bill-hl'></outline>
+  </body>
+</opml>

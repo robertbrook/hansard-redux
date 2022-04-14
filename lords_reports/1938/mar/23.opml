@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 23 March 1938</title>
+    <dateCreated>Wed, 23 Mar 1938 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2305458' text='Report from, That the Standing Orders not complied with in respect of the Petition for the following Bill ought to be dispensed with, and leave given to introduce the Bill:&#x000A;&lt;ul&gt;&lt;li&gt;Oxford Corporation (Electricity).&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;And that the Standing Orders not complied with in respect of the Petitions for additional provision in the following Bills:&#x000A;&lt;ul&gt;&lt;li&gt;Middlesex County Council (Sewerage),&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;London and North Eastern Railway ought to be dispensed with:&lt;br/&gt;Read, and agreed to.' title='STANDING ORDERS COMMITTEE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/23/standing-orders-committee'></outline>
+    <outline id='2305459' text='Presented (pursuant to leave given this day), and react 1&lt;sup&gt;a&lt;/sup&gt;.' title='OXFORD CORPORATION (ELECTRICITY) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/23/oxford-corporation-electricity-bill-hl'></outline>
+    <outline id='2305460' text='SALFORD CORPORATION BILL. [H.L.]'>
+      <outline id='2305461' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='PETITION FOR ADDITIONAL PROVISION.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/23/petition-for-additional-provision'></outline>
+    </outline>
+    <outline id='2305462' text='Reported, with Amendments.' title='WEST SURREY WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/23/west-surrey-water-bill-hl'></outline>
+    <outline id='2305463' text='Returned from the Commons, agreed to.' title='BOMBAY, BARODA AND CENTRAL INDIA RAILWAY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/23/bombay-baroda-and-central-india-railway'></outline>
+  </body>
+</opml>

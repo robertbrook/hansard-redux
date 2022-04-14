@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 29 April 1926</title>
+    <dateCreated>Thu, 29 Apr 1926 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2222675' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt; and referred to the Examiners.&lt;br/&gt;The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders have not been complied with in respect of the Petition for a Bill by the Stoke-on-Trent Corporation.&lt;br/&gt;The same was ordered to lie on the Table.' title='GREAT WESTERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/great-western-railway-bill'></outline>
+    <outline id='2222687' text="PETITION FOR BILL.&lt;br/&gt;Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='STOKE-ON-TRENT CORPORATION.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/stoke-on-trent-corporation'></outline>
+    <outline id='2222688' text='Report from the Committee of Selection that the Lord Crawshaw be proposed to the House as a member of the Select Committee on the said Bill in the place of the Lord Biddulph; read, and agreed to.' title='WORCESTER CORPORATION BILL [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/worcester-corporation-bill-hl'></outline>
+    <outline id='2222691' text='NEWCASTLE-UPON-TYNE CORPORATION BILL. [H.L.]'>
+      <outline id='2222692' text='Report from the Committee of Selection that the Lord Crawshaw be proposed to the House as a member of the Select Committee on the said Bills in the place of the Earl of Cottenham; read, and agreed to.' title='KIDDERMINSTER AND STOURPORT TRAMWAYS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/kidderminster-and-stourport-tramways'></outline>
+    </outline>
+    <outline id='2222693' text='&lt;b&gt;HACKNEY BOROUGH COUNCIL BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;METROPOLITAN RAILWAY BILL.&lt;/b&gt;&lt;br/&gt;Committed: The Committees to be proposed by the Committee of Selection.' title='MID-NOTTINGHAMSHIRE JOINT RAILWAYS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/mid-nottinghamshire-joint-railways-bill'></outline>
+    <outline id='2222694' text='&lt;b&gt;HARTLEPOOL CORPORATION (TROLLEY VEHICLES) BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LONDON, MIDLAND AND SCOTTISH RAILWAY BILL.&lt;/b&gt;&lt;br/&gt;Committed.' title='BOLTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/bolton-corporation-bill'></outline>
+    <outline id='2222695' text='Special Order proposed to be made on the application of the Leatherhead Gas and Lighting Company:&amp;#x2014;&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='LEATHERHEAD GAS ORDER, 1926.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/leatherhead-gas-order-1926'></outline>
+    <outline id='2222696' text='Special Order proposed to be made on the application of the Tawe Valley Gas Company:&amp;#x2014;&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='TAWE VALLEY GAS ORDER, 1926.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/apr/29/tawe-valley-gas-order-1926'></outline>
+  </body>
+</opml>

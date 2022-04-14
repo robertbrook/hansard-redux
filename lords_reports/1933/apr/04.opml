@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 4 April 1933</title>
+    <dateCreated>Tue, 04 Apr 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2244359' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Mersey Tunnel.&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/preamble'></outline>
+    <outline id='2244360' text='Reported from the Select Committee, with Amendments.' title='SOUTH SUBURBAN GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/south-suburban-gas-bill-hl'></outline>
+    <outline id='2244361' text='Reported from the Select Committee, with Amendments.' title='WIMBLEDON CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/wimbledon-corporation-bill-hl'></outline>
+    <outline id='2244362' text='Reported, with Amendments.' title='OXFORD CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/oxford-corporation-bill-hl'></outline>
+    <outline id='2244363' text='Report from, That the Standing Orders not complied with in respect of the petition for additional provision in the&lt;br/&gt;Bootle Corporation Bill [H.L.]&lt;br/&gt;ought to be dispensed with, and leave given to the Committee on the Bill to insert the additional provision: Read, and agreed to.' title='STANDING ORDERS COMMITTEE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/standing-orders-committee'></outline>
+    <outline id='2244364' text='CITY OF LONDON (VARIOUS POWERS) BILL.'>
+      <outline id='2244365' text='GREAT WESTERN RAILWAY BILL.'>
+        <outline id='2244366' text='&lt;b&gt;STAFFORDSHIRE AND WORCESTERSHIRE CANAL BILL.&lt;/b&gt;&lt;br/&gt;Referred to the Examiners.' title='LONDON MIDLAND AND SCOTTISH RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/04/london-midland-and-scottish-railway-bill'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

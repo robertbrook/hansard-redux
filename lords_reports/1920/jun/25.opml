@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 June 1920</title>
+    <dateCreated>Fri, 25 Jun 1920 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2225098' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; to be printed; and referred to the Examiners.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 5) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/jun/25/ministry-of-health-provisional-orders-no'></outline>
+    <outline id='2225099' text='Minutes of Evidence and Proceedings before this House on the Second Reading, together with the documents deposited in the case, returned from the Commons.' title="FIFE-YOUNG'S DIVORCE BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/jun/25/fife-youngs-divorce-bill-hl'></outline>
+    <outline id='2225100' text='The CHAIRMAN of COMMITTEES&lt;member&gt;The CHAIRMAN of COMMITTEES&lt;/member&gt; informed the House that the opposition to the Bill was withdrawn: The Orders made on the 15Th and 16th instant discharged, and Bill committed.' title='NOTTINGHAM CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/jun/25/nottingham-corporation-bill'></outline>
+    <outline id='2225125' text='COVENTRY CORPORATION BILL.'>
+      <outline id='2225127' text='Report from the Committee of Selection that the Earl of Kimberley be proposed to the House as a member of the Select Committee on the said Bills in the place of Earl Bathurst; read, and agreed to.' title='LEIGH CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/jun/25/leigh-corporation-bill'></outline>
+    </outline>
+  </body>
+</opml>

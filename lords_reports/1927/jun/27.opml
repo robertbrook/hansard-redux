@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 27 June 1927</title>
+    <dateCreated>Mon, 27 Jun 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2225401' text='LONDON AND HOME COUNTIES JOINT ELECTRICITY AUTHORITY (NO.2) BILL.'>
+      <outline id='2225402' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='LONDON COUNTY COUNCL (MONEY) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/27/london-county-councl-money-bill'></outline>
+    </outline>
+    <outline id='2225404' text='SOUTHERN RAILWAY BILL.'>
+      <outline id='2225406' text='Returned from the Commons, with the Amendments, agreed to.' title='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/27/london-county-council-general-powers-bill'></outline>
+    </outline>
+    <outline id='2225407' text='Message from the Commons that they have appointed a Committee to consist of five members to join with a Committee of this House to consider the said Bill, and request this House to appoint an equal number of Lords to be joined with the members of their House.' title='OUSE DRAINAGE BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/27/ouse-drainage-bill'></outline>
+    <outline id='2225408' text='Special Order proposed to be made on the application of the Basingstoke Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='BASINGSTOKE GAS ORDER, 1927.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/27/basingstoke-gas-order-1927'></outline>
+    <outline id='2225410' text='Committed for to-morrow.' title='OARDIFF CORPORATION TRAMWAYS PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/27/oardiff-corporation-tramways-provisional'></outline>
+  </body>
+</opml>

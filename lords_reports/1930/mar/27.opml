@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 27 March 1930</title>
+    <dateCreated>Thu, 27 Mar 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2286708' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been with drawn: Read, and ordered to lie on the Table: The orders made on the 5th and the 11th instant discharged, and Bill committed.' title='MALVERN HILLS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/27/malvern-hills-bill-hl'></outline>
+    <outline id='2286709' text='DERBY CORPORATION BILL.'>
+      <outline id='2286710' text='Leave given to the Select Committee to adjourn over to-morrow for the convenience of parties.' title='BOSTON CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/27/boston-corporation-bill-hl'></outline>
+    </outline>
+    <outline id='2286711' text='Reported, without amendment.' title='SOUTH STAFFORDSHIRE MOND GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/27/south-staffordshire-mond-gas-bill'></outline>
+    <outline id='2286712' text='Committed: The Committee to be proposed by the Committee of Selection.' title='GREAT WESTERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/27/great-western-railway-bill'></outline>
+    <outline id='2286714' text='LONDON AND NORTH EASTERN RAILWAY (No. 1) BILL.'>
+      <outline id='2286715' text='Committed for Thursday next.' title='LIVERPOOL CORPORATION (No. 1) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/mar/27/liverpool-corporation-no-1-bill'></outline>
+    </outline>
+  </body>
+</opml>

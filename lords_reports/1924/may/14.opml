@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 14 May 1924</title>
+    <dateCreated>Wed, 14 May 1924 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2287874' text='Committed: The Committee to he proposed by the Committee of Selection.' title='MORECAMBE CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/morecambe-corporation-bill'></outline>
+    <outline id='2287875' text='SUNDERLAND CORPORATION BILL.'>
+      <outline id='2287876' text='Committees to meet on Tuesday next.' title='GREAT WESTERN RAILWAY (DOCK CHARGES) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/great-western-railway-dock-charges-bill'></outline>
+    </outline>
+    <outline id='2287877' text='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. I) BILL.'>
+      <outline id='2287878' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday next.&amp;#x2014;(&lt;i&gt;Earl De La Warr&lt;/i&gt;.)' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/ministry-of-health-provisional-orders-no-1'></outline>
+    </outline>
+    <outline id='2287879' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (STRAT-FORD - UPON - AVON EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/ministry-of-health-provisional-order'></outline>
+    <outline id='2287880' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday next.&amp;#x2014;(&lt;i&gt;Earl De La Warr&lt;/i&gt;.)' title='MINISTRY OF HEALTH PROVISIONAL ORDER (WATFORD EXTENSION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/ministry-of-health-provisional-order-1'></outline>
+    <outline id='2287881' text='The Evidence taken before the Joint Committee from time to time to be printed, but no copies to be delivered except to members of the Committee and to such other persons as the Committee shall think fit until further order.&lt;br/&gt;Ordered, That the evidence taken by the Joint Committee on the Sittings of Parliament during the Session of 1923 be referred to the Joint. Committee on the Sittings of Parliament in the present Session.' title='SITTINGS OF PARLIAMENT.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/14/sittings-of-parliament'></outline>
+  </body>
+</opml>

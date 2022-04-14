@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 2 July 1936</title>
+    <dateCreated>Thu, 02 Jul 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2267412' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders have not been complied with in respect of certain proposed Amendments to the following Bill:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;London and North Eastern Railway (General Powers).&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/02/preamble'></outline>
+    <outline id='2267414' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been withdrawn: Read, and ordered to lie on the Table. The Orders made on the 27th of May last and 30th of June last discharged, and Bill committed for Wednesday next.' title='GREAT WESTERN RAILWAY (ADDITIONAL POWERS) Bill.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/02/great-western-railway-additional-powers'></outline>
+    <outline id='2267415' text="Examiner's Certificate of non-compliance with the Standing Orders, in respect of certain proposed Amendments, referred to the Standing Orders Committee." title='LONDON AND NORTH EASTERN RAILWAY (GENERAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/02/london-and-north-eastern-railway-general'></outline>
+    <outline id='2267417' text='Made by the Minister of Labour under Section 55 of the Unemployment Insurance Act, 1935 [in substitution for the Draft Order presented on the 23rd of June last]:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='DRAFT UNEMPLOYMENT INSURANCE (ANOMALIES) (SEASONAL WORKERS) (AMENDMENT) ORDER, 1936.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/02/draft-unemployment-insurance-anomalies'></outline>
+  </body>
+</opml>

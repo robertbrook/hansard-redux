@@ -1,0 +1,29 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 14 June 1921</title>
+    <dateCreated>Tue, 14 Jun 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230718' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday, the 19th of July next.' title="HAMILTON'S DIVORCE BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/hamiltons-divorce-bill-hl'></outline>
+    <outline id='2230719' text='Brought from the Commons; read 1&amp;#x00AA;, to be printed; and referred to the Examiners.' title='LOCAL GOVERNMENT (IRELAND) PRO- VISIONAL ORDERS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/local-government-ireland-pro-visional'></outline>
+    <outline id='2230720' text='CARDIFF GAS BILL.'>
+      <outline id='2230721' text='ROTHERHAM CORPORATION BILL.'>
+        <outline id='2230722' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='OCHABER WATER POWER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/ochaber-water-power-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2230723' text='Returned from the Commons, with the Amendments, agreed to.' title='CAMBRIDGE UNIVERSITY AND TOWN WATERWORKS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/cambridge-university-and-town-waterworks'></outline>
+    <outline id='2230724' text='Returned from the Commons, agreed to, with Amendments.' title='FALMOUTH DOCKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/falmouth-docks-bill-hl'></outline>
+    <outline id='2230725' text='CROYDON CORPORATION WATER BILL.'>
+      <outline id='2230726' text='Reported, with Amendments.' title='WREXHAM AND EAST DENBIGHSHIRE WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/wrexham-and-east-denbighshire-water-bill'></outline>
+    </outline>
+    <outline id='2230727' text='Reported, with an Amendment.' title='LIMERICK MARKETS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/limerick-markets-bill'></outline>
+    <outline id='2230728' text='Reported from the Select Committee, with Amendments.&lt;br/&gt;The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bills have been complied with:&lt;br/&gt;Radcliffe and Little Lever Joint Gas Board.&lt;br/&gt;Wigan Corporation.&lt;br/&gt;North Staffordshire Railway.&lt;br/&gt;Also the Certificate that no Standing Orders are applicable to the following Bills:&lt;br/&gt;Hamilton Water and Gas Provisional Order.&lt;br/&gt;Pilotage Provisional Orders (No. 3).&lt;br/&gt;The same were ordered to lie on the Table.' title='SOUTH ESSEX WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/south-essex-waterworks-bill-hl'></outline>
+    <outline id='2230729' text='Petition against; of the Incorporated National Association of British and Irish Millers, Limited, under their Common Seal; read, and ordered to lie on the Table.' title='CORN SALES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/corn-sales-bill'></outline>
+    <outline id='2230730' text='Petition for amendment of; of the Mayor, Aldermen, and Councillors of the City of Westminster under their Common Seal; read, and ordered to lie on the Table.' title='PUBLIC HEALTH (OFFICERS) (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/14/public-health-officers-no-2-bill'></outline>
+  </body>
+</opml>

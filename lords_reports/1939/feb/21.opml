@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 February 1939</title>
+    <dateCreated>Tue, 21 Feb 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2296255' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bills have been complied with:&lt;br/&gt;Bognor Gas and Electricity [H.L.],&lt;br/&gt;Folkestone Water [H.L.],&lt;br/&gt;National Trust for Places of Historic Interest or Natural Beauty [H.L.],&lt;br/&gt;West Gloucestershire Water [H.L.],&lt;br/&gt;West Surrey Water [H.L.],&lt;br/&gt;King Edward the Seventh Welsh National Memorial Association [H.L.],&lt;br/&gt;London Gas Undertakings (Regulations) [H.L.].&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/21/preamble'></outline>
+    <outline id='2296256' text='NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY BILL. [H.L.]'>
+      <outline id='2296257' text='SAINT NICHOLAS MILLBROOK (SOUTHAMPTON) CHURCH (SALE) BILL.'>
+        <outline id='2296258' text="Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='SUNDERLAND CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/21/sunderland-corporation-bill'></outline>
+      </outline>
+      <outline id='2296259' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='COVENTRY CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/21/coventry-corporation-bill'></outline>
+      <outline id='2296260' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn. The Order made on the 14th instant discharged, and Bill committed.' title='SMETHWICK OLDBURY ROWLEY REGIS AND TIPTON TRANSPORT BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/21/smethwick-oldbury-rowley-regis-and'></outline>
+    </outline>
+  </body>
+</opml>

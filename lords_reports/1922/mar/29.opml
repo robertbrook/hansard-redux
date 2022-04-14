@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 29 March 1922</title>
+    <dateCreated>Wed, 29 Mar 1922 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2284271' text="Judges' Report received: Bill presented, and read 1&amp;#x00AA;." title="CLARE COLLEGE CAMBRIDGE (BLYTHE'S BENEFACTION) BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/clare-college-cambridge-blythes'></outline>
+    <outline id='2284272' text='CITY OF DUBLIN STEAM PACKET COMPANY BILL. [H.L.]'>
+      <outline id='2284274' text='TRAFFORD PARK BILL. [H.L.]'>
+        <outline id='2284276' text='Report from the Committee of Selection, that Lord Raglan and Lord Muir Mackenzie be proposed to the House as Members of the Select Committee on the said Bills in the place of the Marquess of Bath and Viscount Falmouth, and Lord Muir Mackenzie to be Chairman of the said Committee; read, and agreed to.' title='GREAT NORTHERN RAILWAY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/great-northern-railway-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2284278' text='Reported from the Select Committee, with Amendments.' title='STRETFORD AND DISTRICT GAS BOARD BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/stretford-and-district-gas-board-bill-hl'></outline>
+    <outline id='2284280' text='Brought from the Commons; read 1&amp;#x00AA;; to be printed; and referred to the Examiners.' title='BOARD OF EDUCATION SCHEME (DEWSBURY ENDOWED SCHOOLS FOUNDATION) CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/board-of-education-scheme-dewsbury'></outline>
+    <outline id='2284282' text="MAGUIRE'S DIVORCE BILL. [H.L.]">
+      <outline id='2284283' text='Message from the Commons for copy of the Minutes of Evidence taken before this House, together with the proceedings and the documents deposited in the cases: Ordered to be communicated with a request that they may be returned.' title="BABINGTON'S DIVORCE BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/babingtons-divorce-bill-hl'></outline>
+    </outline>
+    <outline id='2284284' text='Third Report from the Select Committee made, to be printed, and to be considered on Tuesday next.' title='HOUSE OF LORDS OFFICES.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/mar/29/house-of-lords-offices'></outline>
+  </body>
+</opml>

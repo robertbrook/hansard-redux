@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 July 1922</title>
+    <dateCreated>Tue, 11 Jul 1922 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2220039' text='Brought from the Commons; read l&lt;sup&gt;a&lt;/sup&gt;; to be printed; and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899), deemed to have been read 2&lt;sup&gt;a&lt;/sup&gt; (Lord Stanmore), and reported from the Committee.' title='ABERDEEN CORPORATION ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/11/aberdeen-corporation-order-confirmation'></outline>
+    <outline id='2220040' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='DARTMOUTH HARBOUR COMMISSIONERS (RECONSTITUTION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/11/dartmouth-harbour-commissioners'></outline>
+    <outline id='2220041' text='PORT OF LONDON AND MIDLAND RAILWAY BILL.'>
+      <outline id='2220042' text='Reported, with Amendments.' title='BLACK COUNTRY TRAMWAYS AND LIGHT RAILWAYS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/11/black-country-tramways-and-light'></outline>
+    </outline>
+    <outline id='2220043' text='LONDON COUNTY COUNCIL (MONEY) BILL.'>
+      <outline id='2220044' text='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.'>
+        <outline id='2220045' text='Reported, without amendment.' title='LONDON ELECTRIC AND CITY AND SOUTH LONDON RAILWAY COMPANIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/11/london-electric-and-city-and-south'></outline>
+      </outline>
+    </outline>
+    <outline id='2220046' text='Commons Amendments to be considered on Thursday next.&lt;br/&gt;The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bills have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Ministry of Health Provisional Orders (No. 8).&lt;/li&gt;&#x000A;&lt;li&gt;Ministry of Health Provisional Orders (No. 10).&lt;/li&gt;&#x000A;&lt;li&gt;Pier and Harbour Provisional Orders (No. 1).&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;Also the Certificate that no Standing Orders are applicable to the following Bill:&lt;br/&gt;Marriages Provisional Order (No. 2).&lt;br/&gt;The same were ordered to lie on the Table.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (GUILDFORD EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/11/ministry-of-health-provisional-order'></outline>
+  </body>
+</opml>

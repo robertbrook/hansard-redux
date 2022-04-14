@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 13 February 1940</title>
+    <dateCreated>Tue, 13 Feb 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2298298' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificates from the Examiners that the further Standing Orders applicable to the following Bills have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Brighton Marine Palace and Pier [H.L.].&lt;/li&gt;&#x000A;&lt;li&gt;King Edward the Seventh Welsh National Memorial Association [H.L.].&lt;/li&gt;&#x000A;&lt;li&gt;Royal Society for the Prevention of Cruelty to Animals [H.L.].&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/feb/13/preamble'></outline>
+    <outline id='2298300' text='ROYAL SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS BILL. [H.L.]'>
+      <outline id='2298301' text="Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='ELY CATHEDRAL CANONRIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/feb/13/ely-cathedral-canonries-bill'></outline>
+    </outline>
+    <outline id='2298302' text='Special Order proposed to be made on the application of the Drighlington and Gildersome Gaslight Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='MORLEY GAS ORDER, 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/feb/13/morley-gas-order-1940'></outline>
+  </body>
+</opml>

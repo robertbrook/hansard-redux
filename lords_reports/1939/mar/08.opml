@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 8 March 1939</title>
+    <dateCreated>Wed, 08 Mar 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2306350' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill, introduced in pursuance of the provisions of the Private Legislation Procedure (Scotland) Act, 1936, have been complied with:&lt;br/&gt;Scottish Union and National Insurance Company.&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/08/preamble'></outline>
+    <outline id='2306351' text='SCOTTISH UNION AND NATIONAL INSURANCE COMPANY BILL. [H.L.]'>
+      <outline id='2306352' text='Presented; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='SUBSTITUTED BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/08/substituted-bill'></outline>
+    </outline>
+    <outline id='2306354' text='CONWAY GAS BILL. [H.L.]'>
+      <outline id='2306355' text='DROITWICH CANALS (ABANDONMENT) BILL. [H.L.]'>
+        <outline id='2306356' text='Report from the Committee of Selection, That the Lord Teynham be proposed to the House as a member of the Select Committee on the said Bills in the place of the Lord Stanmore, and that the Lord Teynham be Chairman of the said Committee: Read, and agreed to.' title='BOGNOR GAS AND ELECTRICITY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/08/bognor-gas-and-electricity-bill-hl'></outline>
+      </outline>
+      <outline id='2306357' text='Reported, with Amendments.' title='CITY OF LONDON (VARIOUS POWERS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/mar/08/city-of-london-various-powers-bill-hl'></outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 May 1938</title>
+    <dateCreated>Tue, 17 May 1938 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2272094' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the Petition for the following Bill have not been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Stanmore Unused Burial Ground.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/may/17/preamble'></outline>
+    <outline id='2272095' text='STANMORE UNUSED BURIAL GROUND.'>
+      <outline id='2272096' text='Examiners certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next.' title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/may/17/petition-for-bill'></outline>
+      <outline id='2272098' text='Report from the Select Committee, that it is not expedient to proceed further with the Bill; read, and ordered to lie on the Table.' title='OXFORD CORPORATION (ELECTRICITY) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/may/17/oxford-corporation-electricity-bill-hl'></outline>
+    </outline>
+  </body>
+</opml>

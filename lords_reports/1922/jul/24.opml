@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 24 July 1922</title>
+    <dateCreated>Mon, 24 Jul 1922 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2219118' text='The Lord Tyrone (&lt;i&gt;M. Waterford&lt;/i&gt;)&amp;#x2014;Sat first in Parliament after the death of his father.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/preamble'></outline>
+    <outline id='2219119' text='Brought from the Commons; read l&lt;sup&gt;a&lt;/sup&gt;; to be printed; and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899), deemed to have been read 2&lt;sup&gt;a&lt;/sup&gt; (Lord Stanmore), and reported from the Committee.' title='GREENOCK PORT AND HARBOURS ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/greenock-port-and-harbours-order'></outline>
+    <outline id='2219121' text='Returned from the Commons, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (No. 4) BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/ministry-of-health-provisional-order-no'></outline>
+    <outline id='2219122' text='PORT OF LONDON AND MIDLAND RAILWAY BILL.'>
+      <outline id='2219123' text='Returned from the Commons, with the Amendments, agreed to.' title='RIVER CAM CONSERVANCY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/river-cam-conservancy-bill'></outline>
+    </outline>
+    <outline id='2219124' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='DONCASTER CORPORATION BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/doncaster-corporation-bill-hl'></outline>
+    <outline id='2219125' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; to-morrow (Lord Stanmore).&lt;br/&gt;&lt;b&gt;MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 7) BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 8) BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 10) BILL.&lt;/b&gt;&lt;br/&gt;To be read 3&lt;sup&gt;a&lt;/sup&gt; on Wednesday next.' title='POST OFFICE (PNEUMATIC TUBES ACQUISITION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/post-office-pneumatic-tubes-acquisition'></outline>
+    <outline id='2219126' text='To be read 3&lt;sup&gt;a&lt;/sup&gt; to-morrow.' title='PILOTAGE PROVISIONAL ORDERS (No. 4) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/pilotage-provisional-orders-no-4-bill'></outline>
+    <outline id='2219127' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Wednesday next (The Earl of Onslow)' title='EASTGATE BAPTIST CHAPEL AND PRO CEEDS OF SALE OF CONGREGATIONAL CHAPEL (LOUTH) CHARITIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/24/eastgate-baptist-chapel-and-pro-ceeds-of'></outline>
+  </body>
+</opml>

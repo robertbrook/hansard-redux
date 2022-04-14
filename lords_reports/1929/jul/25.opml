@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 July 1929</title>
+    <dateCreated>Thu, 25 Jul 1929 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2234447' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='GLASGOW CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jul/25/glasgow-corporation-bill'></outline>
+    <outline id='2234448' text="Message from the Commons to acquaint this House that they have appointed a Committee of six members to join with the Committee appointed by this House, as mentioned in their Lordships' Message of the 17th instant, to consider all Consolidation Bills of the present Session." title='JOINT COMMITTEE ON CONSOLIDATION BILLS.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jul/25/joint-committee-on-consolidation-bills'></outline>
+    <outline id='2234450' text='Special Order proposed to be made on the application of the East Hull Gas Company.&lt;br/&gt;Laid before the House (pursuant to Act), and referred to the Special Orders Committee.' title='EAST HULL GAS ORDER, 1929.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jul/25/east-hull-gas-order-1929'></outline>
+    <outline id='2234451' text='Special Order proposed to be made on the application of the Horsham Gas Company, Limited.&lt;br/&gt;Laid before the House (pursuant to Act), and referred to the Special Orders Committee.&lt;br/&gt;&lt;b&gt;WEST DERBYSHIRE ELECTRICITY ORDER, 1929.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;ALTON GAS ORDER, 1929.&lt;/b&gt;&lt;br/&gt;Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='HORSHAM GAS ORDER, 1929.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jul/25/horsham-gas-order-1929'></outline>
+  </body>
+</opml>

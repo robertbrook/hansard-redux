@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 13 April 1938</title>
+    <dateCreated>Wed, 13 Apr 1938 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2305818' text='Proceedings and Evidence to be printed.' title='BARONY OF VAUX OF HARROWDEN.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/apr/13/barony-of-vaux-of-harrowden'></outline>
+    <outline id='2305819' text='HARWICH HARBOUR.'>
+      <outline id='2305820' text='Examiners Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Wednesday, the 4th of May next.' title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/apr/13/petition-for-bill'></outline>
+    </outline>
+    <outline id='2305821' text='Committed: The Committee to be proposed by the Committee of Selection.&lt;br/&gt;Report from the Committee of Selection, That the five Lords appointed a Select Committee on the Salford Corporation Bill [H.L.] and other Bills do form the Select Committee for the consideration of the Surrey County Council Bill [H.L.]: read, and agreed to. All Petitions referred to the Committee, with leave to the Petitioners praying to be heard by Counsel against the Bill to be heard as desired, as also Counsel for the Bill.' title='SURREY COUNTY COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/apr/13/surrey-county-council-bill-hl'></outline>
+    <outline id='2305822' text='Reported, with Amendments.' title='BLACKBURN CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/apr/13/blackburn-corporation-bill-hl'></outline>
+  </body>
+</opml>

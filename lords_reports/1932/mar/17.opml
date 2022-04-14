@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 March 1932</title>
+    <dateCreated>Thu, 17 Mar 1932 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2242232' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='SOUTH WALES ELECTRIC POWER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/mar/17/south-wales-electric-power-bill'></outline>
+    <outline id='2242233' text='Reported, with Amendments.' title='WALTHAMSTOW CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/mar/17/walthamstow-corporation-bill-hl'></outline>
+    <outline id='2242234' text='Committed: The Committee to be proposed by the Committee of Selection.' title='HOVE PIER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/mar/17/hove-pier-bill'></outline>
+    <outline id='2242236' text='Special Order proposed to be made on the application of the Kidderminster Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='KIDDERMINSTER GAS ORDER, 1932.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1932/mar/17/kidderminster-gas-order-1932'></outline>
+  </body>
+</opml>

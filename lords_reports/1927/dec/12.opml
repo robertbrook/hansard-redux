@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 12 December 1927</title>
+    <dateCreated>Mon, 12 Dec 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2291981' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; to be printed; and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899), deemed to have been read 2&lt;sup&gt;a&lt;/sup&gt;, and reported from the Committee.' title='DUNDEE CORPORATION ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/dundee-corporation-order-confirmation'></outline>
+    <outline id='2291982' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; to be printed; and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899), deemed to have been read 2&lt;sup&gt;a&lt;/sup&gt;, and reported from the Committee. (No. 143.)' title='PERTH COUNTY BUILDINGS ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/perth-county-buildings-order'></outline>
+    <outline id='2291983' text='GRAMPIAN ELECTRICITY SUPPLY ORDER CONFIRMATION BILL. [H.L.]'>
+      <outline id='2291984' text='Returned from the Commons, agreed to.' title='ROYAL EDINBURGH HOSPITAL FOR MENTAL AND NERVOUS DISORDERS ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/royal-edinburgh-hospital-for-mental-and'></outline>
+    </outline>
+    <outline id='2291985' text='Returned from the Commons, with the Amendment, agreed to.' title='PROTECTION OF ANIMALS (AMENDMENT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/protection-of-animals-amendment-bill'></outline>
+    <outline id='2291986' text='To be read 2&lt;sup&gt;a&lt;/sup&gt;on Thursday next.' title='DESTRUCTIVE INSECTS AND PESTS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/destructive-insects-and-pests-bill'></outline>
+    <outline id='2291987' text='To be read 2&lt;sup&gt;a&lt;/sup&gt;on Thursday next.' title='UNEMPLOYMENT INSURANCE BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/dec/12/unemployment-insurance-bill'></outline>
+  </body>
+</opml>

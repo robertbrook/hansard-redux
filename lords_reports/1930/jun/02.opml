@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 2 June 1930</title>
+    <dateCreated>Mon, 02 Jun 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2295364' text='ROTHERHAM CORPORATION BILL.'>
+      <outline id='2295366' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='STOCKPORT CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/stockport-corporation-bill'></outline>
+    </outline>
+    <outline id='2295367' text='KINGSBRIDGE AND SALCOMBE WATER BOARD BILL.'>
+      <outline id='2295370' text='Returned from the Commons, with the Amendments, agreed to.' title='METROPOLITAN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/metropolitan-railway-bill'></outline>
+      <outline id='2295372' text='Returned from the Commons, agreed to, with Amendments.' title='EAST KENT DISTRICT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/east-kent-district-water-bill-hl'></outline>
+      <outline id='2295373' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered and agreed to.' title='MID KENT WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/mid-kent-water-bill-hl'></outline>
+      <outline id='2295374' text='Reported from the Select Committee, with Amendments.' title='LIVERPOOL CORPORATION (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/liverpool-corporation-no-2-bill'></outline>
+      <outline id='2295375' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been withdrawn; read, and ordered to lie on the Table: The orders made on the 14th and the 15th of May last discharged, and Bill committed.' title='KINGSTON UPON HULL CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/02/kingston-upon-hull-corporation-bill'></outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 June 1931</title>
+    <dateCreated>Thu, 25 Jun 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297513' text='ROTHERHAM RURAL DISTRICT COUNCIL BILL. [H.L.]'>
+      <outline id='2297514' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered and agreed to.' title='ROYSTON AND BRODSWORTH GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/25/royston-and-brodsworth-gas-bill-hl'></outline>
+      <outline id='2297515' text='Reported, with Amendments, and recommitted to a Committee of the Whole House on Tuesday next.' title='BETHLEM HOSPITAL (AMEND MENT) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/25/bethlem-hospital-amend-ment-bill-hl'></outline>
+      <outline id='2297516' text='Reported, with Amendments.' title='GRAND UNION CANAL (LEICESTER CANALS PURCHASE, ETC.) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/25/grand-union-canal-leicester-canals'></outline>
+      <outline id='2297517' text='Reported from the Select Committee, with Amendments.' title='GREAT WESTERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/25/great-western-railway-bill'></outline>
+    </outline>
+    <outline id='2297518' text='OKEHAMPTON AND TAVISTOCK ELECTRICITY ORDER, 1931.'>
+      <outline id='2297519' text='WARRINGTON ELECTRICITY (EXTENSION) ORDER, 1931.'>
+        <outline id='2297520' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House; Read, and ordered to lie on the Table.' title='WIMBORNE AND DISTRICT ELEC- TRICITY (EXTENSION) ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/25/wimborne-and-district-elec-tricity'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

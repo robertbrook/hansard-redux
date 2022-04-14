@@ -1,0 +1,27 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 23 May 1933</title>
+    <dateCreated>Tue, 23 May 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2244134' text='THE LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;Ministry of Health Provisional Orders (Bath and Bury and District Joint Water Board).&lt;br/&gt;And also the Certificate that no further Standing Orders are applicable to the following Bill:&lt;br/&gt;Sidmouth Urban District Council.&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/preamble'></outline>
+    <outline id='2244135' text='COMMERCIAL GAS BILL.'>
+      <outline id='2244137' text='FRIMLEY AND FARNBOROUGH DISTRICT WATER BILL'>
+        <outline id='2244138' text='Brought from the Commons; read l&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='GAS LIGHT AND COKE COMPANY BILL' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/gas-light-and-coke-company-bill'></outline>
+      </outline>
+      <outline id='2244140' text='Returned from the Commons, with the Amendments, agreed to.' title='GREAT WESTERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/great-western-railway-bill'></outline>
+      <outline id='2244141' text='Reported, with Amendments.' title='TORQUAY AND PAIGNTON TRACTION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/torquay-and-paignton-traction-bill-hl'></outline>
+      <outline id='2244143' text='Reported, with Amendments.' title='DEWSBURY AND OSSETT PASSENGER TRANSPORT BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/dewsbury-and-ossett-passenger-transport'></outline>
+      <outline id='2244144' text='SAMARITAN FREE HOSPITAL FOR WOMEN BILL. [H.L.]'>
+        <outline id='2244145' text="Reports from His Majesty's Attorney-General received and ordered to lie on the Table." title='MANCHESTER CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/manchester-corporation-bill'></outline>
+      </outline>
+      <outline id='2244146' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Order, and that there is nothing in this Order to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='SCOTTISH MILK MARKETINGM SCHEME, 1933.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/scottish-milk-marketingm-scheme-1933'></outline>
+      <outline id='2244147' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Order, and that there is nothing in this Order to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='HARWICH ELECTRICITY (EXTEN SION) ORDER, 1933.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/may/23/harwich-electricity-exten-sion-order-1933'></outline>
+    </outline>
+  </body>
+</opml>

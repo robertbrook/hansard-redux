@@ -1,0 +1,28 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 May 1927</title>
+    <dateCreated>Wed, 11 May 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2227245' text='The Lord Monteagle of Brandon&amp;#x2014;Sat first in Parliament after the death of his father.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/preamble'></outline>
+    <outline id='2227246' text="Message from the Commons to acquaint this House that they have appointed a Committee of eleven members to join with the Committee appointed by this House us mentioned in their Lordships' Message of the 4th instant." title='STANDING JOINT COMMITTEE ON INDIAN AFFAIRS.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/standing-joint-committee-on-indian'></outline>
+    <outline id='2227247' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; to be printed, and referred to the Examiners.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 3) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/ministry-of-health-provisional-orders-no'></outline>
+    <outline id='2227248' text='Returned from the Commons, with the Amendment, agreed to.' title='READING GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/reading-gas-bill'></outline>
+    <outline id='2227249' text='Returned from the Commons, with the Amendments, agreed to.' title='FARNHAM GAS AND ELECTRICITY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/farnham-gas-and-electricity-bill'></outline>
+    <outline id='2227250' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the&#x000A;&lt;col&gt;226&lt;/col&gt;&#x000A;opposition thereto having been withdrawn: Read, and ordered to lie on the Table: The Orders made on the 22nd of February and 17th of March last discharged, and Bill committed for Tuesday next.' title='MERSEY TUNNEL (BIRKENHEAD ENTRANCE, ETC.) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/mersey-tunnel-birkenhead-entrance-etc'></outline>
+    <outline id='2227251' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been withdrawn: Read, and ordered to lie on the Table: The Orders made on the 24th of February and 17th of March last discharged, and Bill committed.' title='SCARBOROUGH GAS COMPANY (CONSOLIDATION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/scarborough-gas-company-consolidation'></outline>
+    <outline id='2227252' text='DERBY CORPORATION BILL. [H.L.]'>
+      <outline id='2227253' text='The Order made on Tuesday the 8th of March last appointing certain Lords the Select Committee to consider the Bills discharged.' title='SUTHERLAND CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/sutherland-corporation-bill-hl'></outline>
+    </outline>
+    <outline id='2227257' text='BIRMINGHAM EXTENSION BILL.'>
+      <outline id='2227258' text='LEEDS CORPORATION BILL.'>
+        <outline id='2227259' text='Committed: The Committees to be proposed by the Committee of Selection.' title='CHEPPING WYCOMBE CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/may/11/chepping-wycombe-corporation-bill'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

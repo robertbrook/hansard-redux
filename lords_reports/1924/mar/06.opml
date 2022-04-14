@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 March 1924</title>
+    <dateCreated>Thu, 06 Mar 1924 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2279409' text='Committed : The Committee to be proposed by the Committee of Selection.' title='GREAT WESTERN RAILWAY (DOCK CHARGES) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/great-western-railway-dock-charges-bill'></outline>
+    <outline id='2279411' text='HASTINGS CORPORATION BILL. [H.L.]'>
+      <outline id='2279413' text='LEEDS CORPORATION BILL. [H.L.]'>
+        <outline id='2279414' text='Committed : the Committees to be proposed by the Committee of Selection.' title='MANCHESTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/manchester-corporation-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2279415' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn: The Order made on February 20 last discharged, and Bill committed for Tuesday next.' title='HASLINGDEN CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/haslingden-corporation-bill-hl'></outline>
+    <outline id='2279416' text='The CHAIRMAN OK COMMITTEES informed the House that the promoters do not intend to proceed further with the Bill : Ordered, That the Bill be not further proceeded with.' title='DOVER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/dover-corporation-bill-hl'></outline>
+    <outline id='2279417' text='Second Reading (which stands appointed for this day) put off to Thursday next.' title='PUBLIC-HOUSE IMPROVEMENT BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/public-house-improvement-bill-hl'></outline>
+    <outline id='2279418' text='Report of Amendments to be received on Thursday next.' title='LEGITIMACY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/mar/06/legitimacy-bill-hl'></outline>
+  </body>
+</opml>

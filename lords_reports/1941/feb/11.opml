@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 February 1941</title>
+    <dateCreated>Tue, 11 Feb 1941 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2267611' text='Message from the Commons for the Lord Hyndley to attend to be examined as a witness before the Sub-Committee on Transport Services of the Select Committee appointed by that House on National Expenditure. Leave given for his Lordship to attend, if he think fit; and a Message ordered to be sent to the Commons to acquaint them therewith.' title='NATIONAL EXPENDITURE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/feb/11/national-expenditure'></outline>
+    <outline id='2267613' text='Special Order proposed to be made on the application of the Borough of Bangor:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='BANGOR GAS ORDER, 1941.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/feb/11/bangor-gas-order-1941'></outline>
+    <outline id='2267615' text='Special Order proposed to be made on the application of the Borough of Walling-ford:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='WALLINGFORD GAS ORDER, 1941.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/feb/11/wallingford-gas-order-1941'></outline>
+  </body>
+</opml>

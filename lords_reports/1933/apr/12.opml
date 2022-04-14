@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 12 April 1933</title>
+    <dateCreated>Wed, 12 Apr 1933 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2244329' text='Reported, with Amendments.' title='COLNE CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/12/colne-corporation-bill-hl'></outline>
+    <outline id='2244330' text="Petitions in favour of; of persons signing (4); of members of the Bird Lovers' League (2): Read, and ordered to lie on the Table." title='PROTECTION OF BIRDS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/12/protection-of-birds-bill-hl'></outline>
+    <outline id='2244331' text='Special Order proposed to be made on the application of the Ilfracombe Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='ILFRACOMBE GAS ORDER, 1933.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/12/ilfracombe-gas-order-1933'></outline>
+    <outline id='2244332' text='Draft scheme for the regulation of the marketing of milk in Scotland, submitted to the Minister under the Agricultural Marketing Act, 1931:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='SCOTTISH MILK MARKETING SCHEME, 1933.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1933/apr/12/scottish-milk-marketing-scheme-1933'></outline>
+  </body>
+</opml>

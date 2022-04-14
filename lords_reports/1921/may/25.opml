@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 25 May 1921</title>
+    <dateCreated>Wed, 25 May 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2232013' text='Committee (which stands appointed for Tuesday next) put off to Tuesday the 7th of June next.' title='CAPTIVE BIRDS SHOOTING (PROHIBITION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/captive-birds-shooting-prohibition-bill'></outline>
+    <outline id='2232014' text='House to be in Committee on Thursday the 2nd of June. next.' title='HEALTH RESORTS AND WATERING PLACES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/health-resorts-and-watering-places-bill'></outline>
+    <outline id='2232015' text='SLOUGH TRADING COMPANY, LIMITED (CANAL).'>
+      <outline id='2232016' text='PETITION FOR BILL.'>
+        <outline id='2232017' text="PETITION FOR ADDITIONAL PROVISION.&lt;br/&gt;Examiner's Certificate of non-compliance referred to the Standing Orders Committee on Tuesday next." title='BATLEY CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/batley-corporation-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2232018' text='Brought from the Commons; read 1&amp;#x00AA;; and referred to the Examiners.&lt;br/&gt;&lt;i&gt;[At Judicial Sitting, May 30]&lt;/i&gt;' title='RADCLIFFE AND LITTLE LEVER JOINT GAS BOARD BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/radcliffe-and-little-lever-joint-gas'></outline>
+    <outline id='2232019' text='To be read 2&amp;#x00AA; to-morrow.' title='PERTH CORPORATION PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/perth-corporation-provisional-order-bill'></outline>
+    <outline id='2232020' text='MINISTRY OF HEALTH PROVISIONAL ORDER (DOVER EXTENSION) BILL. [H.L.]'>
+      <outline id='2232021' text='Committees to meet to-morrow.' title='CAMBRIDGE UNIVERSITY AND TOWN WATERWORKS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/25/cambridge-university-and-town-waterworks'></outline>
+    </outline>
+  </body>
+</opml>

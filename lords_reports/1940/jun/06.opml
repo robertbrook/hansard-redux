@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 June 1940</title>
+    <dateCreated>Thu, 06 Jun 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2308021' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn. The Order made on the 29th of May last discharged, and Bill committed.' title='CHRISTCHURCH CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jun/06/christchurch-corporation-bill'></outline>
+    <outline id='2308022' text="The King's consent signified, and Bill reported, without amendment." title='CORNWALL ELECTRIC POWER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jun/06/cornwall-electric-power-bill'></outline>
+    <outline id='2308023' text='Reported, without amendment.' title='LONDON COUNTY COUNCIL (MONEY) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jun/06/london-county-council-money-bill'></outline>
+    <outline id='2308024' text='Draft Special Order made on the application of the County Borough of Bolton:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='BOLTON GAS ORDER, 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jun/06/bolton-gas-order-1940'></outline>
+    <outline id='2308025' text='Draft Special Order made on the application of the City of Durham Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='DURHAM GAS ORDER, 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/jun/06/durham-gas-order-1940'></outline>
+  </body>
+</opml>

@@ -1,0 +1,14 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 5 June 1852</title>
+    <dateCreated>Sun, 05 Jun 1852 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='42553' text='Their Lordships met; and, having transacted the business on the paper,&lt;br/&gt;House adjourned till Monday.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1852/jun/05/preamble'></outline>
+  </body>
+</opml>

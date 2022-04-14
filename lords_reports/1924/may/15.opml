@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 15 May 1924</title>
+    <dateCreated>Thu, 15 May 1924 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2286550' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='YORKSHIRE ELECTRIC POWER. PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/yorkshire-electric-power-petition-for'></outline>
+    <outline id='2286551' text='Committed for Tuesday next.' title='HARROGATE CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/harrogate-corporation-bill'></outline>
+    <outline id='2286552' text='LONDON MIDLAND AND SCOTTISH RAILWAY BILL.'>
+      <outline id='2286553' text='Committed: The Committees to be proposed by the Committee of Selection.' title='GREAT WESTERN RAILWAY (ADDITIONAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/great-western-railway-additional-powers'></outline>
+    </outline>
+    <outline id='2286554' text='Referred to the Examiners.' title='IMPERIAL INSTITUTE BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/imperial-institute-bill-hl'></outline>
+    <outline id='2286555' text='To be road 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday, May 27.&amp;#x2014;(&lt;i&gt;Earl Be La Warr.&lt;/i&gt;)' title='LOCAL AUTHORITIES (EMERGENCY PROVISIONS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/local-authorities-emergency-provisions'></outline>
+    <outline id='2286556' text="To be read 2&lt;sup&gt;a&lt;/sup&gt; on Thursday next.&amp;#x2014;(&lt;i&gt;Viscount Chelmsford&lt;/i&gt;.)&lt;br/&gt;[&lt;i&gt;From Minutes of Judicial Sitting, May&lt;/i&gt; 19.]&lt;br/&gt;Petition of Sir Edward Hamilton Seymour, K.B.E., C.B., O.M.G., claiming to be Duke of Somerset and Baron Seymour in the Peerage of England, praying His Majesty to be graciously pleased to direct a writ to be issued to summon the Petitioner to Parliament by the name and style of Duke of Somerset, together with His Majesty's reference thereof to this House, and the report of the Attorney-General thereon thereunto, annexed: Presented (by command); read, and referred to the Committee for Privileges to consider and report." title='SCHOOL TEACHERS (SUPERANNUATION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/may/15/school-teachers-superannuation-bill'></outline>
+  </body>
+</opml>

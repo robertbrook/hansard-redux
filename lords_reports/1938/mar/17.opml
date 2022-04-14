@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 March 1938</title>
+    <dateCreated>Thu, 17 Mar 1938 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2305524' text='OXFORD CORPORATION (ELECTRICITY).'>
+      <outline id='2305526' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Wednesday next." title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/17/petition-for-bill'></outline>
+    </outline>
+    <outline id='2305528' text='Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, arid that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table.' title='SCOTTISH HIGHLANDS ELECTRICITY (DORNOCH AND DISTRICT) ORDER, 1937.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/17/scottish-highlands-electricity-dornoch'></outline>
+    <outline id='2305529' text='Reported, without amendment, and recommitted to a Committee of the Whole House on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (HALIFAX) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/17/ministry-of-health-provisional-order'></outline>
+    <outline id='2305530' text='Reported, with Amendments, and recommitted to a Committee of the Whole House on Tuesday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (NUNEATON EXTENSION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/mar/17/ministry-of-health-provisional-order-1'></outline>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 24 June 1937</title>
+    <dateCreated>Thu, 24 Jun 1937 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2270033' text='The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that no Standing Orders are applicable to the following Bill:&amp;#x2014;Pier and Harbour Provisional Order (Falmouth). The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/24/preamble'></outline>
+    <outline id='2270037' text='Returned from the Commons, agreed to, with Amendments.' title='BARNET DISTRICT GAS AND WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/24/barnet-district-gas-and-water-bill-hl'></outline>
+    <outline id='2270038' text='Returned from the Commons, with the Amendments, agreed to.' title='LONDON MIDLAND AND SCOTTISH RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/24/london-midland-and-scottish-railway-bill'></outline>
+    <outline id='2270039' text='Returned from the Commons, with the Amendments, agreed to.' title='RICHMOND (SURREY) CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/jun/24/richmond-surrey-corporation-bill'></outline>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 23 July 1936</title>
+    <dateCreated>Thu, 23 Jul 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2253458' text='Returned from the Commons, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (BARNSLEY) BILL. [H.L.] MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (PLYMPTON SAINT MARY) BILL. [H.L.] MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (WEST HARTLEPOOL) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/23/ministry-of-health-provisional-order'></outline>
+    <outline id='2253458' text='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (BARNSLEY) BILL. [H.L.] MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (PLYMPTON SAINT MARY) BILL. [H.L.] MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (WEST HARTLEPOOL) BILL. [H.L.]'>
+      <outline id='2253459' text='Reported, with Amendments.' title='COVENTRY CORPORATION BILL. THORNTON CLEVELEYS IMPROVEMENT BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/23/coventry-corporation-bill-thornton'></outline>
+      <outline id='2253461' text='Reported, without amendment; and recommitted to a Committee of the While House on Monday next.' title='SEA FISHERIES PROVISIONAL ORDER (No. 1) BILL. SEA FISHERIES PROVISIONAL ORDER (No. 2) BILL. MINISTRY OF HEALTH PROVISIONAL ORDER (HEATHFIELD AND DISTRICT WATER) BILL. MINISTRY OF HEALTH PROVISIONAL ORDER (HELSTON AND PORTHLEVEN WATER) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/jul/23/sea-fisheries-provisional-order-no-1'></outline>
+    </outline>
+  </body>
+</opml>

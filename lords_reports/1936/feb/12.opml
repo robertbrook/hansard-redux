@@ -1,0 +1,24 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 12 February 1936</title>
+    <dateCreated>Wed, 12 Feb 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2293252' text='Presented, and read 1&lt;sup&gt;a&lt;/sup&gt;.' title='LIVERPOOL CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/feb/12/liverpool-corporation-bill-hl'></outline>
+    <outline id='2293253' text='BEDWELLTY URBAN DISTRCTI COUNCIL BILL. [H.L.]'>
+      <outline id='2293254' text='BIRMINGHAM CORPORATION BILL. [H.L.]'>
+        <outline id='2293255' text='&lt;b&gt;BRIGHTON CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;DOVER CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;EPSOM AND WALTON DOWNS REGULATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;FISHGUARD AND GOODWICK URBAN DISTRICT COUNCIL BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;HORNCHURCH URBAN DISTRICT COUNCIL BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;HUDDERSFIELD CORPORATION (TROLLEY VEHICLES) BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;KINGSTON UPON HULL&lt;lb/&gt; CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LONDON COUNTY COUNCIL&lt;lb/&gt; (GENERAL POWERS) BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;MANCHESTER CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;NORTH WEST KENT JOINT WATER BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;RHYMNEY VALLEY SEWERAGE BOARD BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;ROCHESTER CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SWANSEA CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;WINCHESTER CORPOATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Committed: The Committees to be proposed by the Committee of Selection.' title='BOGNOR REGIS URBAN DISTRCT COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/feb/12/bognor-regis-urban-distrct-council-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2293258' text='LEE CONSERVANCY CATCHMENT BOARD BILL [H.L.]'>
+      <outline id='2293260' text='MORTLAKE CREMATORIUM BILL. [H.L.]'>
+        
+      </outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 26 May 1937</title>
+    <dateCreated>Wed, 26 May 1937 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2270281' text='The Order made on the 5th instant, appointing certain Lords the Select Committee to consider the Bill, discharged.' title='BARKING CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/barking-corporation-bill'></outline>
+    <outline id='2270282' text='BRISTOL TRANSPORT.'>
+      <outline id='2270283' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/petition-for-bill'></outline>
+    </outline>
+    <outline id='2270284' text='Report from, That the Standing Orders not complied with in respect of the Petition for the Whitehaven Harbour Bill ought to be dispensed with, and leave given to introduce the Bill: Read, and agreed to.' title='STANDING ORDERS COMMITTEE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/standing-orders-committee'></outline>
+    <outline id='2270285' text='Presented (pursuant to leave given this day); read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='WHITEHAVEN HARBOUR BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/whitehaven-harbour-bill-hl'></outline>
+    <outline id='2270286' text='Reported, with Amendments.' title='HASTINGS PIER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/hastings-pier-bill-hl'></outline>
+    <outline id='2270287' text='Order, dated 6th May, 1937, made by the Minister of Agriculture and Fisheries and the Secretary of State for Scotland under Section 10 of the Destructive Imported Animals Act, 1932:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='GREY SQUIRRELS (PROHIBITION OF IMPORTATION AND KEEPING) ORDER, 1937.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1937/may/26/grey-squirrels-prohibition-of'></outline>
+  </body>
+</opml>

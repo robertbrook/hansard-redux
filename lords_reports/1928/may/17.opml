@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 May 1928</title>
+    <dateCreated>Thu, 17 May 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2229863' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='SOUTH WEST SUBURBAN WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/south-west-suburban-water-bill'></outline>
+    <outline id='2229864' text='Reported from the Joint Committee without amendment, and re-committed.' title='DOVER GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/dover-gas-bill-hl'></outline>
+    <outline id='2229865' text='Reported from the Select Committee, with Amendments.' title='STAFFORDSHIRE POTTERIES WATER BOARD BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/staffordshire-potteries-water-board-bill'></outline>
+    <outline id='2229866' text="The King's consent signified, and Bill reported from the Select Committee, with Amendments." title='CLEVELAND AND DURHAM COUNTY ELECTRIC POWER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/cleveland-and-durham-county-electric'></outline>
+    <outline id='2229867' text='FALMOUTH WATER BILL.'>
+      <outline id='2229868' text='Committed for Monday next.' title='YSTRADFELLTE WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/ystradfellte-water-bill'></outline>
+    </outline>
+    <outline id='2229869' text='Committed The Committee to be proposed by the Committee of Selection.' title='CAERPHILLY URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/caerphilly-urban-district-council-bill'></outline>
+    <outline id='2229870' text='MINISTRY OF HEALTH PROVISIONAL ORDER CONFIRMATION (SWINDON EXTENSION) BILL. [H.L.]'>
+      
+    </outline>
+    <outline id='2229874' text='Committed: The Committee to be proposed by the Committee of Selection in regard to the Clacton and Port Talbot Orders.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS CONFIRMATION (No. 5) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/may/17/ministry-of-health-provisional-orders'></outline>
+  </body>
+</opml>

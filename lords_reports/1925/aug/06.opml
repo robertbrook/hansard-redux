@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 August 1925</title>
+    <dateCreated>Thu, 06 Aug 1925 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2245404' text='Returned from the Commons, agreed to.' title='VICTORIA INFIRMARY OF GLASGOW ACT, 1888 (AMENDMENT) ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/victoria-infirmary-of-glasgow-act-1888'></outline>
+    <outline id='2245407' text='Returned from The Commons, with the Amendments, agreed to.' title='WEST HARTLEPOOL CORPORATION (TROLLEY VEHICLES) PRO VISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/west-hartlepool-corporation-trolley'></outline>
+    <outline id='2245409' text='WALSALL CORPORATION BILL.'>
+      <outline id='2245410' text='Returned from the Commons, with the Amendments, agreed to.' title='WOLVERHAMPTON CORPORATIONBILL. BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/wolverhampton-corporationbill-bill'></outline>
+    </outline>
+    <outline id='2245411' text='SURREY COUNTY COUNCIL BILL. [H.L.]'>
+      <outline id='2245413' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='MERSEY TUNNEL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/mersey-tunnel-bill-hl'></outline>
+    </outline>
+    <outline id='2245414' text='Commons Amendments considered and agreed to.' title='BLACKPOOL IMPROVEMENT BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/blackpool-improvement-bill-hl'></outline>
+    <outline id='2245416' text='Committed: The Committee to be proposed by the Committee of Selection.' title='GLASGOW BOUNDARIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/glasgow-boundaries-bill'></outline>
+    <outline id='2245417' text='Order of yesterday referring the Special Order to the Special Orders Committee discharged, and the Special Order ordered to lie on the Table.' title='NEWPORT (ISLE OF WIGHT), RYDE, AND SANDOWN, AND SHANKLIN ELECTRICITY (BULK SUPPLY) SPECIAL ORDER, 1925.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/newport-isle-of-wight-ryde-and-sandown'></outline>
+    <outline id='2245418' text='&lt;b&gt;BIRKENHEAD ELECTRICITY&lt;lb/&gt; (EXTENSION) SPECIAL ORDER, 1925.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;BRENTWOOD GAS ORDER, 1925.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SOUTHAMPTON GAS ORDER, 1925.&lt;/b&gt;&lt;br/&gt;Report from the Special Orders Committee that no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House; read, and ordered to lie on the Table.' title='BRIGHTON ELECTRICITY (EXTENSION) SPECIAL ORDER, 1925.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/aug/06/brighton-electricity-extension-special'></outline>
+  </body>
+</opml>

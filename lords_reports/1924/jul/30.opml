@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 30 July 1924</title>
+    <dateCreated>Wed, 30 Jul 1924 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2221234' text='Returned from the Commons, agreed to, with Amendments.' title='WAKEFIELD CORPORATION BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/wakefield-corporation-bill-hl'></outline>
+    <outline id='2221237' text='Returned from the Commons, with the Amendments, agreed to.' title='HALIFAX CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/halifax-corporation-bill'></outline>
+    <outline id='2221239' text='Reported from the Select Committee, with Amendments.' title='CROYDON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/croydon-corporation-bill'></outline>
+    <outline id='2221241' text='Commons Amendments considered, and agreed to.' title='BIRMINGHAM CORPORATION BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/birmingham-corporation-bill-hl'></outline>
+    <outline id='2221242' text='Pursuant to the Private Legislation Procedure (Scotland) Act, 1899, deemed to have been reported from the Committee; and Bill to be read 3&lt;sup&gt;a&lt;/sup&gt; to-morrow.' title='EDINBURGH CORPORATION WATER ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/edinburgh-corporation-water-order'></outline>
+    <outline id='2221243' text='Committed for to-morrow.' title='ST. HELENS CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/st-helens-corporation-trolley-vehicles'></outline>
+    <outline id='2221244' text='Third Reading (which stands appointed for this day) put off to Tuesday next.' title='SEDITIOUS AND BLASPHEMOUS TEACHING TO CHILDREN BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/seditious-and-blasphemous-teaching-to'></outline>
+    <outline id='2221245' text='Committed for to-morrow.' title='POST OFFICE (LONDON) RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1924/jul/30/post-office-london-railway-bill'></outline>
+  </body>
+</opml>

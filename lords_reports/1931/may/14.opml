@@ -1,0 +1,16 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 14 May 1931</title>
+    <dateCreated>Thu, 14 May 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2290403' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.&lt;br/&gt;The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, that the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have not been complied with:&lt;br/&gt;North Killingholme (Admiralty Pier).&lt;br/&gt;The same was ordered to lie on the Table.' title='SURREY COUNTY COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/may/14/surrey-county-council-bill'></outline>
+    <outline id='2290409' text="The King's Consent signified, and Bill reported, with Amendments." title='LONDON ELECTRIC, METROPOLI- TAN DISTRICT, AND CITY AND SOUTH LONDON RAILWAY COM- PANIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/may/14/london-electric-metropoli-tan-district'></outline>
+    <outline id='2290410' text='Commons Amendments considered and agreed to.' title='LIVERPOOL UNIVERSITY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/may/14/liverpool-university-bill-hl'></outline>
+  </body>
+</opml>

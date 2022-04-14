@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 5 July 1926</title>
+    <dateCreated>Mon, 05 Jul 1926 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2282463' text='The VISCOUNT PORTMAN&amp;#x2014;Sat first in Parliament after the death of his brother.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/preamble'></outline>
+    <outline id='2282464' text='MINISTRY OF HEALTH PROVISIONAL ORDERS CONFIRMATION (No. 4) BILL.'>
+      <outline id='2282465' text='Referred to the Examiners.' title='TRAMWAYS PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/tramways-provisional-order-bill'></outline>
+    </outline>
+    <outline id='2282466' text='The CHAIRMAN of COMMITTEES informed the House that the opposition to the Bill was withdrawn. The Orders made on June 17 and 23 last discharged, and Bill committed for to-morrow.' title='PAIGNTON URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/paignton-urban-district-council-bill'></outline>
+    <outline id='2282467' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday, July 13.' title='HEATHER BURNING (SCOTLAND) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/heather-burning-scotland-bill'></outline>
+    <outline id='2282468' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Wednesday, July 21.' title='ADOPTION OF CHILDREN BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/adoption-of-children-bill'></outline>
+    <outline id='2282469' text='Committee of the Whole House (which stands appointed for to-morrow) put off to Thursday next.' title='RE-ELECTION OF MINISTERS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/re-election-of-ministers-bill'></outline>
+    <outline id='2282470' text='Second Reading (which stands appointed for to-morrow) put off to Thursday next.' title='POST OFFICE (SITES) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/05/post-office-sites-bill'></outline>
+  </body>
+</opml>

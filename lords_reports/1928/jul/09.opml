@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 9 July 1928</title>
+    <dateCreated>Mon, 09 Jul 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230691' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;: and referred to the Examiners.' title='DUDLEY CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/dudley-corporation-bill'></outline>
+    <outline id='2230693' text='Returned from the Commons, with the Amendments, agreed to.&lt;br/&gt;&lt;b&gt;GLOUCESTER CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;SANDOWN URBAN DISTRICT COUNCIL BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;&lt;b&gt;STAFFORDSHIRE POTTERIES WATER BOARD BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Returned from the Commons, agreed to, with Amendments.' title='MIDDLESEX AND SURREY (THAMES BRIDGES, ETC.) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/middlesex-and-surrey-thames-bridges-etc'></outline>
+    <outline id='2230694' text='To be read 2&lt;sup&gt;a&lt;/sup&gt;on Monday, July 23.' title='EDUCATION (SCOTLAND) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/education-scotland-bill'></outline>
+    <outline id='2230695' text='To be read 2&lt;sup&gt;a&lt;/sup&gt;on Thursday next.' title='SHOPS (HOURS OF CLOSING) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/shops-hours-of-closing-bill'></outline>
+    <outline id='2230696' text='To be read 2&lt;sup&gt;a&lt;/sup&gt;on Thursday next.' title="MR. SPEAKER'S RETIREMENT BILL." type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/mr-speakers-retirement-bill'></outline>
+    <outline id='2230697' text='To be read 3&lt;sup&gt;a&lt;/sup&gt;on Monday next.' title='DOGS (AMENDMENT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/09/dogs-amendment-bill'></outline>
+  </body>
+</opml>

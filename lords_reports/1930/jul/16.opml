@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 July 1930</title>
+    <dateCreated>Wed, 16 Jul 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2259204' text='Pursuant to the Private Legislation Procedure (Scotland) Act, 1899, Bill deemed to have been read2&amp;#x00AA; and reported from the Committee.' title='ABERDEEN CORPORATION ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/16/aberdeen-corporation-order-confirmation'></outline>
+    <outline id='2259206' text='Special Order in respect of the compulsory acquisition of lands for a transforming station in the parish and Metropolitan Borough of St. Pancras in the County of London:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='CENTRAL ELECTRICITY BOARD (ST. PANCRAS LANDS) ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/16/central-electricity-board-st-pancras'></outline>
+    <outline id='2259208' text='Special Order in respect of the urban districts of Arlecdon and Frizington, Aspatria, Cockermouth, Harrington, Holme Cultram, Maryport and Wigton, the rural districts of Alston with Garrigill, Cockermouth, Penrith and Wigton and part of the rural district of White-haven, all in the County of Cumberland:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='MID-CUMBERLAND ELECTRICITY ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/16/mid-cumberland-electricity-order-1930'></outline>
+    <outline id='2259209' text='Committed for Monday next.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (FOLKESTONE WATER) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/16/ministry-of-health-provisional-order'></outline>
+    <outline id='2259210' text="ST. HELEN'S CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL.">
+      <outline id='2259211' text='Committed for to-morrow,' title='WOLVERHAMPTON CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL,' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/16/wolverhampton-corporation-trolley'></outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 April 1940</title>
+    <dateCreated>Tue, 16 Apr 1940 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2307601' text="The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Monmouthshire and South Wales Employers' Mutual Indemnity Society, Limited [H.L.].&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;The same was ordered to lie on the Table." title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/preamble'></outline>
+    <outline id='2307602' text='Reported, without amendment.' title='NEWCASTLE AND GATESHEAD WATERWORKS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/newcastle-and-gateshead-waterworks-bill'></outline>
+    <outline id='2307603' text='TORQUAY CEMETERY BILL.'>
+      <outline id='2307604' text='Reported, with Amendments.' title='STAFFORDSHIRE AND WORCESTERSHIRE CANAL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/staffordshire-and-worcestershire-canal'></outline>
+    </outline>
+    <outline id='2307605' text="The King's consent signified, and Bill reported with Amendments." title='WESSEX ELECTRICITY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/wessex-electricity-bill'></outline>
+    <outline id='2307606' text='Report from the Special Orders Committee, That they have examined the Special Order as required by the Standing Orders of the House; that in their opinion the Order raises important questions of policy and principle; that the Order is founded on precedent, inasmuch as similar Orders made by the Treasury under the Debts Clearing Offices and Import Restrictions Act, 1934, have already been approved by the House; that in the opinion of the Committee the Order cannot be passed by the House without special attention, but that no further inquiry is necessary before the House proceeds to a decision on the Resolution to approve the said Order:&lt;br/&gt;Read, and ordered to lie on the Table.' title='CLEARING OFFICE (SPAIN), AMENDMENT ORDER, 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/clearing-office-spain-amendment-order'></outline>
+    <outline id='2307607' text='Report from the Special Orders Committee, That no Petitions have been presented praying to be heard against the Special Order, and that there is nothing in the Order to which they think it necessary to call the attention of the House:&lt;br/&gt;Read, and ordered to lie on the Table.' title='SHEFFIELD AND DISTRICT GAS ORDER 1940.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1940/apr/16/sheffield-and-district-gas-order-1940'></outline>
+  </body>
+</opml>

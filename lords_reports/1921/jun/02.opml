@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 2 June 1921</title>
+    <dateCreated>Thu, 02 Jun 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230732' text='Order of the Day for the Second Reading read: Counsel called in: Witnesses examined: Moved that the Bill be now read 2&amp;#x00AA;; agreed to: Bill read 2&amp;#x00AA;accordingly, and committed to a Committee of the Whole House on Tuesday next.' title="PRESTON'S DIVORCE BILL [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/prestons-divorce-bill-hl'></outline>
+    <outline id='2230733' text='Adjourned debate on the Amendment moved by Lord Sydenham to the Motion that the Bill be now read 2&amp;#x00AA;viz. "to leave out (&apos;now&apos;) and add to the end of the Motion (&apos;this day six months&apos;)," to be resumed on Wednesday next.' title='GOVERNMENT OF BURMA BILL [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/government-of-burma-bill-hl'></outline>
+    <outline id='2230734' text='Reported, with Amendments.' title='CAMBRIDGE UNIVERSITY AND TOWN WATERWORKS BILL' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/cambridge-university-and-town-waterworks'></outline>
+    <outline id='2230735' text='METROPOLITAN WATER BOARD (CHARGES) BILL'>
+      <outline id='2230736' text='THAMES CONSERVANCY BILL'>
+        <outline id='2230737' text='Report from the Committee of Selection, that Earl Bathurst be proposed to the House as a member of the Joint Committee on the said Bills in the place of Lord Loch; read, and agreed to.' title='LEE CONSERVANCY BILL' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/lee-conservancy-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2230738' text='TAF FECHAN WATER SUPPLY BILL&lt;lb/&gt;[H.L.]&lt;br/&gt;RHYMNEY VALLEY WATER BOARD&lt;lb/&gt;BILL [H.L.]&lt;br/&gt;RHYMNEY AND ABER VALLEYS GAS&lt;lb/&gt;AND WATER BILL [H.L.]&lt;br/&gt;Report from the Committee of Selection that Lord Armaghdale be proposed to the House as a member of the Joint Committee on the said Bills in the place of Lord Sea-forth; read, and agreed to.' title='TAF FECHAN VALLEY WATER BOARD BILL [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/taf-fechan-valley-water-board-bill-hl'></outline>
+    <outline id='2230740' text='Message from the Commons that they have ordered that the Committee appointed by them to join with the Committee of this House to consider Consolidation Bills do meet the Lords Committee in Committee Room C. at the time appointed by their Lordships.' title='CONSOLIDATION BILL PROCEDURE' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/jun/02/consolidation-bill-procedure'></outline>
+  </body>
+</opml>

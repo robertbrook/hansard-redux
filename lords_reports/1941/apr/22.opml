@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 22 April 1941</title>
+    <dateCreated>Tue, 22 Apr 1941 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2299211' text='The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificates from the Examiners that the Standing Orders have not been complied with, in respect of the Petitions for the following Bills:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Ebbw Vale Urban District Council.&lt;/li&gt;&#x000A;&lt;li&gt;East Worcestershire Water.&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/apr/22/preamble'></outline>
+    <outline id='2299212' text='EBBW VALE URBAN DISTRICT COUNCIL: PETITION FOR BILL.'>
+      <outline id='2299213' text="Examiners' Certificates of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='EAST WORCESTERSHIRE WATER: PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/apr/22/east-worcestershire-water-petition-for'></outline>
+    </outline>
+    <outline id='2299214' text='Special Order, dated 9th April, 1941, made by the Minister of Health and the Secretary of State for the Home Department, under Section 52 of the Unemployment Act, 1934:&lt;br/&gt;Laid before the House (pursuant to Act) on the 10th instant and now referred to the Special Orders Committee.' title='DRAFT SUPPLEMENTARY PENSIONS (DETERMINATION OF NEED AND ASSESSMENT OF NEEDS) (AMENDMENT) REGULATIONS, 1941.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1941/apr/22/draft-supplementary-pensions'></outline>
+  </body>
+</opml>

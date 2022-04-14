@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 7 July 1926</title>
+    <dateCreated>Wed, 07 Jul 1926 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2282734' text='Committee to meet on Tuesday next.' title='PONTEFRACT CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/pontefract-corporation-bill'></outline>
+    <outline id='2282735' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill no parties having appeared in opposition thereto: read, and ordered to lie on the Table: The Orders made on June 29 and 30 last discharged, and Bill committed for to-morrow.' title='LONDON ELECTRIC AND METRO POLITAN DISTRICT RAILWAY COM PANIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/london-electric-and-metro-politan'></outline>
+    <outline id='2282736' text='GAINSBOROUGH ELECTRICTY SPECIAL ORDER, 1926.'>
+      <outline id='2282737' text='Special Orders Committee to meet on Tuesday next.' title='DUNSTABLE GAS ORDER, 1926.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/dunstable-gas-order-1926'></outline>
+    </outline>
+    <outline id='2282738' text='Re-committed to the Special Orders Committee for Tuesday next.' title='PORTSMOUTH GAS ORDER, 1926.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/portsmouth-gas-order-1926'></outline>
+    <outline id='2282739' text='Second Reading (which stands appointed for to-morrow) put off to Tuesday next.' title='SALE OF FOOD (WEIGHTS AND MEASURES) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/sale-of-food-weights-and-measures-bill-hl'></outline>
+    <outline id='2282740' text='Second Reading (which stands appointed for to-morrow) put off to Tuesday next.' title='AUCTIONS (BIDDING AGREEMENTS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/07/auctions-bidding-agreements-bill-hl'></outline>
+  </body>
+</opml>

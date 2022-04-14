@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 July 1930</title>
+    <dateCreated>Thu, 17 Jul 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2258223' text='LONDON BUILDING BILL. [H.L.]'>
+      <outline id='2258224' text='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL. [H.L.]'>
+        <outline id='2258225' text='Returned from the Commons, agreed to, with Amendments: the said Amendments considered, and agreed to.' title='SOUTHAMPTON COUNTY COUNCIL (BURSLEDON BRIDGE) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/17/southampton-county-council-bursledon'></outline>
+      </outline>
+    </outline>
+    <outline id='2258228' text='Reported from the Select Committee, with Amendments.' title='ROTHERHAM CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/17/rotherham-corporation-bill'></outline>
+    <outline id='2258230' text='Special Order in respect of the urban district of Silsden in the West Riding of the County of York:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='SILSDEN ELECTRICITY ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/17/silsden-electricity-order-1930'></outline>
+    <outline id='2258231' text="ST. HELEN'S CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL.">
+      <outline id='2258232' text='Reported, without amendment, and recommitted to a Committee of the Whole House on Monday next.' title='WOLVERHAMPTON CORPORATION (TROLLEY VEHICLES) PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/17/wolverhampton-corporation-trolley'></outline>
+    </outline>
+  </body>
+</opml>

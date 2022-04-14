@@ -1,0 +1,30 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 21 July 1930</title>
+    <dateCreated>Mon, 21 Jul 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2257071' text='LONDON AND NORTH EASTERN RAILWAY (No. 2) BILL.'>
+      <outline id='2257072' text='MANCHESTER CORPORATION (GENERAL POWERS) (No. 1) BILL.'>
+        <outline id='2257073' text='Returned from the Commons, with the Amendments, agreed to.' title='SOUTH YORKSHIRE AND DERBYSHIRE GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/south-yorkshire-and-derbyshire-gas-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2257074' text='ASCOT DISTRICT GAS AND ELECTRICITY BILL. [H.L.]'>
+      <outline id='2257075' text='BRIXHAM GAS AND ELECTRICITY BILL. [H.L.]'>
+        <outline id='2257076' text='Returned from the Commons, agreed to, with Amendments; the said Amendments considered, and agreed to.' title='MIDDLESEX COUNTY COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/middlesex-county-council-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2257077' text='Reported from the Select Committee, with Amendments.' title='GLASGOW CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/glasgow-corporation-bill'></outline>
+    <outline id='2257078' text='Reported from the Select Committee, with Amendments.' title='MANCHESTER CORPORATION (GENERAL POWERS) (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/manchester-corporation-general-powers-no-1'></outline>
+    <outline id='2257079' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition co the Bill was withdrawn: The Order made on the 2nd instant discharged, and Bill committed for to-morrow.' title='SOUTHEND-ON-SEA CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/southend-on-sea-corporation-bill'></outline>
+    <outline id='2257080' text='Special Order proposed to be made on the application of the Lord Mayor, aldermen and citizens of the City and County Borough of Stoke-on-Trent:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='STOKE-ON-TRENT GAS ORDER, 1930.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/stoke-on-trent-gas-order-1930'></outline>
+    <outline id='2257081' text='MINISTRY OF HEALTH PROVISIONAL ORDER (BRIGHTON) BILL.&lt;br/&gt;MINISTRY OF HEALTH PROVISIONAL ORDERS (ACCRINGTON BOGNOR REGIS AND NEWTON ABBOT) BILL.&lt;br/&gt;MINISTRY OF HEALTH PROVISIONAL ORDERS (GREAT TORRINGTON MINEHEAD AND TAF FECHAN WATER SUPPLY BOARD) BILL.&lt;br/&gt;MINISTRY OF HEALTH PROVISIONAL ORDER (SOUTH MOLTON RURAL) BILL.&lt;br/&gt;Reported, without amendment, and recommitted to a Committee of the Whole House to-morrow.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (DONCASTER ST. IVES (CORNWALL) AND SCARBOROUGH) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/ministry-of-health-provisional-orders'></outline>
+    <outline id='2257082' text='MINISTRY OF HEALTH PROVISIONAL ORDER (FOLKESTONE WATER) BILL.&lt;br/&gt;Reported, with Amendments, and recommitted to a Committee of the Whole House to-morrow.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (UXBRIDGE JOINT HOSPITAL DISTRICT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/ministry-of-health-provisional-order'></outline>
+    <outline id='2257083' text='Reported, without amendment, and recommitted to a Committee of the Whole House to-morrow.' title='INVERGORDON WATER SUPPLY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jul/21/invergordon-water-supply-bill'></outline>
+  </body>
+</opml>

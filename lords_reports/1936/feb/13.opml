@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 13 February 1936</title>
+    <dateCreated>Thu, 13 Feb 1936 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2293353' text='The LORD CHANCELLOR&lt;member&gt;The LORD CHANCELLOR&lt;/member&gt; acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders have not been complied with in respect of the Petition for the following Bill:&lt;br/&gt;Yorkshire Electric Power.&lt;br/&gt;The same was ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/feb/13/preamble'></outline>
+    <outline id='2293362' text='The CHAIRMAN OF COMMITTEES informed the House that the opposition to the Bill was withdrawn: The Order made on the 5th instant discharged, and Bill committed.' title='EAST LOTHIAN COUNTY COUNCIL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/feb/13/east-lothian-county-council-bill-hl'></outline>
+    <outline id='2293363' text='YORKSHIRE ELECTRIC POWER&amp;#x2014; [PETITION FOR BILL].'>
+      <outline id='2293364' text="Examiners' Certificates of non-compliance with the Standing Orders referred to the Standing Orders Committee." title='CIRENCESTER GAS.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1936/feb/13/cirencester-gas'></outline>
+    </outline>
+  </body>
+</opml>

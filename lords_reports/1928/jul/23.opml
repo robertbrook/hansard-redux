@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 23 July 1928</title>
+    <dateCreated>Mon, 23 Jul 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230016' text='Returned from the Commons, with the Amendments, agreed to.' title='SHROPSHIRE, WORCESTERSHIRE AND STAFFORDSHIRE ELECTRIC POWER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/23/shropshire-worcestershire-and'></outline>
+    <outline id='2230017' text='Returned from the Commons, agreed to, with Amendments.' title='DOVER GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/23/dover-gas-bill-hl'></outline>
+    <outline id='2230018' text='STRETFORD AND DISTRICT ELEC TRICITY BOARD BILL. [H.L.]'>
+      <outline id='2230019' text='Returned from the Commons, agreed to, with Amendments:&lt;br/&gt;The said Amendments considered, and agreed to.' title='WESSEX ELECTRICITY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/23/wessex-electricity-bill-hl'></outline>
+    </outline>
+    <outline id='2230022' text='House to be in Committee on Monday next.' title='MARRIAGES (PROHIBITED DE GREES OF RELATIONSHIP) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/jul/23/marriages-prohibited-de-grees-of'></outline>
+  </body>
+</opml>

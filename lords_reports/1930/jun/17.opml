@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 17 June 1930</title>
+    <dateCreated>Tue, 17 Jun 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2258926' text='BRISTOL CATTLE MARKET BILL.'>
+      <outline id='2258927' text='Brought from the Commons; read 1&amp;#x00AA;, and referred to the Examiners.' title='LONDON COUNTY COUNCIL (MONEY) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/17/london-county-council-money-bill'></outline>
+    </outline>
+    <outline id='2258928' text='BURNLEY CORPORATION BILL.'>
+      <outline id='2258929' text='Returned from the Commons, with the Amendments, agreed to.' title='READING CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/17/reading-corporation-bill'></outline>
+    </outline>
+    <outline id='2258930' text='Returned from the Commons, agreed to, with Amendments.&lt;br/&gt;The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificates from the Examiners that the Standing Orders applicable to the following Bills have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Ministry of Health Provisional Order Confirmation (Essex) [H.L.].&lt;/li&gt;&#x000A;&lt;col&gt;10&lt;/col&gt;&#x000A;&lt;li&gt;Ministry of Health Provisional Orders Confirmation (Macclesfield, Settle and Willesden) [H.L.].&lt;/li&gt;&#x000A;&lt;li&gt;Ministry of Health Provisional Orders Confirmation (Torquay and Weymouth and Melcombe Regis) [H.L.],&lt;/li&gt;&#x000A;&lt;li&gt;Maidstone Corporation (Trolley Vehicles) Provisional Order.&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;Also the Certificates that the further Standing Orders applicable to the following Bills have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Rotherham Corporation,&lt;/li&gt;&#x000A;&lt;li&gt;Stockport Corporation,&lt;/li&gt;&#x000A;&lt;li&gt;Manchester Corporation (General Powers) (No. 2).&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;And also the Certificate that the Standing Orders have not been complied with in respect of the Petition for the following Bill:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;London County Council (Improvements).&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;The same were ordered to lie on the Table.' title='LANCASTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/17/lancaster-corporation-bill-hl'></outline>
+    <outline id='2258932' text='LONDON COUNTY COUNCIL (IMPROVEMENTS).'>
+      <outline id='2258934' text="Examiners' Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/17/petition-for-bill'></outline>
+    </outline>
+  </body>
+</opml>

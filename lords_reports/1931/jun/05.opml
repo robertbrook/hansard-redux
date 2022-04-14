@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 5 June 1931</title>
+    <dateCreated>Fri, 05 Jun 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297368' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;, and referred to the Examiners.' title='SOUTHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/southampton-corporation-bill'></outline>
+    <outline id='2297369' text='Report from the Committee of Selection, That the Marquess of Bath be proposed to the House as a member of the Joint Committee on the said Bill in the place of the Lord Wemyss (&lt;i&gt;E. Wemyss&lt;/i&gt;): Read, and agreed to.' title='PUBLIC OFFICES (SITES) AMEND MENT BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/public-offices-sites-amend-ment-bill'></outline>
+    <outline id='2297370' text='GREAT WESTERN RAILWAY BILL.'>
+      <outline id='2297371' text='LONDON AND NORTH EASTERN RAILWAY BILL.'>
+        <outline id='2297372' text='Report from the Committee of Selection, That the Earl of Lucan be proposed to the House as a member of the Select Committee on the said Bills in the place of the Lord Darling; and that the Earl of Lucan be Chairman of the said Committee: Read, and agreed to.' title='WEST HAM CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/west-ham-corporation-bill'></outline>
+      </outline>
+      <outline id='2297373' text='Special Order in respect of the Borough of Okehampton, the urban district of Tavistock and the rural districts of Okehampton and Tavistock, all in the County of Devon:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='OKEHAMPTON AND TAVISTOCK ELECTRICITY ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/okehampton-and-tavistock-electricity'></outline>
+      <outline id='2297374' text='Special Order in respect, of part of the rural district of Bucklow in the County of Chester and part of the rural district of Warrington in the County Palatine of Lancaster:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='WARRINGTON ELECTRICITY (EXTENSION) ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/warrington-electricity-extension-order'></outline>
+      <outline id='2297375' text='Special Order in respect of part of the Borough of Wareham and parts of the rural districts of Wareham and Purbeck, Poole, Wimborne and Oranborne and Blandford, in the County of Dorset:&lt;br/&gt;Laid before the House (pursuant, to Act) and referred to the Special Orders Committee.' title='WIMBORNE AND DISTRICT ELEC TRICITY (EXTENSION) ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jun/05/wimborne-and-district-elec-tricity'></outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 28 February 1939</title>
+    <dateCreated>Tue, 28 Feb 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2296440' text='Petition of the Mayor, aldermen and burgesses of the Borough of Croydon under their Corporate Seal praying for leave to introduce a Bill to enable the Mayor, aldermen and burgesses of the Borough of Croydon to pay compensation for certain loss injury or damage resulting from an outbreak of typhoid fever in the said Borough during the latter part of the year nineteen hundred and thirty-seven, notwitstanding certain provisions of the Public Authorities Protection Act, 1893, and the Fatal Accidents Act, 1846, and for other purposes, together with a copy of the proposed Bill annexed thereto: Read, and referred to the Examiners.' title='CROYDON CORPORATION.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/28/croydon-corporation'></outline>
+    <outline id='2296442' text='ALL HALLOWS LOMBARD STREET BILL.'>
+      <outline id='2296443' text='COVENTRY CORPORATION BILL.'>
+        <outline id='2296444' text="Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='WALSALL CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/28/walsall-corporation-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2296445' text='Report from, That the Standing Orders not complied with in respect of the following Bill ought to be dispensed with:&lt;br/&gt;Coventry Corporation:&lt;br/&gt;Read, and agreed to.' title='STANDING ORDERS COMMITTEE.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/28/standing-orders-committee'></outline>
+    <outline id='2296446' text='Special Order proposed to be made on the application of the Knottingley Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='KNOTTINGLEY GAS ORDER, 1939.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/28/knottingley-gas-order-1939'></outline>
+  </body>
+</opml>

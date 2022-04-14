@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 February 1935</title>
+    <dateCreated>Wed, 06 Feb 1935 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2301829' text='BURY AND DISTRICT JOINT WATER BOARD BILL. [H.L.]'>
+      <outline id='2301830' text='HOYLAKE URBAN DISTRICT COUNCIL BILL. [H.L.]'>
+        <outline id='2301831' text='&lt;b&gt;CHICHESTER CORPORATION BILL. [H.L.]&lt;/b&gt;&lt;br/&gt;Committed: The Committees to be proposed by the Committee of Selection.' title='PORT OF LONDON BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/feb/06/port-of-london-bill-hl'></outline>
+        <outline id='2301832' text='Special Order proposed to be made on the application of the Andover Lighting and Power Company:&lt;br/&gt;Laid before the House (pursuant to Act) for affirmative Resolution and referred to the Special Orders Committee.' title='ANDOVER GAS ORDER, 1935.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/feb/06/andover-gas-order-1935'></outline>
+        <outline id='2301833' text='First Report by the Select Committee made, to be printed, and to be considered to-morrow.' title='HOUSE OF LORDS OFFICES.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1935/feb/06/house-of-lords-offices'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

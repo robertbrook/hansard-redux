@@ -1,0 +1,27 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 February 1939</title>
+    <dateCreated>Thu, 16 Feb 1939 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297028' text='KING EDWARD THE SEVENTH WELSH NATIONAL MEMORIAL ASSOCIATION BILL. [H.L.]'>
+      <outline id='2297029' text='BOOTLE CORPORATION BILL. [H.L.]'>
+        <outline id='2297030' text='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL. [H.L.]'>
+          <outline id='2297031' text="Reports from His Majesty's Attorney-General received, and ordered to lie on the Table." title='METHODIST CHURCH BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/16/methodist-church-bill-hl'></outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline id='2297032' text='GOVERNMENT OF INDIA (HIGH COURT JUDGES) (AMENDMENT) ORDER, 1939.'>
+      <outline id='2297033' text='GOVERNMENT OF INDIA (PROVINCIAL LEGISLATIVE ASSEMBLIES) (AMENDMENT) ORDER, 1939.'>
+        <outline id='2297034' text='GOVERNMENT OF BURMA (INDIA-BURMA FINANCIAL SETTLEMENT) ORDER, 1939.'>
+          <outline id='2297036' text='Laid before the House (pursuant to Act) for affirmative Resolution and referred to the India and Burma Orders Committee on Thursday next.' title='GOVERNMENT OF BURMA (SHAN STATES FEDERAL FUND) ORDER, 1939.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1939/feb/16/government-of-burma-shan-states-federal'></outline>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

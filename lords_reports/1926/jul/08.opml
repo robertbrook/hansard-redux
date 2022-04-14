@@ -1,0 +1,22 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 8 July 1926</title>
+    <dateCreated>Thu, 08 Jul 1926 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2283391' text='The LORD CHANCELLOR acquainted the House, that the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Tramways Provisional Order.&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;Also the Certificate that no Standing Orders are applicable to the following Bill:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Land Drainage Provisional Order (No. 2).&lt;/li&gt;&#x000A;&lt;/ul&gt;&lt;br/&gt;The same were ordered to lie on the Table.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/preamble'></outline>
+    <outline id='2283392' text='Reported from the Select Committee, with Amendments.' title='GUILDFORD CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/guildford-corporation-bill'></outline>
+    <outline id='2283393' text='Reported, with Amendments.' title='MANCHESTER SHIP CANAL (STAFF SUPERANNUATION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/manchester-ship-canal-staff'></outline>
+    <outline id='2283394' text='SOUTHERN RAILWAY BILL.'>
+      <outline id='2283395' text="The King's consent signified, and Bills reported with Amendments." title='LONDON ELECTRIC AND METRO POLITAN DISTRICT RAILWAY COM PANIES BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/london-electric-and-metro-politan'></outline>
+    </outline>
+    <outline id='2283396' text='Committed: The Committee to be proposed by the Committee of Selection.' title='GAS LIGHT AND COKE COMPANY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/gas-light-and-coke-company-bill'></outline>
+    <outline id='2283398' text="Special Order proposed to be made on the application of the Burgess Hill and St. John's Common Gas Company;&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee." title="BURGESS HILL AND ST. JOHN'S COMMON GAS ORDER, 1926." type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/burgess-hill-and-st-johns-common-gas'></outline>
+    <outline id='2283399' text='Special Order proposed to be made on the application of the Grays and Tilbury Gas Company:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='GRAYS AND TILBURY GAS ORDER, 1926.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1926/jul/08/grays-and-tilbury-gas-order-1926'></outline>
+  </body>
+</opml>

@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 4 May 1921</title>
+    <dateCreated>Wed, 04 May 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2230202' text='METROPOLITAN WATER BOARD (CHARGES) BILL.'>
+      <outline id='2230204' text='THAMES CONSERVANCY BILL.'>
+        <outline id='2230205' text='Report from the Committee of Selection that Lord Loch be proposed to the House as a member of the Joint Committee on the said Bills in the place of Lord Clwyd; read, and agreed to.' title='LEE CONSERVANCY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/lee-conservancy-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2230207' text='Reported, with Amendments.' title='MID-GLAMORGAN WATER BOARD BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/mid-glamorgan-water-board-bill-hl'></outline>
+    <outline id='2230209' text='Reported from the Select Committee, with Amendments.' title='COUNTY OF LONDON ELECTRIC SUPPLY COMPANY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/county-of-london-electric-supply-company'></outline>
+    <outline id='2230211' text="Judges' Report received: Bill presented, and read 1&amp;#x00AA;." title='DE TRAFFORD ESTATES BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/de-trafford-estates-bill-hl'></outline>
+    <outline id='2230214' text='Committee to meet on Tuesday next.' title='HASTINGS TRAMWAYS (EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/hastings-tramways-extension-bill-hl'></outline>
+    <outline id='2230216' text='Report of Amendments (which stands appointed for Tuesday next) put off to the First Sitting Day after the Recess at Whitsuntide.' title='LAW OF PROPERTY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/law-of-property-bill-hl'></outline>
+    <outline id='2230218' text='Brought from the Commons; read 1&amp;#x00AA;; to be printed; and referred to the Examiners.' title='PERTH CORPORATION PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/perth-corporation-provisional-order-bill'></outline>
+    <outline id='2230220' text='Message from the Commons for copy of the Minutes of Evidence taken before this House, together with the proceedings and the documents deposited in the ease: Ordered to be communicated with a request that they may be returned.' title="DOUPE'S DIVORCE BILL. [H.L.]" type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/may/04/doupes-divorce-bill-hl'></outline>
+  </body>
+</opml>

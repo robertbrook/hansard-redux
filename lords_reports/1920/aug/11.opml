@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 11 August 1920</title>
+    <dateCreated>Wed, 11 Aug 1920 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2216013' text='Commons Amendments considered, and agreed to.' title='SALFORD CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/aug/11/salford-corporation-bill-hl'></outline>
+    <outline id='2216015' text='Brought from the Commons; read l&lt;sup&gt;a;&lt;/sup&gt; to be printed; and (pursuant to the Private Legislation Procedure (Scotland) Act, 1899, section 7), deemed to have been read 2&lt;sup&gt;a&lt;/sup&gt; (Lord Stanmore), and reported from the Committee.' title='ALLOA WATER ORDER CONFIRMATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/aug/11/alloa-water-order-confirmation-bill'></outline>
+    <outline id='2216017' text='Returned from the Commons, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDER (WIDNES EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/aug/11/ministry-of-health-provisional-order'></outline>
+    <outline id='2216019' text='BRISTOL CORPORATION BILL.&lt;br/&gt;SOUTHEND-ON-SEA GAS BILL.&lt;br/&gt;LONDONDERRY CORPORATION BILL.&lt;br/&gt;ERITH IMPROVEMENT BILL.&lt;br/&gt;Returned from the Commons, with the Amendments, agreed to.' title='LONDON ELECTRIC RAILWAY COMPANIES (FARES, ETC.) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/aug/11/london-electric-railway-companies-fares'></outline>
+    <outline id='2216021' text='WORKINGTON HARBOUR AND DOCK BILL. [H.L.]&lt;br/&gt;Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='MANCHESTER SHIP CANAL BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/aug/11/manchester-ship-canal-bill-hl'></outline>
+  </body>
+</opml>

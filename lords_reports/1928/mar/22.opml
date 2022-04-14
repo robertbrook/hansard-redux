@@ -1,0 +1,23 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 22 March 1928</title>
+    <dateCreated>Thu, 22 Mar 1928 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2249835' text="Message from the Commons that they have ordered that the Committee appointed by them to join with the Committee of this House, do meet the Lord's Committee in the Grand Committee Room, Westminster Hall, on Thursday, April 26 next, at eleven o'clock." title='RAILWAY (ROAD TRANSPORT) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/railway-road-transport-bill'></outline>
+    <outline id='2249837' text='Witness ordered to attend the Select Committee.' title='SOUTH ESSEX WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/south-essex-waterworks-bill-hl'></outline>
+    <outline id='2249838' text='BRADFORD CORPORATION BILL. [H.L.]'>
+      <outline id='2249839' text='The Order made on the 1st instant appointing certain Lords the Select Committee to consider the Bills discharged.' title='TOTTENHAM AND DISTRICT GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/tottenham-and-district-gas-bill-hl'></outline>
+    </outline>
+    <outline id='2249840' text='Report from the Select Committee, That the Committee had not proceeded with the consideration of the Bill, the opposition thereto having been withdrawn: Read, and ordered to lie on the Table: The Orders made on the 14th instant discharged, and Bill committed.' title='WEALD ELECTRICITY SUPPLY BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/weald-electricity-supply-bill-hl'></outline>
+    <outline id='2249841' text='SUNDERLAND CORPORATION BILL.'>
+      <outline id='2249843' text='Committed for Tuesday next.' title='BARNET DISTRICT GAS AND WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/barnet-district-gas-and-water-bill'></outline>
+    </outline>
+    <outline id='2249845' text='Second Report by the Select Committee made, to be printed, and to be considered on Tuesday next.' title='HOUSE OF LORDS OFFICES.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1928/mar/22/house-of-lords-offices'></outline>
+  </body>
+</opml>

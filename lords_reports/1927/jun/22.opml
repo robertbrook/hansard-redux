@@ -1,0 +1,26 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 22 June 1927</title>
+    <dateCreated>Wed, 22 Jun 1927 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2226313' text='CHIPPING WYCOMBE CORPORATION BILL.'>
+      <outline id='2226314' text='Committees to meet on Tuesday next.' title='BRISTOL WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/22/bristol-water-bill'></outline>
+    </outline>
+    <outline id='2226315' text='WESTGATE AND MRCHINGTON WATER BILL.'>
+      <outline id='2226317' text='Reported, with Amendments.' title='MERSEY TUNNEL (BIRKENHEAD ENTRANCE, &amp;c.) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/22/mersey-tunnel-birkenhead-entrance-c-bill'></outline>
+    </outline>
+    <outline id='2226320' text='Reported, without amendment.' title='WEST BRIDGFORD URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/22/west-bridgford-urban-district-council'></outline>
+    <outline id='2226321' text='SMETHWICK CORPORATION BILL.'>
+      <outline id='2226322' text='Committed: The Committees to be proposed by the Committee of Selection.' title='SWANSEA CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/22/swansea-corporation-bill'></outline>
+    </outline>
+    <outline id='2226323' text='PIER AND HARBOUR PROVISIONAL ORDERS (No. 1) BILL.'>
+      <outline id='2226325' text='Committees to meet on Tuesday next.' title='SHEFFIELD CORPORATION TRAMWAYS PROVISIONAL ORDER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1927/jun/22/sheffield-corporation-tramways'></outline>
+    </outline>
+  </body>
+</opml>

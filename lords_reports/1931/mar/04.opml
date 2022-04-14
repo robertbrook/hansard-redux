@@ -1,0 +1,15 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 4 March 1931</title>
+    <dateCreated>Wed, 04 Mar 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2290079' text='The Order made on Thursday last, appointing certain Lords the Select Committee to consider the Bill, discharged.' title='COVENTRY EXTENSION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/04/coventry-extension-bill-hl'></outline>
+    <outline id='2290080' text='Committed: The Committee to be proposed by the Committee of Selection.&lt;br/&gt;Report from the Committee of Selection, That the five Lords appointed a Select Committee on the Yorkshire (Woollen District) Transport Bill [H.L.] and another Bill do form the Select Committee for the consideration of the London Squares Preservation Bill [H.L.]: Read, and agreed to: All Petitions referred to the Committee, with leave to the Petitioners praying to be heard by Counsel against the Bill to be heard as desired, as also Counsel for the Bill.' title='LONDON SQUARES PRESERVA TION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/mar/04/london-squares-preserva-tion-bill-hl'></outline>
+  </body>
+</opml>

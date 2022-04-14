@@ -1,0 +1,30 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 19 May 1920</title>
+    <dateCreated>Wed, 19 May 1920 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2226439' text='SOUTHAMPTON CORPORATION BILL.'>
+      <outline id='2226440' text='SWANSEA CORPORATION BILL.'>
+        <outline id='2226441' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='WOOD GREEN URBAN DISTRICT COUNCIL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/wood-green-urban-district-council-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2226442' text='Returned from the Commons with the Amendment, agreed to.' title='TRAMWAYS (TEMPORARY INCREASE OF CHARGES) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/tramways-temporary-increase-of-charges'></outline>
+    <outline id='2226444' text='Committee (which stands appointed for this day) put off &lt;i&gt;sine die&lt;/i&gt;.' title='SEAHAM HARBOUR DOCK BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/seaham-harbour-dock-bill'></outline>
+    <outline id='2226446' text='Commons Amendments considered and agreed to.' title='LANCASTER CORPORATION WATER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/lancaster-corporation-water-bill-hl'></outline>
+    <outline id='2226447' text='MINISTRY OF HEALTH PROVISIONAL ORDER (NEW WINDSOR EXTENSION) BILL. [H.L.]'>
+      <outline id='2226448' text='MINISTRY OF HEALTH PROVISIONAL ORDER (WIDNES EXTENSION) BILL [H.L.]'>
+        <outline id='2226449' text='To be read 2&lt;sup&gt;a&lt;/sup&gt; on Tuesday, the 8th of June next (Viscount Astor).' title='MINISTRY OF HEALTH PROVISIONAL ORDER (CHESTERFIELD EXTENSION) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/ministry-of-health-provisional-order-1'></outline>
+      </outline>
+    </outline>
+    <outline id='2226450' text='PORT OF PORTSMOUTH FLOATING BRIDGE BILL.'>
+      
+    </outline>
+    <outline id='2226453' text='Committed: The Committee to be proposed by the Committee of Selection.' title='HUDDERSFIELD CORPORATION (GENERAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1920/may/19/huddersfield-corporation-general-powers'></outline>
+  </body>
+</opml>

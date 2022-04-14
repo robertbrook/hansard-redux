@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 16 July 1925</title>
+    <dateCreated>Thu, 16 Jul 1925 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2243603' text='WALSALL CORPORATION BILL.'>
+      <outline id='2243604' text='Committed: The Committees to be proposed by the Committee of Selection.' title='MANCHESTER SHIP CANAL BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/manchester-ship-canal-bill'></outline>
+    </outline>
+    <outline id='2243605' text='Committee to meet on Tuesday next.&lt;br/&gt;The LORD CHANCELLOR acquainted the House, that the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the further Standing Orders applicable to the following Bill have been complied with:&lt;br/&gt;London County Council (Money).&lt;br/&gt;The same was ordered to lie on the Table.' title='SLOUGH TRADING COMPANY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/slough-trading-company-bill'></outline>
+    <outline id='2243608' text='BATH CORPORATION BILL.'>
+      <outline id='2243609' text='BURNLEY CORPORATION BILL.'>
+        <outline id='2243610' text="Report from the Committee of Selection, That the following Lords be proposed to the House to form the Select Committee for the consideration of the said Bills; namely:&amp;#x2014;&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;E. Strafford,&lt;/li&gt;&#x000A;&lt;li&gt;V. Falkland,&lt;/li&gt;&#x000A;&lt;li&gt;L. Castlemaine,&lt;/li&gt;&#x000A;&lt;li&gt;L. Strachie (Chairman),&lt;/li&gt;&#x000A;&lt;li&gt;L. Meston;&lt;/li&gt;&#x000A;&lt;/ul&gt;&#x000A;agreed to; and the said Lords appointed accordingly: The Committee to meet on Thursday next, at eleven o'clock; and all Petitions referred to the Committee, with leave to the Petitioners praying to be heard by Counsel against the Bills to be heard as desired, as also Counsel for the Bills." title='BRADFORD CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/bradford-corporation-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2243611' text='Reported from the Select Committee, with Amendments.' title='LONDON COUNTY COUNCIL (GENERAL POWERS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/london-county-council-general-powers-bill'></outline>
+    <outline id='2243612' text='Reported from the Select Committee, without amendment.' title='SOUTH METROPOLITAN GAS BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/south-metropolitan-gas-bill'></outline>
+    <outline id='2243614' text='Second Reading (which stands appointed for this day) put off to Monday next.' title='MINISTERS OF RELIGION (REMOVAL OF DISQUALIFICATIONS) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1925/jul/16/ministers-of-religion-removal-of'></outline>
+  </body>
+</opml>

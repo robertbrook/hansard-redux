@@ -1,0 +1,20 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 29 January 1929</title>
+    <dateCreated>Tue, 29 Jan 1929 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2285439' text='The Earl Howe&amp;#x2014;Sat first in Parliament after the death of his father.' title='Preamble' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jan/29/preamble'></outline>
+    <outline id='2285440' text='Proceedings of Thursday last with respect to, ordered to be vacated.&lt;br/&gt;The LORD CHANCELLOR acquainted the House, That the Clerk of the Parliaments had laid upon the Table the Certificate from the Examiners that the Standing Orders applicable to the following Bill have not been complied with:&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;Birmingham Corporation (General Powers).&lt;/li&gt;&#x000A;&lt;li&gt;The same was ordered to lie on the Table.&lt;/li&gt;&#x000A;&lt;/ul&gt;' title='BIRMINGHAM CORPORATION (GENERAL POWERS) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jan/29/birmingham-corporation-general-powers'></outline>
+    <outline id='2285441' text='UTTOXETER ELECTRICITY ORDER, 1928.'>
+      <outline id='2285442' text='BRIGHTON ELECTRICITY (EXTENSION) ORDER, 1928.'>
+        <outline id='2285443' text="&lt;b&gt;TUNBRIDGE WELLS ELECTRICITY (EXTENSION) ORDER, 1928.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LINLITHGOW AND FALKIRK DISTRICT ELECTRICITY (EXTENSION) ORDER, 1928.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LYTHAM SAINT ANNE'S ELECTRICITY (EXTENSION) ORDER, 1928.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;NORTH WEST MIDLANDS ELECTRICITY DISTRICT ORDER, 1928.&lt;/b&gt;&lt;br/&gt;Report from the Special Orders Committee, that no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House: Read, and ordered to lie on the Table." title='GRAVESEND ELECTRICITY (EXTENSION) ORDER, 1928.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1929/jan/29/gravesend-electricity-extension-order'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

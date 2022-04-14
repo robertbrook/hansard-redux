@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 18 June 1930</title>
+    <dateCreated>Wed, 18 Jun 1930 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2255941' text='Returned from the Commons, agreed to.' title='LOCHABER WATER POWER BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/lochaber-water-power-bill-hl'></outline>
+    <outline id='2255943' text='Petition of Messrs. Lewin, Gregory, Torr, Durnford and Company, of 2, Millbank House, Westminster, Parliamentary Agents, praying for leave to present a Petition of Messrs. J. and W. Nicholson and Company, Limited, praying to be heard by Counsel against the Bill, although the time limited by Standing Order No. 92 for presenting such Petition has expired: Read, and ordered to lie on the Table, and Standing Order No. 92 to be considered tomorrow in order to its being dispensed with in respect of the said Petition.' title='RIVER LEE (FLOOD RELIEF, &amp;c.) BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/river-lee-flood-relief-c-bill-hl'></outline>
+    <outline id='2255944' text='Reported from the Select Committee, with Amendments.' title='LONDON UNITED TRAMWAYS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/london-united-tramways-bill-hl'></outline>
+    <outline id='2255945' text='LONDON AND NORTH EASTERN RAILWAY (No. 2) BILL.'>
+      <outline id='2255946' text='LONDON MIDLAND AND SCOTTISH RAILWAY (No. 2) BILL.'>
+        <outline id='2255947' text='ROCHDALE CORPORATION (No. 2) BILL.&lt;br/&gt;DARTFORD AND PURFLEET (THAMES) TUNNEL BILL.&lt;br/&gt;Report from the Committee of Selection, That the Lord Alington and the Lord Tweeddale (&lt;i&gt;M. TWeeddale&lt;/i&gt;) be proposed to the House as members of the Select Committee on the said Bills in the place of the Earl of Westmorland and the Lord Hindlip: Read, and agreed to.' title='SOUTHERN RAILWAY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/southern-railway-bill'></outline>
+      </outline>
+    </outline>
+    <outline id='2255949' text='Commons Amendments considered, and agreed to.' title='LANCASTER CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/lancaster-corporation-bill-hl'></outline>
+    <outline id='2255953' text='ROTHERHAM CORPORATION BILL.'>
+      <outline id='2255955' text='Committed The Committees to be proposed by the Committee of Selection.' title='MANCHESTER CORPORATION (GENERAL POWERS) (No. 2) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1930/jun/18/manchester-corporation-general-powers-no'></outline>
+    </outline>
+  </body>
+</opml>

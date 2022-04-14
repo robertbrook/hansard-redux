@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 27 July 1922</title>
+    <dateCreated>Thu, 27 Jul 1922 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2219714' text='LAMBETH BOROUGH COUNCIL (SUPERANNUATION) BILL.'>
+      <outline id='2219715' text='Brought from the Commons; read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='SHOREDITCH AND OTHER METROPOLI TAN BOROUGH COUNCILS (SUPERANNUATION) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/shoreditch-and-other-metropoli-tan'></outline>
+    </outline>
+    <outline id='2219716' text='Returned from the Commons, agreed to.' title='NAVAL DISCIPLINE BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/naval-discipline-bill-hl'></outline>
+    <outline id='2219717' text='Returned from the Commons, with the Amendments, agreed to.' title='NATIONAL HEALTH INSURANCE BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/national-health-insurance-bill'></outline>
+    <outline id='2219718' text='Returned from the Commons, with the Amendments, agreed to.' title='MINISTRY OF HEALTH PROVISIONAL ORDERS (No. 10) BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/ministry-of-health-provisional-orders-no'></outline>
+    <outline id='2219720' text='Returned from the Commons, with the Amendments, agreed to.' title='BIRMINGHAM CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/birmingham-corporation-bill'></outline>
+    <outline id='2219722' text='Returned from the Commons, agreed to, with Amendments: The said Amendments considered, and agreed to.' title='NORTH METROPOLITAN ELECTRIC POWER SUPPLY BILL, [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1922/jul/27/north-metropolitan-electric-power-supply'></outline>
+  </body>
+</opml>

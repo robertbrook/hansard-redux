@@ -1,0 +1,18 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 8 July 1931</title>
+    <dateCreated>Wed, 08 Jul 1931 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2297727' text='Reported, with Amendments.' title='METROPOLITAN WATER BOARD BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/08/metropolitan-water-board-bill'></outline>
+    <outline id='2297728' text='Reported from the Select Committee, with Amendments.' title='SOUTHAMPTON CORPORATION BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/08/southampton-corporation-bill'></outline>
+    <outline id='2297729' text='Reported from the Select Committee, with Amendments.' title='SALVATION ARMY BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/08/salvation-army-bill'></outline>
+    <outline id='2297730' text='Special Order proposed to be made on the application of the Mayor, aldermen and burgesses of the Borough of Abergavenny:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='ABERGAVENNY GAS ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/08/abergavenny-gas-order-1931'></outline>
+    <outline id='2297731' text='Special Order proposed to be made on the application of the Urban District Council of Wombwell:&lt;br/&gt;Laid before the House (pursuant to Act) and referred to the Special Orders Committee.' title='WOMBWELL GAS ORDER, 1931.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1931/jul/08/wombwell-gas-order-1931'></outline>
+  </body>
+</opml>

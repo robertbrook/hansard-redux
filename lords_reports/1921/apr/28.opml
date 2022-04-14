@@ -1,0 +1,25 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 28 April 1921</title>
+    <dateCreated>Thu, 28 Apr 1921 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2231485' text="The King's consent signified, and Bill reported from the Select Committee, with Amendments." title='GRIMSBY CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/grimsby-corporation-bill-hl'></outline>
+    <outline id='2231487' text="The King's consent signified, and Bill reported from the Select Committee, with Amendments." title='LIVERPOOL CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/liverpool-corporation-bill-hl'></outline>
+    <outline id='2231488' text='Reported from the Select Committee, with Amendments.' title='TENDRING HUNDRED WATER AND GAS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/tendring-hundred-water-and-gas-bill-hl'></outline>
+    <outline id='2231489' text='CATTEDOWN WHARVES BILL. [H.L.]'>
+      <outline id='2231490' text='Committees to meet on Tuesday next.' title='HERTS AND ESSEX WATER BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/herts-and-essex-water-bill'></outline>
+    </outline>
+    <outline id='2231491' text='SOUTH EAST ESSEX WATER BILL. [H.L.]'>
+      <outline id='2231493' text='SOUTHEND WATER BILL. [H.L.]'>
+        <outline id='2231494' text='Report from the Committee of Selection, That the Earl of Stamford and Lord Ebury be proposed to the House as members of the Select Committee on the said Bills in the place of Lord Monteagle (&lt;i&gt;M. Sligo&lt;/i&gt;) and Lord Rotherham; read, and agreed to.' title='SOUTH ESSEX WATERWORKS BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/south-essex-waterworks-bill-hl'></outline>
+      </outline>
+    </outline>
+    <outline id='2231495' text='Consideration of Commons Amendments (which stands appointed for this day) put off to Tuesday next.' title='FORTH CONSERVANCY ORDER CONFIRMATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1921/apr/28/forth-conservancy-order-confirmation'></outline>
+  </body>
+</opml>

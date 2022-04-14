@@ -1,0 +1,19 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 6 December 1938</title>
+    <dateCreated>Tue, 06 Dec 1938 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2296913' text='Report from the Special Orders Committee, that they have examined the draft Order, as required by the Standing Orders of the House; that no Petition has been presented, praying to be heard against the draft Order; that in the opinion of the Committee the provisions of the draft Order raise important questions of policy and principle; that the draft Order is founded on precedent inasmuch as a similar Order has been submitted for the approval of Parliament under the Act; that in the opinion of the Committee, the draft Order cannot be passed by the House without special attention, but that no further inquiry is necessary before the House proceeds to a decision on the Resolution to approve the said Order:&lt;br/&gt;Read, and ordered to lie on the Table.' title='LAND REGISTRATION ACT, 1925 (CROYDON ORDER IN COUNCIL).' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/dec/06/land-registration-act-1925-croydon-order'></outline>
+    <outline id='2296914' text='ASHBY-DE-LA-ZOUCH GAS ORDER, 1938.'>
+      <outline id='2296915' text='DARTMOUTH GAS ORDER, 1938.'>
+        <outline id='2296916' text='&lt;b&gt;SUNDERLAND GAS ORDER, 1938.&lt;/b&gt;&lt;br/&gt;Report from the Special Orders Committee, That no Petition has been presented praying to be heard against the Special Orders, and that there is nothing in these Orders to which they think it necessary to call the attention of the House:&lt;br/&gt;Read, and ordered to lie on the Table.' title='LANARKSHIRE ELECTRICITY ORDER, 1938.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1938/dec/06/lanarkshire-electricity-order-1938'></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1/" encoding="UTF-8"?>
+<opml version='2/'>
+  <head>
+    <title>Lords Report of 9 May 1923</title>
+    <dateCreated>Wed, 09 May 1923 00:00:00 +0000</dateCreated>
+    <ownerName>UK Parliament</ownerName>
+    <ownerEmail>mail@robertbrook.com</ownerEmail>
+    <ownerId>http://www.parliament.uk</ownerId>
+    <docs>http://www.opml.org/spec2</docs>
+  </head>
+  <body>
+    <outline id='2236173' text='SEAHAM HARBOUR DOCK.'>
+      <outline id='2236174' text="Examiner's Certificate of non-compliance with the Standing Orders referred to the Standing Orders Committee on Tuesday next." title='PETITION FOR BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/petition-for-bill'></outline>
+      <outline id='2236177' text="The King's consent signified, and Bill reported from the Select Committee with Amendments.&lt;br/&gt;&lt;b&gt;HAWKSHEAD MISSION CHAPEL CHARITY BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;LUCAS'S HOSPITAL CHARITY BILL.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;TANCRED'S CHARITIES BILL.&lt;/b&gt;&lt;br/&gt;Referred to the Examiners." title='STOKE-ON-TRENT CORPORATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/stoke-on-trent-corporation-bill-hl'></outline>
+      <outline id='2236179' text='Brought from the Commons: read 1&lt;sup&gt;a&lt;/sup&gt;; and referred to the Examiners.' title='BANK OF ENGLAND BILL.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/bank-of-england-bill'></outline>
+      <outline id='2236180' text="Message from the Commons to acquaint this House that they have appointed a Committee of eleven Members to join with the Committee appointed by this House, as mentioned in their Lordships' Message of Thursday last." title='STANDING JOINT COMMITTEE ON INDIAN AFFAIRS.' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/standing-joint-committee-on-indian'></outline>
+      <outline id='2236182' text='Committee of the Whole House (which stands appointed for Tuesday next) put off &lt;i&gt;sine die&lt;/i&gt;.' title='CARRIAGE OF GOODS BY SEA BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/carriage-of-goods-by-sea-bill-hl'></outline>
+      <outline id='2236184' text='Committee of the Whole House (which stands appointed for to morrow) put off to Tuesday next.' title='ADVERTISEMENTS REGULATION BILL. [H.L.]' type='link' url='http://hansard.millbanksystems.comhttp://hansard.millbanksystems.com/lords_reports/1923/may/09/advertisements-regulation-bill-hl'></outline>
+    </outline>
+  </body>
+</opml>
